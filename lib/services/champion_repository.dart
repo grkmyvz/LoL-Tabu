@@ -7,14 +7,27 @@ import '../models/champion.dart';
 class ChampionRepository {
   Future<List<Champion>> loadChampions(String languageCode) async {
     final allowedChampionIds = await _loadAllowedChampionIds();
+    final globalBundle = await _loadChampionBundle(
+      'assets/data/global/champion_bundle.json',
+      description: 'global champion bundle',
+    );
+    final localizedBundle = await _loadChampionBundle(
+      'assets/data/$languageCode/champion_bundle.json',
+      description: 'localized champion bundle for $languageCode',
+    );
 
     final List<Champion> champions = [];
 
     for (final championId in allowedChampionIds) {
-      final globalJson = await _loadGlobalChampionById(championId);
-      final localizedJson = await _loadLocalizedChampionById(
-        languageCode: languageCode,
+      final globalJson = _championDataFromBundle(
+        bundle: globalBundle,
         championId: championId,
+        bundleDescription: 'global champion bundle',
+      );
+      final localizedJson = _championDataFromBundle(
+        bundle: localizedBundle,
+        championId: championId,
+        bundleDescription: 'localized champion bundle for $languageCode',
       );
 
       champions.add(
@@ -41,34 +54,30 @@ class ChampionRepository {
         .toList();
   }
 
-  Future<Map<String, dynamic>> _loadGlobalChampionById(
-    String championId,
-  ) async {
-    final rawData = await _loadAsset(
-      'assets/data/global/champions/$championId.json',
-    );
-    final decoded = json.decode(rawData);
-    if (decoded is! Map<String, dynamic>) {
-      throw Exception('Invalid global champion data for id: $championId');
-    }
-
-    return decoded;
-  }
-
-  Future<Map<String, dynamic>> _loadLocalizedChampionById({
-    required String languageCode,
-    required String championId,
+  Future<Map<String, dynamic>> _loadChampionBundle(
+    String path, {
+    required String description,
   }) async {
-    final path = 'assets/data/$languageCode/champions/$championId.json';
     final rawData = await _loadAsset(path);
     final decoded = json.decode(rawData);
     if (decoded is! Map<String, dynamic>) {
+      throw Exception('Invalid $description at $path');
+    }
+    return decoded;
+  }
+
+  Map<String, dynamic> _championDataFromBundle({
+    required Map<String, dynamic> bundle,
+    required String championId,
+    required String bundleDescription,
+  }) {
+    final championData = bundle[championId];
+    if (championData is! Map<String, dynamic>) {
       throw Exception(
-        'Invalid localized champion data for id: $championId in $languageCode',
+        'Champion "$championId" is missing or invalid in $bundleDescription',
       );
     }
-
-    return decoded;
+    return championData;
   }
 
   Future<String> _loadAsset(String path) async {

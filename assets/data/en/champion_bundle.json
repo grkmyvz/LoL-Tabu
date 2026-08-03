@@ -1,0 +1,1732 @@
+{
+  "aatrox": {
+    "id": "aatrox",
+    "forbiddenWords": [
+      "Darkin",
+      "Sword",
+      "World Ender",
+      "Demon",
+      "Top"
+    ]
+  },
+  "ahri": {
+    "id": "ahri",
+    "forbiddenWords": [
+      "Fox",
+      "Charm",
+      "Orb",
+      "Nine Tails",
+      "Spirit Rush"
+    ]
+  },
+  "akali": {
+    "id": "akali",
+    "forbiddenWords": [
+      "Ninja",
+      "Smoke",
+      "Kunai",
+      "Shuriken",
+      "Assassin"
+    ]
+  },
+  "akshan": {
+    "id": "akshan",
+    "forbiddenWords": [
+      "Revive",
+      "Grappling Hook",
+      "Boomerang",
+      "Sentinel",
+      "Swing"
+    ]
+  },
+  "alistar": {
+    "id": "alistar",
+    "forbiddenWords": [
+      "Bull",
+      "Cow",
+      "Headbutt",
+      "Pulverize",
+      "Support"
+    ]
+  },
+  "ambessa": {
+    "id": "ambessa",
+    "forbiddenWords": [
+      "Medarda",
+      "Noxus",
+      "Arcane",
+      "General",
+      "Chains"
+    ]
+  },
+  "amumu": {
+    "id": "amumu",
+    "forbiddenWords": [
+      "Mummy",
+      "Sad",
+      "Bandage",
+      "Cry",
+      "Curse"
+    ]
+  },
+  "anivia": {
+    "id": "anivia",
+    "forbiddenWords": [
+      "Ice",
+      "Egg",
+      "Wall",
+      "Phoenix",
+      "Bird"
+    ]
+  },
+  "annie": {
+    "id": "annie",
+    "forbiddenWords": [
+      "Tibbers",
+      "Bear",
+      "Fire",
+      "Stun",
+      "Child"
+    ]
+  },
+  "aphelios": {
+    "id": "aphelios",
+    "forbiddenWords": [
+      "Alune",
+      "Moon",
+      "Five Weapons",
+      "Guns",
+      "Marksman"
+    ]
+  },
+  "ashe": {
+    "id": "ashe",
+    "forbiddenWords": [
+      "Bow",
+      "Arrow",
+      "Ice",
+      "Freljord",
+      "Stun"
+    ]
+  },
+  "aurelionsol": {
+    "id": "aurelionsol",
+    "forbiddenWords": [
+      "Dragon",
+      "Stars",
+      "Space",
+      "Celestial",
+      "Black Hole"
+    ]
+  },
+  "aurora": {
+    "id": "aurora",
+    "forbiddenWords": [
+      "Rabbit",
+      "Spirit",
+      "Freljord",
+      "Witch",
+      "Realm"
+    ]
+  },
+  "azir": {
+    "id": "azir",
+    "forbiddenWords": [
+      "Shurima",
+      "Emperor",
+      "Sand Soldiers",
+      "Shuffle",
+      "Bird"
+    ]
+  },
+  "bard": {
+    "id": "bard",
+    "forbiddenWords": [
+      "Meeps",
+      "Chimes",
+      "Portal",
+      "Golden",
+      "Roam"
+    ]
+  },
+  "belveth": {
+    "id": "belveth",
+    "forbiddenWords": [
+      "Void",
+      "Manta Ray",
+      "Empress",
+      "Lavender",
+      "Attack Speed"
+    ]
+  },
+  "blitzcrank": {
+    "id": "blitzcrank",
+    "forbiddenWords": [
+      "Hook",
+      "Robot",
+      "Grab",
+      "Knock Up",
+      "Zaun"
+    ]
+  },
+  "brand": {
+    "id": "brand",
+    "forbiddenWords": [
+      "Fire",
+      "Burn",
+      "Stun",
+      "Flames",
+      "Explosion"
+    ]
+  },
+  "braum": {
+    "id": "braum",
+    "forbiddenWords": [
+      "Shield",
+      "Mustache",
+      "Freljord",
+      "Door",
+      "Poros"
+    ]
+  },
+  "briar": {
+    "id": "briar",
+    "forbiddenWords": [
+      "Blood",
+      "Frenzy",
+      "Hunger",
+      "Feet",
+      "Pillory"
+    ]
+  },
+  "caitlyn": {
+    "id": "caitlyn",
+    "forbiddenWords": [
+      "Sniper",
+      "Rifle",
+      "Trap",
+      "Piltover",
+      "Sheriff"
+    ]
+  },
+  "camille": {
+    "id": "camille",
+    "forbiddenWords": [
+      "Scissor Legs",
+      "Hextech",
+      "Hookshot",
+      "True Damage",
+      "Ferros"
+    ]
+  },
+  "cassiopeia": {
+    "id": "cassiopeia",
+    "forbiddenWords": [
+      "Snake",
+      "Poison",
+      "Petrify",
+      "Fangs",
+      "No Boots"
+    ]
+  },
+  "chogath": {
+    "id": "chogath",
+    "forbiddenWords": [
+      "Feast",
+      "Void",
+      "Monster",
+      "Stacks",
+      "Grow"
+    ]
+  },
+  "corki": {
+    "id": "corki",
+    "forbiddenWords": [
+      "Plane",
+      "Yordle",
+      "Missile",
+      "Pilot",
+      "Mustache"
+    ]
+  },
+  "darius": {
+    "id": "darius",
+    "forbiddenWords": [
+      "Axe",
+      "Noxus",
+      "Dunk",
+      "Bleed",
+      "Guillotine"
+    ]
+  },
+  "diana": {
+    "id": "diana",
+    "forbiddenWords": [
+      "Moon",
+      "Lunari",
+      "Crescent",
+      "Dash",
+      "Leona"
+    ]
+  },
+  "drmundo": {
+    "id": "drmundo",
+    "forbiddenWords": [
+      "Doctor",
+      "Cleaver",
+      "Purple",
+      "Regeneration",
+      "Goes Where He Pleases"
+    ]
+  },
+  "draven": {
+    "id": "draven",
+    "forbiddenWords": [
+      "Axes",
+      "Catch",
+      "Noxus",
+      "Executioner",
+      "Adoration"
+    ]
+  },
+  "ekko": {
+    "id": "ekko",
+    "forbiddenWords": [
+      "Time",
+      "Zaun",
+      "Chronobreak",
+      "Rewind",
+      "Z-Drive"
+    ]
+  },
+  "elise": {
+    "id": "elise",
+    "forbiddenWords": [
+      "Spider",
+      "Cocoon",
+      "Web",
+      "Rappel",
+      "Transform"
+    ]
+  },
+  "evelynn": {
+    "id": "evelynn",
+    "forbiddenWords": [
+      "Invisible",
+      "Charm",
+      "Demon",
+      "Stealth",
+      "KDA"
+    ]
+  },
+  "ezreal": {
+    "id": "ezreal",
+    "forbiddenWords": [
+      "Gauntlet",
+      "Explorer",
+      "Mystic Shot",
+      "Blink",
+      "Arcane"
+    ]
+  },
+  "fiddlesticks": {
+    "id": "fiddlesticks",
+    "forbiddenWords": [
+      "Scarecrow",
+      "Fear",
+      "Crow",
+      "Drain",
+      "Crowstorm"
+    ]
+  },
+  "fiora": {
+    "id": "fiora",
+    "forbiddenWords": [
+      "Duelist",
+      "Vital",
+      "Parry",
+      "Rapier",
+      "True Damage"
+    ]
+  },
+  "fizz": {
+    "id": "fizz",
+    "forbiddenWords": [
+      "Shark",
+      "Trident",
+      "Fish",
+      "Untargetable",
+      "Bilgewater"
+    ]
+  },
+  "galio": {
+    "id": "galio",
+    "forbiddenWords": [
+      "Gargoyle",
+      "Demacia",
+      "Colossus",
+      "Magic",
+      "Taunt"
+    ]
+  },
+  "gangplank": {
+    "id": "gangplank",
+    "forbiddenWords": [
+      "Barrel",
+      "Pirate",
+      "Orange",
+      "Bilgewater",
+      "Cannon"
+    ]
+  },
+  "garen": {
+    "id": "garen",
+    "forbiddenWords": [
+      "Demacia",
+      "Spin",
+      "Sword",
+      "Silence",
+      "Justice"
+    ]
+  },
+  "gnar": {
+    "id": "gnar",
+    "forbiddenWords": [
+      "Mega",
+      "Boomerang",
+      "Rage",
+      "Yordle",
+      "Transform"
+    ]
+  },
+  "gragas": {
+    "id": "gragas",
+    "forbiddenWords": [
+      "Barrel",
+      "Beer",
+      "Belly",
+      "Freljord",
+      "Body Slam"
+    ]
+  },
+  "graves": {
+    "id": "graves",
+    "forbiddenWords": [
+      "Shotgun",
+      "Smoke",
+      "Bilgewater",
+      "Twisted Fate",
+      "Reload"
+    ]
+  },
+  "gwen": {
+    "id": "gwen",
+    "forbiddenWords": [
+      "Scissors",
+      "Doll",
+      "Needle",
+      "Mist",
+      "Snip Snip"
+    ]
+  },
+  "hecarim": {
+    "id": "hecarim",
+    "forbiddenWords": [
+      "Horse",
+      "Centaur",
+      "Charge",
+      "Shadow Isles",
+      "Fear"
+    ]
+  },
+  "heimerdinger": {
+    "id": "heimerdinger",
+    "forbiddenWords": [
+      "Turret",
+      "Scientist",
+      "Yordle",
+      "Piltover",
+      "Big Head"
+    ]
+  },
+  "hwei": {
+    "id": "hwei",
+    "forbiddenWords": [
+      "Painter",
+      "Brush",
+      "Jhin",
+      "Ten Abilities",
+      "Colors"
+    ]
+  },
+  "illaoi": {
+    "id": "illaoi",
+    "forbiddenWords": [
+      "Tentacles",
+      "Spirit",
+      "Nagakabouros",
+      "Idol",
+      "Bilgewater"
+    ]
+  },
+  "irelia": {
+    "id": "irelia",
+    "forbiddenWords": [
+      "Blades",
+      "Ionia",
+      "Dash",
+      "Minion",
+      "Blade Dancer"
+    ]
+  },
+  "ivern": {
+    "id": "ivern",
+    "forbiddenWords": [
+      "Tree",
+      "Daisy",
+      "Friend of the Forest",
+      "Bush",
+      "Jungle"
+    ]
+  },
+  "janna": {
+    "id": "janna",
+    "forbiddenWords": [
+      "Wind",
+      "Tornado",
+      "Shield",
+      "Zephyr",
+      "Support"
+    ]
+  },
+  "jarvaniv": {
+    "id": "jarvaniv",
+    "forbiddenWords": [
+      "Demacia",
+      "Prince",
+      "Flag",
+      "Cataclysm",
+      "EQ"
+    ]
+  },
+  "jax": {
+    "id": "jax",
+    "forbiddenWords": [
+      "Lamp",
+      "Counter Strike",
+      "Icathia",
+      "Grandmaster",
+      "Bonk"
+    ]
+  },
+  "jayce": {
+    "id": "jayce",
+    "forbiddenWords": [
+      "Hammer",
+      "Cannon",
+      "Piltover",
+      "Viktor",
+      "Shock Blast"
+    ]
+  },
+  "jhin": {
+    "id": "jhin",
+    "forbiddenWords": [
+      "Four",
+      "Mask",
+      "Art",
+      "Virtuoso",
+      "Fourth Shot"
+    ]
+  },
+  "jinx": {
+    "id": "jinx",
+    "forbiddenWords": [
+      "Powder",
+      "Rocket",
+      "Zaun",
+      "Arcane",
+      "Vi"
+    ]
+  },
+  "ksante": {
+    "id": "ksante",
+    "forbiddenWords": [
+      "Nazumah",
+      "All Out",
+      "Tank",
+      "Ntofos",
+      "Shurima"
+    ]
+  },
+  "kaisa": {
+    "id": "kaisa",
+    "forbiddenWords": [
+      "Void",
+      "KDA",
+      "Evolve",
+      "Plasma",
+      "Suit"
+    ]
+  },
+  "kalista": {
+    "id": "kalista",
+    "forbiddenWords": [
+      "Spear",
+      "Oathsworn",
+      "Vengeance",
+      "Rend",
+      "Shadow Isles"
+    ]
+  },
+  "karma": {
+    "id": "karma",
+    "forbiddenWords": [
+      "Mantra",
+      "Ionia",
+      "Shield",
+      "Empowered",
+      "Tether"
+    ]
+  },
+  "karthus": {
+    "id": "karthus",
+    "forbiddenWords": [
+      "Requiem",
+      "Global Ult",
+      "Death",
+      "Lay Waste",
+      "Lich"
+    ]
+  },
+  "kassadin": {
+    "id": "kassadin",
+    "forbiddenWords": [
+      "Void",
+      "Riftwalk",
+      "Malzahar",
+      "Silence",
+      "Purple"
+    ]
+  },
+  "katarina": {
+    "id": "katarina",
+    "forbiddenWords": [
+      "Daggers",
+      "Reset",
+      "Spin",
+      "Noxus",
+      "Assassin"
+    ]
+  },
+  "kayle": {
+    "id": "kayle",
+    "forbiddenWords": [
+      "Angel",
+      "Wings",
+      "Level 16",
+      "Morgana",
+      "Invulnerability"
+    ]
+  },
+  "kayn": {
+    "id": "kayn",
+    "forbiddenWords": [
+      "Rhaast",
+      "Darkin",
+      "Blue Form",
+      "Red Form",
+      "Walls"
+    ]
+  },
+  "kennen": {
+    "id": "kennen",
+    "forbiddenWords": [
+      "Lightning",
+      "Shuriken",
+      "Ninja",
+      "Yordle",
+      "Stun"
+    ]
+  },
+  "khazix": {
+    "id": "khazix",
+    "forbiddenWords": [
+      "Evolution",
+      "Isolation",
+      "Void",
+      "Insect",
+      "Rengar"
+    ]
+  },
+  "kindred": {
+    "id": "kindred",
+    "forbiddenWords": [
+      "Lamb",
+      "Wolf",
+      "Marks",
+      "Death",
+      "Bow"
+    ]
+  },
+  "kled": {
+    "id": "kled",
+    "forbiddenWords": [
+      "Skaarl",
+      "Yordle",
+      "Mount",
+      "Cowardly Lizard",
+      "Noxus"
+    ]
+  },
+  "kogmaw": {
+    "id": "kogmaw",
+    "forbiddenWords": [
+      "Void",
+      "Spit",
+      "Artillery",
+      "Passive Explosion",
+      "Mouth"
+    ]
+  },
+  "leblanc": {
+    "id": "leblanc",
+    "forbiddenWords": [
+      "Clone",
+      "Deceiver",
+      "Black Rose",
+      "Distortion",
+      "Noxus"
+    ]
+  },
+  "leesin": {
+    "id": "leesin",
+    "forbiddenWords": [
+      "Blind",
+      "Kick",
+      "Ward",
+      "Insec",
+      "Monk"
+    ]
+  },
+  "leona": {
+    "id": "leona",
+    "forbiddenWords": [
+      "Sun",
+      "Shield",
+      "Stun",
+      "Solari",
+      "Diana"
+    ]
+  },
+  "lillia": {
+    "id": "lillia",
+    "forbiddenWords": [
+      "Deer",
+      "Dream",
+      "Sleep",
+      "Eep",
+      "Fawn"
+    ]
+  },
+  "lissandra": {
+    "id": "lissandra",
+    "forbiddenWords": [
+      "Ice",
+      "Frozen",
+      "Witch",
+      "Freljord",
+      "Self Ult"
+    ]
+  },
+  "locke": {
+    "id": "locke",
+    "forbiddenWords": [
+      "Nails",
+      "Exorcist",
+      "Purgatory",
+      "Demon",
+      "Execution"
+    ]
+  },
+  "lucian": {
+    "id": "lucian",
+    "forbiddenWords": [
+      "Senna",
+      "Guns",
+      "Dash",
+      "Purifier",
+      "Double Shot"
+    ]
+  },
+  "lulu": {
+    "id": "lulu",
+    "forbiddenWords": [
+      "Pix",
+      "Polymorph",
+      "Yordle",
+      "Purple",
+      "Cupcake"
+    ]
+  },
+  "lux": {
+    "id": "lux",
+    "forbiddenWords": [
+      "Light",
+      "Laser",
+      "Demacia",
+      "Binding",
+      "Rainbow"
+    ]
+  },
+  "malphite": {
+    "id": "malphite",
+    "forbiddenWords": [
+      "Rock",
+      "Stone",
+      "Unstoppable",
+      "Armor",
+      "Knock Up"
+    ]
+  },
+  "malzahar": {
+    "id": "malzahar",
+    "forbiddenWords": [
+      "Void",
+      "Suppress",
+      "Voidlings",
+      "Prophet",
+      "Space AIDS"
+    ]
+  },
+  "maokai": {
+    "id": "maokai",
+    "forbiddenWords": [
+      "Tree",
+      "Sapling",
+      "Root",
+      "Shadow Isles",
+      "Tank"
+    ]
+  },
+  "masteryi": {
+    "id": "masteryi",
+    "forbiddenWords": [
+      "Alpha",
+      "Wuju",
+      "Sword",
+      "Meditate",
+      "Highlander"
+    ]
+  },
+  "mel": {
+    "id": "mel",
+    "forbiddenWords": [
+      "Reflect",
+      "Medarda",
+      "Arcane",
+      "Golden",
+      "Noxus"
+    ]
+  },
+  "milio": {
+    "id": "milio",
+    "forbiddenWords": [
+      "Fire",
+      "Fuemigo",
+      "Ixtal",
+      "Cleanse",
+      "Backpack"
+    ]
+  },
+  "missfortune": {
+    "id": "missfortune",
+    "forbiddenWords": [
+      "Guns",
+      "Bullet Time",
+      "Bilgewater",
+      "Pirate",
+      "Sarah"
+    ]
+  },
+  "mordekaiser": {
+    "id": "mordekaiser",
+    "forbiddenWords": [
+      "Death Realm",
+      "Mace",
+      "Brazil",
+      "Iron",
+      "Noxus"
+    ]
+  },
+  "morgana": {
+    "id": "morgana",
+    "forbiddenWords": [
+      "Binding",
+      "Black Shield",
+      "Kayle",
+      "Fallen Angel",
+      "Chains"
+    ]
+  },
+  "naafiri": {
+    "id": "naafiri",
+    "forbiddenWords": [
+      "Dog",
+      "Pack",
+      "Darkin",
+      "Dagger",
+      "Hounds"
+    ]
+  },
+  "nami": {
+    "id": "nami",
+    "forbiddenWords": [
+      "Mermaid",
+      "Bubble",
+      "Wave",
+      "Tide",
+      "Staff"
+    ]
+  },
+  "nasus": {
+    "id": "nasus",
+    "forbiddenWords": [
+      "Stack",
+      "Cane",
+      "Dog",
+      "Shurima",
+      "Wither"
+    ]
+  },
+  "nautilus": {
+    "id": "nautilus",
+    "forbiddenWords": [
+      "Anchor",
+      "Hook",
+      "Titan",
+      "Depths",
+      "Bilgewater"
+    ]
+  },
+  "neeko": {
+    "id": "neeko",
+    "forbiddenWords": [
+      "Chameleon",
+      "Disguise",
+      "Tomato",
+      "Clone",
+      "Pop Blossom"
+    ]
+  },
+  "nidalee": {
+    "id": "nidalee",
+    "forbiddenWords": [
+      "Spear",
+      "Cougar",
+      "Transform",
+      "Trap",
+      "Hunt"
+    ]
+  },
+  "nilah": {
+    "id": "nilah",
+    "forbiddenWords": [
+      "Joy",
+      "Whip",
+      "Water",
+      "Ashlesh",
+      "Melee ADC"
+    ]
+  },
+  "nocturne": {
+    "id": "nocturne",
+    "forbiddenWords": [
+      "Darkness",
+      "Nightmare",
+      "Fear",
+      "Global Ult",
+      "Spell Shield"
+    ]
+  },
+  "nunu": {
+    "id": "nunu",
+    "forbiddenWords": [
+      "Willump",
+      "Snowball",
+      "Yeti",
+      "Freljord",
+      "Absolute Zero"
+    ]
+  },
+  "olaf": {
+    "id": "olaf",
+    "forbiddenWords": [
+      "Axes",
+      "Berserker",
+      "Viking",
+      "Ragnarok",
+      "Freljord"
+    ]
+  },
+  "orianna": {
+    "id": "orianna",
+    "forbiddenWords": [
+      "Ball",
+      "Robot",
+      "Clockwork",
+      "Shockwave",
+      "Command"
+    ]
+  },
+  "ornn": {
+    "id": "ornn",
+    "forbiddenWords": [
+      "Forge",
+      "Hammer",
+      "Ram",
+      "Items",
+      "Volibear"
+    ]
+  },
+  "pantheon": {
+    "id": "pantheon",
+    "forbiddenWords": [
+      "Spear",
+      "Shield",
+      "Spartan",
+      "Targon",
+      "Atreus"
+    ]
+  },
+  "poppy": {
+    "id": "poppy",
+    "forbiddenWords": [
+      "Hammer",
+      "Yordle",
+      "Demacia",
+      "Wall",
+      "Hero"
+    ]
+  },
+  "pyke": {
+    "id": "pyke",
+    "forbiddenWords": [
+      "Hook",
+      "Harpoon",
+      "Bilgewater",
+      "Execute",
+      "Drowned"
+    ]
+  },
+  "qiyana": {
+    "id": "qiyana",
+    "forbiddenWords": [
+      "Elements",
+      "Ixtal",
+      "Ring Blade",
+      "Empress",
+      "Grass"
+    ]
+  },
+  "quinn": {
+    "id": "quinn",
+    "forbiddenWords": [
+      "Valor",
+      "Bird",
+      "Demacia",
+      "Scout",
+      "Crossbow"
+    ]
+  },
+  "rakan": {
+    "id": "rakan",
+    "forbiddenWords": [
+      "Xayah",
+      "Charm",
+      "Feather",
+      "Vastaya",
+      "Lover"
+    ]
+  },
+  "rammus": {
+    "id": "rammus",
+    "forbiddenWords": [
+      "OK",
+      "Armadillo",
+      "Roll",
+      "Taunt",
+      "Spikes"
+    ]
+  },
+  "reksai": {
+    "id": "reksai",
+    "forbiddenWords": [
+      "Void",
+      "Tunnel",
+      "Burrow",
+      "Queen",
+      "True Sight"
+    ]
+  },
+  "rell": {
+    "id": "rell",
+    "forbiddenWords": [
+      "Horse",
+      "Magnet",
+      "Metal",
+      "Lance",
+      "Noxus"
+    ]
+  },
+  "renata": {
+    "id": "renata",
+    "forbiddenWords": [
+      "Chemtech",
+      "Zaun",
+      "Handshake",
+      "Bailout",
+      "Business"
+    ]
+  },
+  "renekton": {
+    "id": "renekton",
+    "forbiddenWords": [
+      "Crocodile",
+      "Shurima",
+      "Slice",
+      "Fury",
+      "Nasus"
+    ]
+  },
+  "rengar": {
+    "id": "rengar",
+    "forbiddenWords": [
+      "Bush",
+      "Leap",
+      "Trophy",
+      "Hunter",
+      "Kha'Zix"
+    ]
+  },
+  "riven": {
+    "id": "riven",
+    "forbiddenWords": [
+      "Broken Sword",
+      "Exile",
+      "Combo",
+      "Animation Cancel",
+      "Wind Slash"
+    ]
+  },
+  "rumble": {
+    "id": "rumble",
+    "forbiddenWords": [
+      "Mech",
+      "Heat",
+      "Overheat",
+      "Flamethrower",
+      "Equalizer"
+    ]
+  },
+  "ryze": {
+    "id": "ryze",
+    "forbiddenWords": [
+      "Runes",
+      "Blue",
+      "Scroll",
+      "Realm Warp",
+      "Mage"
+    ]
+  },
+  "samira": {
+    "id": "samira",
+    "forbiddenWords": [
+      "Style",
+      "S Rank",
+      "Guns",
+      "Sword",
+      "Inferno Trigger"
+    ]
+  },
+  "sejuani": {
+    "id": "sejuani",
+    "forbiddenWords": [
+      "Bristle",
+      "Boar",
+      "Freljord",
+      "Flail",
+      "Permafrost"
+    ]
+  },
+  "senna": {
+    "id": "senna",
+    "forbiddenWords": [
+      "Lucian",
+      "Thresh",
+      "Mist",
+      "Souls",
+      "Relic Cannon"
+    ]
+  },
+  "seraphine": {
+    "id": "seraphine",
+    "forbiddenWords": [
+      "Singer",
+      "Music",
+      "Stage",
+      "K/DA",
+      "Encore"
+    ]
+  },
+  "sett": {
+    "id": "sett",
+    "forbiddenWords": [
+      "Boss",
+      "Punch",
+      "Haymaker",
+      "Mama",
+      "Ionia"
+    ]
+  },
+  "shaco": {
+    "id": "shaco",
+    "forbiddenWords": [
+      "Clown",
+      "Boxes",
+      "Clone",
+      "Backstab",
+      "Invisible"
+    ]
+  },
+  "shen": {
+    "id": "shen",
+    "forbiddenWords": [
+      "Ninja",
+      "Taunt",
+      "Teleport",
+      "Kinkou",
+      "Spirit Blade"
+    ]
+  },
+  "shyvana": {
+    "id": "shyvana",
+    "forbiddenWords": [
+      "Dragon",
+      "Fire",
+      "Half-Dragon",
+      "Demacia",
+      "Jarvan IV"
+    ]
+  },
+  "singed": {
+    "id": "singed",
+    "forbiddenWords": [
+      "Poison",
+      "Fling",
+      "Chemist",
+      "Zaun",
+      "Shimmer"
+    ]
+  },
+  "sion": {
+    "id": "sion",
+    "forbiddenWords": [
+      "Zombie",
+      "Axe",
+      "Charge",
+      "Noxus",
+      "Undead"
+    ]
+  },
+  "sivir": {
+    "id": "sivir",
+    "forbiddenWords": [
+      "Boomerang",
+      "Crossblade",
+      "Shurima",
+      "Spell Shield",
+      "Mercenary"
+    ]
+  },
+  "skarner": {
+    "id": "skarner",
+    "forbiddenWords": [
+      "Scorpion",
+      "Ixtal",
+      "Boulder",
+      "Impale",
+      "Wall"
+    ]
+  },
+  "smolder": {
+    "id": "smolder",
+    "forbiddenWords": [
+      "Dragon",
+      "Stacks",
+      "Fire",
+      "Mom",
+      "Execute"
+    ]
+  },
+  "sona": {
+    "id": "sona",
+    "forbiddenWords": [
+      "Music",
+      "Etwahl",
+      "Mute",
+      "Crescendo",
+      "Auras"
+    ]
+  },
+  "soraka": {
+    "id": "soraka",
+    "forbiddenWords": [
+      "Heal",
+      "Banana",
+      "Star",
+      "Silence",
+      "Wish"
+    ]
+  },
+  "swain": {
+    "id": "swain",
+    "forbiddenWords": [
+      "Ravens",
+      "Noxus",
+      "Demon",
+      "General",
+      "Drain"
+    ]
+  },
+  "sylas": {
+    "id": "sylas",
+    "forbiddenWords": [
+      "Chains",
+      "Ultimate",
+      "Steal",
+      "Demacia",
+      "Prison"
+    ]
+  },
+  "syndra": {
+    "id": "syndra",
+    "forbiddenWords": [
+      "Spheres",
+      "Stun",
+      "Ionia",
+      "Dark Sovereign",
+      "Unleashed Power"
+    ]
+  },
+  "tahmkench": {
+    "id": "tahmkench",
+    "forbiddenWords": [
+      "Tongue",
+      "Devour",
+      "Catfish",
+      "River King",
+      "Thick Skin"
+    ]
+  },
+  "taliyah": {
+    "id": "taliyah",
+    "forbiddenWords": [
+      "Stone",
+      "Shurima",
+      "Worked Ground",
+      "Wall",
+      "Stoneweaver"
+    ]
+  },
+  "talon": {
+    "id": "talon",
+    "forbiddenWords": [
+      "Parkour",
+      "Blades",
+      "Noxus",
+      "Assassin",
+      "Bleed"
+    ]
+  },
+  "taric": {
+    "id": "taric",
+    "forbiddenWords": [
+      "Gems",
+      "Targon",
+      "Invulnerability",
+      "Stun",
+      "Bastion"
+    ]
+  },
+  "teemo": {
+    "id": "teemo",
+    "forbiddenWords": [
+      "Mushroom",
+      "Blind",
+      "Poison",
+      "Yordle",
+      "Scout"
+    ]
+  },
+  "thresh": {
+    "id": "thresh",
+    "forbiddenWords": [
+      "Hook",
+      "Lantern",
+      "Souls",
+      "Flay",
+      "Chains"
+    ]
+  },
+  "tristana": {
+    "id": "tristana",
+    "forbiddenWords": [
+      "Cannon",
+      "Rocket Jump",
+      "Bomb",
+      "Yordle",
+      "Buster Shot"
+    ]
+  },
+  "trundle": {
+    "id": "trundle",
+    "forbiddenWords": [
+      "Troll",
+      "Pillar",
+      "Club",
+      "Freljord",
+      "Chomp"
+    ]
+  },
+  "tryndamere": {
+    "id": "tryndamere",
+    "forbiddenWords": [
+      "Undying",
+      "Rage",
+      "Critical",
+      "Sword",
+      "Ashe"
+    ]
+  },
+  "twistedfate": {
+    "id": "twistedfate",
+    "forbiddenWords": [
+      "Cards",
+      "Gold Card",
+      "Destiny",
+      "Gambler",
+      "Teleport"
+    ]
+  },
+  "twitch": {
+    "id": "twitch",
+    "forbiddenWords": [
+      "Rat",
+      "Poison",
+      "Invisible",
+      "Crossbow",
+      "Spray and Pray"
+    ]
+  },
+  "udyr": {
+    "id": "udyr",
+    "forbiddenWords": [
+      "Stances",
+      "Bear",
+      "Phoenix",
+      "Awaken",
+      "Freljord"
+    ]
+  },
+  "urgot": {
+    "id": "urgot",
+    "forbiddenWords": [
+      "Shotgun Knees",
+      "Execution",
+      "Grinder",
+      "Zaun",
+      "Chains"
+    ]
+  },
+  "varus": {
+    "id": "varus",
+    "forbiddenWords": [
+      "Arrow",
+      "Darkin",
+      "Corruption",
+      "Blight",
+      "Bow"
+    ]
+  },
+  "vayne": {
+    "id": "vayne",
+    "forbiddenWords": [
+      "Crossbow",
+      "Tumble",
+      "Silver Bolts",
+      "True Damage",
+      "Condemn"
+    ]
+  },
+  "veigar": {
+    "id": "veigar",
+    "forbiddenWords": [
+      "Tiny Master",
+      "Cage",
+      "Phenomenal Evil",
+      "Yordle",
+      "Dark Matter"
+    ]
+  },
+  "velkoz": {
+    "id": "velkoz",
+    "forbiddenWords": [
+      "Void",
+      "Laser",
+      "Tentacles",
+      "Research",
+      "Eye"
+    ]
+  },
+  "vex": {
+    "id": "vex",
+    "forbiddenWords": [
+      "Shadow",
+      "Gloom",
+      "Yordle",
+      "Dash",
+      "Doom"
+    ]
+  },
+  "vi": {
+    "id": "vi",
+    "forbiddenWords": [
+      "Gauntlets",
+      "Punch",
+      "Piltover",
+      "Caitlyn",
+      "Jinx"
+    ]
+  },
+  "viego": {
+    "id": "viego",
+    "forbiddenWords": [
+      "Ruined King",
+      "Mist",
+      "Isolde",
+      "Possession",
+      "Sword"
+    ]
+  },
+  "viktor": {
+    "id": "viktor",
+    "forbiddenWords": [
+      "Hexcore",
+      "Evolution",
+      "Laser",
+      "Machine Herald",
+      "Glorious Evolution"
+    ]
+  },
+  "vladimir": {
+    "id": "vladimir",
+    "forbiddenWords": [
+      "Blood",
+      "Hemoplague",
+      "Pool",
+      "Crimson",
+      "Noxus"
+    ]
+  },
+  "volibear": {
+    "id": "volibear",
+    "forbiddenWords": [
+      "Bear",
+      "Lightning",
+      "Freljord",
+      "Storm",
+      "Thunder"
+    ]
+  },
+  "warwick": {
+    "id": "warwick",
+    "forbiddenWords": [
+      "Wolf",
+      "Blood Hunt",
+      "Zaun",
+      "Howl",
+      "Vander"
+    ]
+  },
+  "monkeyking": {
+    "id": "monkeyking",
+    "forbiddenWords": [
+      "Monkey",
+      "Clone",
+      "Staff",
+      "Cyclone",
+      "Warrior Trickster"
+    ]
+  },
+  "xayah": {
+    "id": "xayah",
+    "forbiddenWords": [
+      "Feathers",
+      "Rakan",
+      "Bladecaller",
+      "Root",
+      "Vastaya"
+    ]
+  },
+  "xerath": {
+    "id": "xerath",
+    "forbiddenWords": [
+      "Skillshots",
+      "Artillery",
+      "Arcane",
+      "Long Range",
+      "Shurima"
+    ]
+  },
+  "xinzhao": {
+    "id": "xinzhao",
+    "forbiddenWords": [
+      "Spear",
+      "Demacia",
+      "Three Talon Strike",
+      "Crescent Guard",
+      "Charge"
+    ]
+  },
+  "yasuo": {
+    "id": "yasuo",
+    "forbiddenWords": [
+      "Wind Wall",
+      "Tornado",
+      "Samurai",
+      "Hasagi",
+      "Airborne"
+    ]
+  },
+  "yone": {
+    "id": "yone",
+    "forbiddenWords": [
+      "Spirit",
+      "Mask",
+      "Yasuo",
+      "Soul Unbound",
+      "Azakana"
+    ]
+  },
+  "yorick": {
+    "id": "yorick",
+    "forbiddenWords": [
+      "Maiden",
+      "Ghouls",
+      "Shovel",
+      "Split Push",
+      "Mist"
+    ]
+  },
+  "yunara": {
+    "id": "yunara",
+    "forbiddenWords": [
+      "Transcendence",
+      "Critical Strike",
+      "Spirit Realm",
+      "Aion Er'na",
+      "Prayer Beads"
+    ]
+  },
+  "yuumi": {
+    "id": "yuumi",
+    "forbiddenWords": [
+      "Cat",
+      "Book",
+      "Attach",
+      "Zoomies",
+      "Untargetable"
+    ]
+  },
+  "zaahen": {
+    "id": "zaahen",
+    "forbiddenWords": [
+      "Darkin",
+      "Glaive",
+      "Revive",
+      "Determination",
+      "Unsundered"
+    ]
+  },
+  "zac": {
+    "id": "zac",
+    "forbiddenWords": [
+      "Slime",
+      "Blobs",
+      "Elastic",
+      "Bounce",
+      "Zaun"
+    ]
+  },
+  "zed": {
+    "id": "zed",
+    "forbiddenWords": [
+      "Shadows",
+      "Death Mark",
+      "Shuriken",
+      "Ninja",
+      "Energy"
+    ]
+  },
+  "zeri": {
+    "id": "zeri",
+    "forbiddenWords": [
+      "Electricity",
+      "Zaun",
+      "Burst Fire",
+      "Lightning",
+      "Speed"
+    ]
+  },
+  "ziggs": {
+    "id": "ziggs",
+    "forbiddenWords": [
+      "Bomb",
+      "Explosives",
+      "Satchel",
+      "Yordle",
+      "Demolitions"
+    ]
+  },
+  "zilean": {
+    "id": "zilean",
+    "forbiddenWords": [
+      "Time",
+      "Bomb",
+      "Revive",
+      "Chronokeeper",
+      "Experience"
+    ]
+  },
+  "zoe": {
+    "id": "zoe",
+    "forbiddenWords": [
+      "Bubble",
+      "Portal",
+      "Sleep",
+      "Targon",
+      "Twilight"
+    ]
+  },
+  "zyra": {
+    "id": "zyra",
+    "forbiddenWords": [
+      "Plants",
+      "Roots",
+      "Seeds",
+      "Thorns",
+      "Garden"
+    ]
+  }
+}

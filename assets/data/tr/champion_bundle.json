@@ -1,0 +1,1732 @@
+{
+  "aatrox": {
+    "id": "aatrox",
+    "forbiddenWords": [
+      "Darkin",
+      "Kılıç",
+      "Dünya Sonu",
+      "Şeytan",
+      "Top"
+    ]
+  },
+  "ahri": {
+    "id": "ahri",
+    "forbiddenWords": [
+      "Tilki",
+      "Cazibe",
+      "Küre",
+      "Dokuz Kuyruk",
+      "Ruh Saldırısı"
+    ]
+  },
+  "akali": {
+    "id": "akali",
+    "forbiddenWords": [
+      "Ninja",
+      "Duman",
+      "Kunai",
+      "Şuriken",
+      "Suikastçı"
+    ]
+  },
+  "akshan": {
+    "id": "akshan",
+    "forbiddenWords": [
+      "Canlandırmak",
+      "Yakalama Kancası",
+      "Bumerang",
+      "Nöbetçi",
+      "Sallanmak"
+    ]
+  },
+  "alistar": {
+    "id": "alistar",
+    "forbiddenWords": [
+      "Boğa",
+      "İnek",
+      "Kafa atma",
+      "Tank",
+      "Destek"
+    ]
+  },
+  "ambessa": {
+    "id": "ambessa",
+    "forbiddenWords": [
+      "Medarda",
+      "Noxus'ta",
+      "Gizemli",
+      "Genel",
+      "Zincirler"
+    ]
+  },
+  "amumu": {
+    "id": "amumu",
+    "forbiddenWords": [
+      "Mumya",
+      "Üzgün",
+      "Bandaj",
+      "Ağlamak",
+      "Küfür"
+    ]
+  },
+  "anivia": {
+    "id": "anivia",
+    "forbiddenWords": [
+      "Buz",
+      "Yumurta",
+      "Duvar",
+      "Anka Kuşu",
+      "Kuş"
+    ]
+  },
+  "annie": {
+    "id": "annie",
+    "forbiddenWords": [
+      "Tibbers",
+      "Ayı",
+      "Ateş",
+      "Stun",
+      "Çocuk"
+    ]
+  },
+  "aphelios": {
+    "id": "aphelios",
+    "forbiddenWords": [
+      "Alune",
+      "Ay",
+      "Beş Silah",
+      "Silahlar",
+      "Nişancı"
+    ]
+  },
+  "ashe": {
+    "id": "ashe",
+    "forbiddenWords": [
+      "Yay",
+      "Ok",
+      "Buz",
+      "Freljord",
+      "Stun"
+    ]
+  },
+  "aurelionsol": {
+    "id": "aurelionsol",
+    "forbiddenWords": [
+      "Ejderha",
+      "Yıldızlar",
+      "Uzay",
+      "Göksel",
+      "Kara Delik"
+    ]
+  },
+  "aurora": {
+    "id": "aurora",
+    "forbiddenWords": [
+      "Tavşan",
+      "Ruh",
+      "Freljord",
+      "Cadı",
+      "Bölge"
+    ]
+  },
+  "azir": {
+    "id": "azir",
+    "forbiddenWords": [
+      "Shurima",
+      "İmparator",
+      "Kum Askerleri",
+      "Karıştır",
+      "Kuş"
+    ]
+  },
+  "bard": {
+    "id": "bard",
+    "forbiddenWords": [
+      "Bipler",
+      "Çanlar",
+      "Portal",
+      "Altın",
+      "Dolaşmak"
+    ]
+  },
+  "belveth": {
+    "id": "belveth",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Manta Ray",
+      "İmparatoriçe",
+      "Lavanta",
+      "Saldırı Hızı"
+    ]
+  },
+  "blitzcrank": {
+    "id": "blitzcrank",
+    "forbiddenWords": [
+      "Hook",
+      "Robot",
+      "Yakalamak",
+      "Nakavt",
+      "Zaun"
+    ]
+  },
+  "brand": {
+    "id": "brand",
+    "forbiddenWords": [
+      "Ateş",
+      "Yakmak",
+      "Stun",
+      "Alevler",
+      "Patlama"
+    ]
+  },
+  "braum": {
+    "id": "braum",
+    "forbiddenWords": [
+      "Kalkan",
+      "Bıyık",
+      "Freljord",
+      "Kapı",
+      "Porolar"
+    ]
+  },
+  "briar": {
+    "id": "briar",
+    "forbiddenWords": [
+      "Kan",
+      "Çılgınlık",
+      "Açlık",
+      "Ayak",
+      "Boyunduruk"
+    ]
+  },
+  "caitlyn": {
+    "id": "caitlyn",
+    "forbiddenWords": [
+      "Keskin nişancı",
+      "Tüfek",
+      "Tuzak",
+      "Piltover",
+      "Şerif"
+    ]
+  },
+  "camille": {
+    "id": "camille",
+    "forbiddenWords": [
+      "Makas Ayakları",
+      "Hextech'in",
+      "Kanca Atışı",
+      "Gerçek Hasar",
+      "Ferrolar"
+    ]
+  },
+  "cassiopeia": {
+    "id": "cassiopeia",
+    "forbiddenWords": [
+      "Yılan",
+      "Zehir",
+      "Taşlaşmak",
+      "Dişler",
+      "Çizme Yok"
+    ]
+  },
+  "chogath": {
+    "id": "chogath",
+    "forbiddenWords": [
+      "Bayram",
+      "Geçersiz",
+      "Canavar",
+      "Yığınlar",
+      "Büyümek"
+    ]
+  },
+  "corki": {
+    "id": "corki",
+    "forbiddenWords": [
+      "Uçak",
+      "Yordle",
+      "Füze",
+      "Pilot",
+      "Bıyık"
+    ]
+  },
+  "darius": {
+    "id": "darius",
+    "forbiddenWords": [
+      "Balta",
+      "Noxus'ta",
+      "Smaç",
+      "Kanama",
+      "Giyotin"
+    ]
+  },
+  "diana": {
+    "id": "diana",
+    "forbiddenWords": [
+      "Ay",
+      "Lunari",
+      "Hilal",
+      "Çizgi",
+      "Leona"
+    ]
+  },
+  "drmundo": {
+    "id": "drmundo",
+    "forbiddenWords": [
+      "Doktor",
+      "satır",
+      "Mor",
+      "Yenilenme",
+      "Dilediği yere gider"
+    ]
+  },
+  "draven": {
+    "id": "draven",
+    "forbiddenWords": [
+      "Eksenler",
+      "Yakalamak",
+      "Noxus'ta",
+      "Cellat",
+      "Hayranlık"
+    ]
+  },
+  "ekko": {
+    "id": "ekko",
+    "forbiddenWords": [
+      "Zaman",
+      "Zaun",
+      "Kronokırılma",
+      "Geri sarma",
+      "Z-Drive"
+    ]
+  },
+  "elise": {
+    "id": "elise",
+    "forbiddenWords": [
+      "Örümcek",
+      "Koza",
+      "ağ",
+      "Rappel",
+      "Dönüştür"
+    ]
+  },
+  "evelynn": {
+    "id": "evelynn",
+    "forbiddenWords": [
+      "Görünmez",
+      "Cazibe",
+      "Şeytan",
+      "Gizlilik",
+      "KDA"
+    ]
+  },
+  "ezreal": {
+    "id": "ezreal",
+    "forbiddenWords": [
+      "Eldiven",
+      "Kaşif",
+      "Mistik Atış",
+      "Göz kırpmak",
+      "Gizemli"
+    ]
+  },
+  "fiddlesticks": {
+    "id": "fiddlesticks",
+    "forbiddenWords": [
+      "Korkuluk",
+      "Korku",
+      "Karga",
+      "Boşaltmak",
+      "Karga fırtınası"
+    ]
+  },
+  "fiora": {
+    "id": "fiora",
+    "forbiddenWords": [
+      "Düellocu",
+      "Hayati",
+      "Savuşturma",
+      "Rapier",
+      "Gerçek Hasar"
+    ]
+  },
+  "fizz": {
+    "id": "fizz",
+    "forbiddenWords": [
+      "Köpek balığı",
+      "Üç dişli mızrak",
+      "Balık",
+      "Hedeflenemez",
+      "Sintine suyu"
+    ]
+  },
+  "galio": {
+    "id": "galio",
+    "forbiddenWords": [
+      "Gargoyle",
+      "Demacia",
+      "Devasa",
+      "Büyü",
+      "Alay"
+    ]
+  },
+  "gangplank": {
+    "id": "gangplank",
+    "forbiddenWords": [
+      "Varil",
+      "Korsan",
+      "Turuncu",
+      "Sintine suyu",
+      "Top"
+    ]
+  },
+  "garen": {
+    "id": "garen",
+    "forbiddenWords": [
+      "Demacia",
+      "Döndürmek",
+      "Kılıç",
+      "Sessizlik",
+      "Adalet"
+    ]
+  },
+  "gnar": {
+    "id": "gnar",
+    "forbiddenWords": [
+      "Mega",
+      "Bumerang",
+      "Öfkelenmek",
+      "Yordle",
+      "Dönüştür"
+    ]
+  },
+  "gragas": {
+    "id": "gragas",
+    "forbiddenWords": [
+      "Varil",
+      "Bira",
+      "Karın",
+      "Freljord",
+      "Vücut Darbesi"
+    ]
+  },
+  "graves": {
+    "id": "graves",
+    "forbiddenWords": [
+      "Av tüfeği",
+      "Duman",
+      "Sintine suyu",
+      "Bükülmüş Kader",
+      "Yeniden yükle"
+    ]
+  },
+  "gwen": {
+    "id": "gwen",
+    "forbiddenWords": [
+      "Makas",
+      "Oyuncak bebek",
+      "İğne",
+      "Sis",
+      "Alıntı Alıntı"
+    ]
+  },
+  "hecarim": {
+    "id": "hecarim",
+    "forbiddenWords": [
+      "Atış",
+      "Sentor",
+      "Şarj",
+      "Gölge Adalar",
+      "Korku"
+    ]
+  },
+  "heimerdinger": {
+    "id": "heimerdinger",
+    "forbiddenWords": [
+      "Taret",
+      "Bilim adamı",
+      "Yordle",
+      "Piltover",
+      "Koca Kafa"
+    ]
+  },
+  "hwei": {
+    "id": "hwei",
+    "forbiddenWords": [
+      "Ressam",
+      "Fırçalamak",
+      "Jhin",
+      "On Yetenek",
+      "Renkler"
+    ]
+  },
+  "illaoi": {
+    "id": "illaoi",
+    "forbiddenWords": [
+      "Dokunaçlar",
+      "Ruh",
+      "Nagakabouros",
+      "İdol",
+      "Sintine suyu"
+    ]
+  },
+  "irelia": {
+    "id": "irelia",
+    "forbiddenWords": [
+      "Bıçaklar",
+      "İyonya",
+      "Çizgi",
+      "Minion",
+      "Kılıç Dansçısı"
+    ]
+  },
+  "ivern": {
+    "id": "ivern",
+    "forbiddenWords": [
+      "Ağaç",
+      "Papatya",
+      "Ormanın Dostu",
+      "Çalı",
+      "Jungle"
+    ]
+  },
+  "janna": {
+    "id": "janna",
+    "forbiddenWords": [
+      "Rüzgâr",
+      "Kasırga",
+      "Kalkan",
+      "Zefir",
+      "Destek"
+    ]
+  },
+  "jarvaniv": {
+    "id": "jarvaniv",
+    "forbiddenWords": [
+      "Demacia",
+      "Prens",
+      "Bayrak",
+      "Felaket",
+      "EQ"
+    ]
+  },
+  "jax": {
+    "id": "jax",
+    "forbiddenWords": [
+      "Lamba",
+      "Karşı Saldırı",
+      "Icathia",
+      "Büyük usta",
+      "lanet"
+    ]
+  },
+  "jayce": {
+    "id": "jayce",
+    "forbiddenWords": [
+      "Çekiç",
+      "Top",
+      "Piltover",
+      "Viktor",
+      "Şok Patlaması"
+    ]
+  },
+  "jhin": {
+    "id": "jhin",
+    "forbiddenWords": [
+      "Dört",
+      "Maske",
+      "Sanat",
+      "Virtüöz",
+      "Dördüncü Atış"
+    ]
+  },
+  "jinx": {
+    "id": "jinx",
+    "forbiddenWords": [
+      "Toz",
+      "Roket",
+      "Zaun",
+      "Gizemli",
+      "Vi"
+    ]
+  },
+  "ksante": {
+    "id": "ksante",
+    "forbiddenWords": [
+      "Nazumah",
+      "Hepsi Dışarı",
+      "Tankı",
+      "Ntofos",
+      "Shurima"
+    ]
+  },
+  "kaisa": {
+    "id": "kaisa",
+    "forbiddenWords": [
+      "Geçersiz",
+      "KDA",
+      "Evrim geçirmek",
+      "Plazma",
+      "Uygun olmak"
+    ]
+  },
+  "kalista": {
+    "id": "kalista",
+    "forbiddenWords": [
+      "Mızrak",
+      "Yeminli",
+      "İntikam",
+      "Parçala",
+      "Gölge Adalar"
+    ]
+  },
+  "karma": {
+    "id": "karma",
+    "forbiddenWords": [
+      "Mantra",
+      "İyonya",
+      "Kalkan",
+      "Güçlendirilmiş",
+      "Bağ"
+    ]
+  },
+  "karthus": {
+    "id": "karthus",
+    "forbiddenWords": [
+      "Ağıt",
+      "Küresel Ulti",
+      "Ölüm",
+      "Atık Bırakın",
+      "Lich"
+    ]
+  },
+  "kassadin": {
+    "id": "kassadin",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Yarık Geçidi",
+      "Malzahar",
+      "Sessizlik",
+      "Mor"
+    ]
+  },
+  "katarina": {
+    "id": "katarina",
+    "forbiddenWords": [
+      "Hançerler",
+      "Sıfırla",
+      "Döndürmek",
+      "Noxus'ta",
+      "Suikastçı"
+    ]
+  },
+  "kayle": {
+    "id": "kayle",
+    "forbiddenWords": [
+      "Melek",
+      "Kanatlar",
+      "Seviye 16",
+      "Morgana",
+      "Zarar Göremezlik"
+    ]
+  },
+  "kayn": {
+    "id": "kayn",
+    "forbiddenWords": [
+      "Rhaast",
+      "Darkin",
+      "Mavi Formu",
+      "Kırmızı Formu",
+      "Duvarlar"
+    ]
+  },
+  "kennen": {
+    "id": "kennen",
+    "forbiddenWords": [
+      "Yıldırım",
+      "Şuriken",
+      "Ninja",
+      "Yordle",
+      "Stun"
+    ]
+  },
+  "khazix": {
+    "id": "khazix",
+    "forbiddenWords": [
+      "Evrim",
+      "İzolasyon",
+      "Geçersiz",
+      "Böcek",
+      "Rengar"
+    ]
+  },
+  "kindred": {
+    "id": "kindred",
+    "forbiddenWords": [
+      "Kuzu",
+      "Kurt",
+      "İşaretler",
+      "Ölüm",
+      "Yay"
+    ]
+  },
+  "kled": {
+    "id": "kled",
+    "forbiddenWords": [
+      "Skaarl",
+      "Yordle",
+      "Montaj",
+      "Korkak Kertenkele",
+      "Noxus'ta"
+    ]
+  },
+  "kogmaw": {
+    "id": "kogmaw",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Tükürmek",
+      "Topçu",
+      "Pasif Patlama",
+      "Ağız"
+    ]
+  },
+  "leblanc": {
+    "id": "leblanc",
+    "forbiddenWords": [
+      "Klon",
+      "Aldatıcı",
+      "Siyah Gül",
+      "Çarpıtma",
+      "Noxus'ta"
+    ]
+  },
+  "leesin": {
+    "id": "leesin",
+    "forbiddenWords": [
+      "Kör",
+      "Tekme atmak",
+      "Koğuş",
+      "Böcek",
+      "Keşiş"
+    ]
+  },
+  "leona": {
+    "id": "leona",
+    "forbiddenWords": [
+      "Güneş",
+      "Kalkan",
+      "Stun",
+      "Solari",
+      "Diana"
+    ]
+  },
+  "lillia": {
+    "id": "lillia",
+    "forbiddenWords": [
+      "Geyik",
+      "Rüya",
+      "Uyumak",
+      "Eep",
+      "Açık kahverengi"
+    ]
+  },
+  "lissandra": {
+    "id": "lissandra",
+    "forbiddenWords": [
+      "Buz",
+      "Dondurulmuş",
+      "Cadı",
+      "Freljord",
+      "Kişisel Ulti"
+    ]
+  },
+  "locke": {
+    "id": "locke",
+    "forbiddenWords": [
+      "Çiviler",
+      "Şeytan kovucu",
+      "Araf",
+      "Şeytan",
+      "Uygulamak"
+    ]
+  },
+  "lucian": {
+    "id": "lucian",
+    "forbiddenWords": [
+      "Sinameki",
+      "Silahlar",
+      "Çizgi",
+      "Temizleyici",
+      "Çift Atış"
+    ]
+  },
+  "lulu": {
+    "id": "lulu",
+    "forbiddenWords": [
+      "Pix",
+      "Polimorf",
+      "Yordle",
+      "Mor",
+      "kek"
+    ]
+  },
+  "lux": {
+    "id": "lux",
+    "forbiddenWords": [
+      "Işık",
+      "Lazer",
+      "Demacia",
+      "bağlayıcı",
+      "Gökkuşağı"
+    ]
+  },
+  "malphite": {
+    "id": "malphite",
+    "forbiddenWords": [
+      "Kaynak",
+      "Taş",
+      "Durdurulamaz",
+      "Zırh",
+      "Nakavt"
+    ]
+  },
+  "malzahar": {
+    "id": "malzahar",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Bastır",
+      "Hiçlik Haşereleri",
+      "Peygamber",
+      "Uzay AIDS'i"
+    ]
+  },
+  "maokai": {
+    "id": "maokai",
+    "forbiddenWords": [
+      "Ağaç",
+      "Fidan",
+      "Kök",
+      "Gölge Adalar",
+      "Tankı"
+    ]
+  },
+  "masteryi": {
+    "id": "masteryi",
+    "forbiddenWords": [
+      "Alfa",
+      "Wuju",
+      "Kılıç",
+      "Meditasyon yapın",
+      "İskoçyalı"
+    ]
+  },
+  "mel": {
+    "id": "mel",
+    "forbiddenWords": [
+      "Yansıtmak",
+      "Medarda",
+      "Gizemli",
+      "Altın",
+      "Noxus'ta"
+    ]
+  },
+  "milio": {
+    "id": "milio",
+    "forbiddenWords": [
+      "Ateş",
+      "Fuemigo",
+      "Ixtal",
+      "Temizlemek",
+      "Sırt çantası"
+    ]
+  },
+  "missfortune": {
+    "id": "missfortune",
+    "forbiddenWords": [
+      "Silahlar",
+      "Mermi Zamanı",
+      "Sintine suyu",
+      "Korsan",
+      "Sara"
+    ]
+  },
+  "mordekaiser": {
+    "id": "mordekaiser",
+    "forbiddenWords": [
+      "Ölüm Diyarı",
+      "Topuz",
+      "Brezilya",
+      "Ütü",
+      "Noxus'ta"
+    ]
+  },
+  "morgana": {
+    "id": "morgana",
+    "forbiddenWords": [
+      "bağlayıcı",
+      "Siyah Kalkan",
+      "Kayle",
+      "Düşmüş Melek",
+      "Zincirler"
+    ]
+  },
+  "naafiri": {
+    "id": "naafiri",
+    "forbiddenWords": [
+      "Köpek",
+      "Ambalaj",
+      "Darkin",
+      "Hançer",
+      "Av köpekleri"
+    ]
+  },
+  "nami": {
+    "id": "nami",
+    "forbiddenWords": [
+      "Deniz kızı",
+      "Kabarcık",
+      "Dalga",
+      "Gelgit",
+      "Kadro"
+    ]
+  },
+  "nasus": {
+    "id": "nasus",
+    "forbiddenWords": [
+      "Yığın",
+      "Baston",
+      "Köpek",
+      "Shurima",
+      "Solmak"
+    ]
+  },
+  "nautilus": {
+    "id": "nautilus",
+    "forbiddenWords": [
+      "Çapa",
+      "Hook",
+      "titan",
+      "Derinlikler",
+      "Sintine suyu"
+    ]
+  },
+  "neeko": {
+    "id": "neeko",
+    "forbiddenWords": [
+      "Bukalemun",
+      "Kılık değiştirmek",
+      "Domates",
+      "Klon",
+      "Pop Çiçeği"
+    ]
+  },
+  "nidalee": {
+    "id": "nidalee",
+    "forbiddenWords": [
+      "Mızrak",
+      "Puma",
+      "Dönüştür",
+      "Tuzak",
+      "Avlamak"
+    ]
+  },
+  "nilah": {
+    "id": "nilah",
+    "forbiddenWords": [
+      "Neşe",
+      "kırbaç",
+      "su",
+      "Ashlesh",
+      "Yakın Dövüş ADC'si"
+    ]
+  },
+  "nocturne": {
+    "id": "nocturne",
+    "forbiddenWords": [
+      "Karanlık",
+      "Kabus",
+      "Korku",
+      "Küresel Ulti",
+      "Büyü Kalkanı"
+    ]
+  },
+  "nunu": {
+    "id": "nunu",
+    "forbiddenWords": [
+      "Willump",
+      "Kartopu",
+      "Yeti",
+      "Freljord",
+      "Mutlak Sıfır"
+    ]
+  },
+  "olaf": {
+    "id": "olaf",
+    "forbiddenWords": [
+      "Eksenler",
+      "Vahşi",
+      "Viking",
+      "Ragnarok",
+      "Freljord"
+    ]
+  },
+  "orianna": {
+    "id": "orianna",
+    "forbiddenWords": [
+      "Top",
+      "Robot",
+      "Otomatik",
+      "Şok dalgası",
+      "Emretmek"
+    ]
+  },
+  "ornn": {
+    "id": "ornn",
+    "forbiddenWords": [
+      "Dövmek",
+      "Çekiç",
+      "Veri deposu",
+      "Öğeler",
+      "Volibear"
+    ]
+  },
+  "pantheon": {
+    "id": "pantheon",
+    "forbiddenWords": [
+      "Mızrak",
+      "Kalkan",
+      "Spartalı",
+      "Targon",
+      "Atreus"
+    ]
+  },
+  "poppy": {
+    "id": "poppy",
+    "forbiddenWords": [
+      "Çekiç",
+      "Yordle",
+      "Demacia",
+      "Duvar",
+      "Kahraman"
+    ]
+  },
+  "pyke": {
+    "id": "pyke",
+    "forbiddenWords": [
+      "Hook",
+      "Zıpkın",
+      "Sintine suyu",
+      "Uygulamak",
+      "Boğulmuş"
+    ]
+  },
+  "qiyana": {
+    "id": "qiyana",
+    "forbiddenWords": [
+      "Elemanlar",
+      "Ixtal",
+      "Halka Bıçak",
+      "İmparatoriçe",
+      "Çimen"
+    ]
+  },
+  "quinn": {
+    "id": "quinn",
+    "forbiddenWords": [
+      "Yiğitlik",
+      "Kuş",
+      "Demacia",
+      "izci",
+      "Arbalet"
+    ]
+  },
+  "rakan": {
+    "id": "rakan",
+    "forbiddenWords": [
+      "Xayah",
+      "Cazibe",
+      "Tüy",
+      "Vastaya",
+      "Sevgili"
+    ]
+  },
+  "rammus": {
+    "id": "rammus",
+    "forbiddenWords": [
+      "TAMAM",
+      "Armadillo",
+      "Rulo",
+      "Alay",
+      "Diken"
+    ]
+  },
+  "reksai": {
+    "id": "reksai",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Tünel",
+      "Yuva",
+      "Kraliçe",
+      "Gerçek Görüş"
+    ]
+  },
+  "rell": {
+    "id": "rell",
+    "forbiddenWords": [
+      "Atış",
+      "Mıknatıs",
+      "maden",
+      "Mızrak",
+      "Noxus'ta"
+    ]
+  },
+  "renata": {
+    "id": "renata",
+    "forbiddenWords": [
+      "Kimya teknolojisi",
+      "Zaun",
+      "El sıkışma",
+      "Kurtarma",
+      "İşletme"
+    ]
+  },
+  "renekton": {
+    "id": "renekton",
+    "forbiddenWords": [
+      "Timsah",
+      "Shurima",
+      "Dilim",
+      "Öfke",
+      "Nasus"
+    ]
+  },
+  "rengar": {
+    "id": "rengar",
+    "forbiddenWords": [
+      "Çalı",
+      "Sıçramak",
+      "Kupa",
+      "Avcı",
+      "Kha'Zix"
+    ]
+  },
+  "riven": {
+    "id": "riven",
+    "forbiddenWords": [
+      "Kırık Kılıç",
+      "Sürgün",
+      "Kombinasyon",
+      "Animasyon İptal",
+      "Rüzgar Saldırısı"
+    ]
+  },
+  "rumble": {
+    "id": "rumble",
+    "forbiddenWords": [
+      "Makine",
+      "Sıcaklık",
+      "Aşırı ısınma",
+      "Alev makinesi",
+      "Ekolayzer"
+    ]
+  },
+  "ryze": {
+    "id": "ryze",
+    "forbiddenWords": [
+      "Rünler",
+      "Mavi",
+      "Taslak",
+      "Bölge Çarpıtması",
+      "Büyücü"
+    ]
+  },
+  "samira": {
+    "id": "samira",
+    "forbiddenWords": [
+      "Stil",
+      "S Sıralaması",
+      "Silahlar",
+      "Kılıç",
+      "Cehennem Tetikleyici"
+    ]
+  },
+  "sejuani": {
+    "id": "sejuani",
+    "forbiddenWords": [
+      "Kıl",
+      "Domuz",
+      "Freljord",
+      "sallamak",
+      "Kalıcı don"
+    ]
+  },
+  "senna": {
+    "id": "senna",
+    "forbiddenWords": [
+      "Lucian",
+      "Harman",
+      "Sis",
+      "Ruhlar",
+      "Kalıntı Top"
+    ]
+  },
+  "seraphine": {
+    "id": "seraphine",
+    "forbiddenWords": [
+      "Şarkıcı",
+      "Müzik",
+      "Sahne",
+      "K/DA",
+      "Tekrar"
+    ]
+  },
+  "sett": {
+    "id": "sett",
+    "forbiddenWords": [
+      "Patron",
+      "Yumruk",
+      "Saman yapıcı",
+      "anne",
+      "İyonya"
+    ]
+  },
+  "shaco": {
+    "id": "shaco",
+    "forbiddenWords": [
+      "Palyaço",
+      "Kutular",
+      "Klon",
+      "Arkadan bıçaklama",
+      "Görünmez"
+    ]
+  },
+  "shen": {
+    "id": "shen",
+    "forbiddenWords": [
+      "Ninja",
+      "Alay",
+      "Işınlanma",
+      "Kinkou",
+      "Ruh Kılıcı"
+    ]
+  },
+  "shyvana": {
+    "id": "shyvana",
+    "forbiddenWords": [
+      "Ejderha",
+      "Ateş",
+      "Yarı Ejderha",
+      "Demacia",
+      "Jarvan IV"
+    ]
+  },
+  "singed": {
+    "id": "singed",
+    "forbiddenWords": [
+      "Zehir",
+      "Kaçmak",
+      "Kimyager",
+      "Zaun",
+      "ışıltı"
+    ]
+  },
+  "sion": {
+    "id": "sion",
+    "forbiddenWords": [
+      "Zombi",
+      "Balta",
+      "Şarj",
+      "Noxus'ta",
+      "ölümsüz"
+    ]
+  },
+  "sivir": {
+    "id": "sivir",
+    "forbiddenWords": [
+      "Bumerang",
+      "Çapraz bıçak",
+      "Shurima",
+      "Büyü Kalkanı",
+      "Paralı"
+    ]
+  },
+  "skarner": {
+    "id": "skarner",
+    "forbiddenWords": [
+      "Akrep",
+      "Ixtal",
+      "Kaya",
+      "Kazığa oturtmak",
+      "Duvar"
+    ]
+  },
+  "smolder": {
+    "id": "smolder",
+    "forbiddenWords": [
+      "Ejderha",
+      "Yığınlar",
+      "Ateş",
+      "Anne",
+      "Uygulamak"
+    ]
+  },
+  "sona": {
+    "id": "sona",
+    "forbiddenWords": [
+      "Müzik",
+      "Etwahl",
+      "Sesini kapatmak",
+      "Kreşendo",
+      "Auralar"
+    ]
+  },
+  "soraka": {
+    "id": "soraka",
+    "forbiddenWords": [
+      "İyileştirmek",
+      "Muz",
+      "Yıldız",
+      "Sessizlik",
+      "Dilek"
+    ]
+  },
+  "swain": {
+    "id": "swain",
+    "forbiddenWords": [
+      "Kuzgunlar",
+      "Noxus'ta",
+      "Şeytan",
+      "Genel",
+      "Boşaltmak"
+    ]
+  },
+  "sylas": {
+    "id": "sylas",
+    "forbiddenWords": [
+      "Zincirler",
+      "Nihai",
+      "Hırsızlık yapmak",
+      "Demacia",
+      "Hapishane"
+    ]
+  },
+  "syndra": {
+    "id": "syndra",
+    "forbiddenWords": [
+      "Küreler",
+      "Stun",
+      "İyonya",
+      "Karanlık Egemen",
+      "Serbest Güç"
+    ]
+  },
+  "tahmkench": {
+    "id": "tahmkench",
+    "forbiddenWords": [
+      "Dil",
+      "yutmak",
+      "Yayın balığı",
+      "Nehir Kralı",
+      "Kalın Cilt"
+    ]
+  },
+  "taliyah": {
+    "id": "taliyah",
+    "forbiddenWords": [
+      "Taş",
+      "Shurima",
+      "İşlenmiş Zemin",
+      "Duvar",
+      "Taş dokuyan"
+    ]
+  },
+  "talon": {
+    "id": "talon",
+    "forbiddenWords": [
+      "Parkur",
+      "Bıçaklar",
+      "Noxus'ta",
+      "Suikastçı",
+      "Kanama"
+    ]
+  },
+  "taric": {
+    "id": "taric",
+    "forbiddenWords": [
+      "Taşlar",
+      "Targon",
+      "Zarar Göremezlik",
+      "Stun",
+      "Tabya"
+    ]
+  },
+  "teemo": {
+    "id": "teemo",
+    "forbiddenWords": [
+      "Mantar",
+      "Kör",
+      "Zehir",
+      "Yordle",
+      "izci"
+    ]
+  },
+  "thresh": {
+    "id": "thresh",
+    "forbiddenWords": [
+      "Hook",
+      "Fener",
+      "Ruhlar",
+      "deriyi soymak",
+      "Zincirler"
+    ]
+  },
+  "tristana": {
+    "id": "tristana",
+    "forbiddenWords": [
+      "Top",
+      "Roket Atlama",
+      "Bomba",
+      "Yordle",
+      "Buster Vuruşu"
+    ]
+  },
+  "trundle": {
+    "id": "trundle",
+    "forbiddenWords": [
+      "Trol",
+      "Sütun",
+      "Kulüp",
+      "Freljord",
+      "çiğne"
+    ]
+  },
+  "tryndamere": {
+    "id": "tryndamere",
+    "forbiddenWords": [
+      "ölümsüz",
+      "Öfkelenmek",
+      "Kritik",
+      "Kılıç",
+      "Ashe"
+    ]
+  },
+  "twistedfate": {
+    "id": "twistedfate",
+    "forbiddenWords": [
+      "Kartlar",
+      "Altın Kart",
+      "Kader",
+      "Kumarbaz",
+      "Işınlanma"
+    ]
+  },
+  "twitch": {
+    "id": "twitch",
+    "forbiddenWords": [
+      "Fare",
+      "Zehir",
+      "Görünmez",
+      "Arbalet",
+      "Spreyleyin ve dua edin"
+    ]
+  },
+  "udyr": {
+    "id": "udyr",
+    "forbiddenWords": [
+      "Duruşlar",
+      "Ayı",
+      "Anka Kuşu",
+      "Uyan",
+      "Freljord"
+    ]
+  },
+  "urgot": {
+    "id": "urgot",
+    "forbiddenWords": [
+      "Av Tüfeği Dizleri",
+      "Uygulamak",
+      "Öğütücü",
+      "Zaun",
+      "Zincirler"
+    ]
+  },
+  "varus": {
+    "id": "varus",
+    "forbiddenWords": [
+      "Ok",
+      "Darkin",
+      "Yolsuzluk",
+      "Yanıklık",
+      "Yay"
+    ]
+  },
+  "vayne": {
+    "id": "vayne",
+    "forbiddenWords": [
+      "Arbalet",
+      "takla",
+      "Gümüş Cıvatalar",
+      "Gerçek Hasar",
+      "Kınamak"
+    ]
+  },
+  "veigar": {
+    "id": "veigar",
+    "forbiddenWords": [
+      "Minik Usta",
+      "Kafes",
+      "Olağanüstü Kötülük",
+      "Yordle",
+      "Karanlık Madde"
+    ]
+  },
+  "velkoz": {
+    "id": "velkoz",
+    "forbiddenWords": [
+      "Geçersiz",
+      "Lazer",
+      "Dokunaçlar",
+      "Araştırma",
+      "Göz"
+    ]
+  },
+  "vex": {
+    "id": "vex",
+    "forbiddenWords": [
+      "Gölge",
+      "Kasvet",
+      "Yordle",
+      "Çizgi",
+      "Kıyamet"
+    ]
+  },
+  "vi": {
+    "id": "vi",
+    "forbiddenWords": [
+      "Eldivenler",
+      "Yumruk",
+      "Piltover",
+      "Caitlyn",
+      "Uğursuzluk"
+    ]
+  },
+  "viego": {
+    "id": "viego",
+    "forbiddenWords": [
+      "Mahvolmuş Kral",
+      "Sis",
+      "Isolde",
+      "Mülk",
+      "Kılıç"
+    ]
+  },
+  "viktor": {
+    "id": "viktor",
+    "forbiddenWords": [
+      "Hexcore",
+      "Evrim",
+      "Lazer",
+      "Makine Habercisi",
+      "Görkemli Evrim"
+    ]
+  },
+  "vladimir": {
+    "id": "vladimir",
+    "forbiddenWords": [
+      "Kan",
+      "Kan vebası",
+      "Havuz",
+      "Kızıl",
+      "Noxus'ta"
+    ]
+  },
+  "volibear": {
+    "id": "volibear",
+    "forbiddenWords": [
+      "Ayı",
+      "Yıldırım",
+      "Freljord",
+      "Fırtına",
+      "Gök gürültüsü"
+    ]
+  },
+  "warwick": {
+    "id": "warwick",
+    "forbiddenWords": [
+      "Kurt",
+      "Kan Avı",
+      "Zaun",
+      "Uluma",
+      "Vander"
+    ]
+  },
+  "monkeyking": {
+    "id": "monkeyking",
+    "forbiddenWords": [
+      "Maymun",
+      "Klon",
+      "Kadro",
+      "Siklon",
+      "Savaşçı Düzenbaz"
+    ]
+  },
+  "xayah": {
+    "id": "xayah",
+    "forbiddenWords": [
+      "Tüyler",
+      "Rakan",
+      "Kılıç Çağıran",
+      "Kök",
+      "Vastaya"
+    ]
+  },
+  "xerath": {
+    "id": "xerath",
+    "forbiddenWords": [
+      "Beceri atışları",
+      "Topçu",
+      "Gizemli",
+      "Uzun Menzil",
+      "Shurima"
+    ]
+  },
+  "xinzhao": {
+    "id": "xinzhao",
+    "forbiddenWords": [
+      "Mızrak",
+      "Demacia",
+      "Üç Pençe Saldırısı",
+      "Hilal Muhafızı",
+      "Şarj"
+    ]
+  },
+  "yasuo": {
+    "id": "yasuo",
+    "forbiddenWords": [
+      "Rüzgar Duvarı",
+      "Kasırga",
+      "Samuray",
+      "Hasagi",
+      "Havadan"
+    ]
+  },
+  "yone": {
+    "id": "yone",
+    "forbiddenWords": [
+      "Ruh",
+      "Maske",
+      "Yasuo",
+      "Ruh Sınırsız",
+      "Azakana"
+    ]
+  },
+  "yorick": {
+    "id": "yorick",
+    "forbiddenWords": [
+      "Kızlık",
+      "Gulyabaniler",
+      "Kürek",
+      "Bölünmüş İtme",
+      "Sis"
+    ]
+  },
+  "yunara": {
+    "id": "yunara",
+    "forbiddenWords": [
+      "Aşkınlık",
+      "Kritik Saldırı",
+      "Ruh Alemi",
+      "Aion Er'na",
+      "Tespihler"
+    ]
+  },
+  "yuumi": {
+    "id": "yuumi",
+    "forbiddenWords": [
+      "Kedi",
+      "Kitap",
+      "Eklemek",
+      "Yakınlaştırmalar",
+      "Hedeflenemez"
+    ]
+  },
+  "zaahen": {
+    "id": "zaahen",
+    "forbiddenWords": [
+      "Darkin",
+      "Glaive",
+      "Canlandırmak",
+      "Kararlılık",
+      "Kesintisiz"
+    ]
+  },
+  "zac": {
+    "id": "zac",
+    "forbiddenWords": [
+      "Balçık",
+      "Bloblar",
+      "Elastik",
+      "Sıçrama",
+      "Zaun"
+    ]
+  },
+  "zed": {
+    "id": "zed",
+    "forbiddenWords": [
+      "Gölgeler",
+      "Ölüm İşareti",
+      "Şuriken",
+      "Ninja",
+      "Enerji"
+    ]
+  },
+  "zeri": {
+    "id": "zeri",
+    "forbiddenWords": [
+      "Elektrik",
+      "Zaun",
+      "Patlama Ateşi",
+      "Yıldırım",
+      "Hız"
+    ]
+  },
+  "ziggs": {
+    "id": "ziggs",
+    "forbiddenWords": [
+      "Bomba",
+      "Patlayıcılar",
+      "Çanta",
+      "Yordle",
+      "Yıkımlar"
+    ]
+  },
+  "zilean": {
+    "id": "zilean",
+    "forbiddenWords": [
+      "Zaman",
+      "Bomba",
+      "Canlandırmak",
+      "Kronometre",
+      "Deneyim"
+    ]
+  },
+  "zoe": {
+    "id": "zoe",
+    "forbiddenWords": [
+      "Kabarcık",
+      "Portal",
+      "Uyumak",
+      "Targon",
+      "Alacakaranlık"
+    ]
+  },
+  "zyra": {
+    "id": "zyra",
+    "forbiddenWords": [
+      "Bitkiler",
+      "Kökler",
+      "Tohumlar",
+      "Dikenler",
+      "Bahçe"
+    ]
+  }
+}

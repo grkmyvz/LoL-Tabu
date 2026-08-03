@@ -78,12 +78,16 @@ flutter:
   assets:
     - assets/data/global/champions.json
     - assets/data/global/index.json
+    - assets/data/global/champion_bundle.json
     - assets/data/global/champions/
     - assets/data/en/index.json
+    - assets/data/en/champion_bundle.json
     - assets/data/en/champions/
     - assets/data/tr/index.json
+    - assets/data/tr/champion_bundle.json
     - assets/data/tr/champions/
     - assets/data/zh/index.json
+    - assets/data/zh/champion_bundle.json
     - assets/data/zh/champions/
     - assets/i18n/
     - assets/images/

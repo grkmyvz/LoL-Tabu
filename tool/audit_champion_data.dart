@@ -151,11 +151,13 @@ Future<void> _auditPubspecAssetDeclarations({
   final requiredAssets = <String>{
     'assets/data/global/champions.json',
     'assets/data/global/index.json',
+    'assets/data/global/champion_bundle.json',
     'assets/data/global/champions/',
   };
 
   for (final languageCode in languages) {
     requiredAssets.add('assets/data/$languageCode/index.json');
+    requiredAssets.add('assets/data/$languageCode/champion_bundle.json');
     requiredAssets.add('assets/data/$languageCode/champions/');
   }
 

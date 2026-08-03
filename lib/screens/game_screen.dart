@@ -95,7 +95,24 @@ class _GameScreenState extends State<GameScreen> {
                               if (roundFinished)
                                 Positioned.fill(
                                   child: Container(
-                                    color: Colors.grey.withValues(alpha: 0.45),
+                                    decoration: BoxDecoration(
+                                      gradient: RadialGradient(
+                                        center: Alignment.center,
+                                        radius: 1.1,
+                                        colors: [
+                                          const Color(
+                                            0xFF3A3A3A,
+                                          ).withValues(alpha: 0.86),
+                                          const Color(
+                                            0xFF171717,
+                                          ).withValues(alpha: 0.9),
+                                          const Color(
+                                            0xFF000000,
+                                          ).withValues(alpha: 0.96),
+                                        ],
+                                        stops: const [0.0, 0.62, 1.0],
+                                      ),
+                                    ),
                                     alignment: Alignment.center,
                                     child: Text(
                                       AppLocalization.roundFinished(

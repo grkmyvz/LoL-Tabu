@@ -23,6 +23,7 @@ A Flutter party game inspired by League champion taboo rounds.
 - Static analysis: `flutter analyze`
 - Tests: `flutter test`
 - Data audit: `dart run tool/audit_champion_data.dart --languages en,tr,zh`
+- Generate runtime bundles: `dart run tool/generate_champion_bundles.dart`
 
 ## Data Structure
 
@@ -31,6 +32,8 @@ A Flutter party game inspired by League champion taboo rounds.
 - Global champion files: `assets/data/global/champions/<id>.json`
 - Local indexes: `assets/data/en/index.json`, `assets/data/tr/index.json`, `assets/data/zh/index.json`
 - Local champion files: `assets/data/<lang>/champions/<id>.json`
+- Runtime global bundle: `assets/data/global/champion_bundle.json`
+- Runtime localized bundles: `assets/data/en/champion_bundle.json`, `assets/data/tr/champion_bundle.json`, `assets/data/zh/champion_bundle.json`
 
 ## Project Structure
 

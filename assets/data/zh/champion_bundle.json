@@ -1,0 +1,1732 @@
+{
+  "aatrox": {
+    "id": "aatrox",
+    "forbiddenWords": [
+      "达金",
+      "剑",
+      "世界末日",
+      "恶魔",
+      "顶部"
+    ]
+  },
+  "ahri": {
+    "id": "ahri",
+    "forbiddenWords": [
+      "狐狸",
+      "魅力",
+      "宝珠",
+      "九尾",
+      "灵魂冲刺"
+    ]
+  },
+  "akali": {
+    "id": "akali",
+    "forbiddenWords": [
+      "忍者",
+      "抽烟",
+      "苦无",
+      "手里剑",
+      "刺客"
+    ]
+  },
+  "akshan": {
+    "id": "akshan",
+    "forbiddenWords": [
+      "复活",
+      "抓钩",
+      "回旋镖",
+      "哨兵",
+      "摇摆"
+    ]
+  },
+  "alistar": {
+    "id": "alistar",
+    "forbiddenWords": [
+      "公牛",
+      "奶牛",
+      "头撞",
+      "粉碎",
+      "支持"
+    ]
+  },
+  "ambessa": {
+    "id": "ambessa",
+    "forbiddenWords": [
+      "梅达尔达",
+      "诺克萨斯",
+      "奥术",
+      "一般的",
+      "链条"
+    ]
+  },
+  "amumu": {
+    "id": "amumu",
+    "forbiddenWords": [
+      "木乃伊",
+      "伤心",
+      "绷带",
+      "哭",
+      "诅咒"
+    ]
+  },
+  "anivia": {
+    "id": "anivia",
+    "forbiddenWords": [
+      "冰",
+      "蛋",
+      "墙",
+      "凤凰",
+      "鸟"
+    ]
+  },
+  "annie": {
+    "id": "annie",
+    "forbiddenWords": [
+      "蒂伯斯",
+      "熊",
+      "火",
+      "击晕",
+      "孩子"
+    ]
+  },
+  "aphelios": {
+    "id": "aphelios",
+    "forbiddenWords": [
+      "阿鲁恩",
+      "月亮",
+      "五种武器",
+      "枪",
+      "射手"
+    ]
+  },
+  "ashe": {
+    "id": "ashe",
+    "forbiddenWords": [
+      "弓",
+      "箭",
+      "冰",
+      "弗雷尔卓德",
+      "击晕"
+    ]
+  },
+  "aurelionsol": {
+    "id": "aurelionsol",
+    "forbiddenWords": [
+      "龙",
+      "星星",
+      "空间",
+      "天界",
+      "黑洞"
+    ]
+  },
+  "aurora": {
+    "id": "aurora",
+    "forbiddenWords": [
+      "兔子",
+      "精神",
+      "弗雷尔卓德",
+      "巫婆",
+      "领域"
+    ]
+  },
+  "azir": {
+    "id": "azir",
+    "forbiddenWords": [
+      "恕瑞玛",
+      "皇帝",
+      "沙兵",
+      "随机播放",
+      "鸟"
+    ]
+  },
+  "bard": {
+    "id": "bard",
+    "forbiddenWords": [
+      "米普斯",
+      "编钟",
+      "门户网站",
+      "金的",
+      "漫游"
+    ]
+  },
+  "belveth": {
+    "id": "belveth",
+    "forbiddenWords": [
+      "空白",
+      "蝠鲼",
+      "皇后",
+      "薰衣草",
+      "攻击速度"
+    ]
+  },
+  "blitzcrank": {
+    "id": "blitzcrank",
+    "forbiddenWords": [
+      "钩",
+      "机器人",
+      "抓住",
+      "敲起来",
+      "扎安"
+    ]
+  },
+  "brand": {
+    "id": "brand",
+    "forbiddenWords": [
+      "火",
+      "烧伤",
+      "击晕",
+      "火焰",
+      "爆炸"
+    ]
+  },
+  "braum": {
+    "id": "braum",
+    "forbiddenWords": [
+      "盾",
+      "胡子",
+      "弗雷尔卓德",
+      "门",
+      "波罗斯岛"
+    ]
+  },
+  "briar": {
+    "id": "briar",
+    "forbiddenWords": [
+      "血",
+      "疯狂",
+      "饥饿",
+      "脚",
+      "颈手枷"
+    ]
+  },
+  "caitlyn": {
+    "id": "caitlyn",
+    "forbiddenWords": [
+      "狙击手",
+      "步枪",
+      "陷阱",
+      "皮尔特沃夫",
+      "警长"
+    ]
+  },
+  "camille": {
+    "id": "camille",
+    "forbiddenWords": [
+      "剪刀腿",
+      "海克斯泰克",
+      "勾手射击",
+      "真实伤害",
+      "铁罗斯"
+    ]
+  },
+  "cassiopeia": {
+    "id": "cassiopeia",
+    "forbiddenWords": [
+      "蛇",
+      "毒",
+      "石化",
+      "獠牙",
+      "没有靴子"
+    ]
+  },
+  "chogath": {
+    "id": "chogath",
+    "forbiddenWords": [
+      "盛宴",
+      "空白",
+      "怪物",
+      "堆栈",
+      "生长"
+    ]
+  },
+  "corki": {
+    "id": "corki",
+    "forbiddenWords": [
+      "飞机",
+      "约德尔",
+      "导弹",
+      "飞行员",
+      "胡子"
+    ]
+  },
+  "darius": {
+    "id": "darius",
+    "forbiddenWords": [
+      "斧头",
+      "诺克萨斯",
+      "扣篮",
+      "流血",
+      "断头台"
+    ]
+  },
+  "diana": {
+    "id": "diana",
+    "forbiddenWords": [
+      "月亮",
+      "卢纳里",
+      "新月",
+      "短跑",
+      "利昂娜"
+    ]
+  },
+  "drmundo": {
+    "id": "drmundo",
+    "forbiddenWords": [
+      "医生",
+      "切肉刀",
+      "紫色的",
+      "再生",
+      "去他想去的地方"
+    ]
+  },
+  "draven": {
+    "id": "draven",
+    "forbiddenWords": [
+      "轴",
+      "抓住",
+      "诺克萨斯",
+      "刽子手",
+      "崇拜"
+    ]
+  },
+  "ekko": {
+    "id": "ekko",
+    "forbiddenWords": [
+      "时间",
+      "扎安",
+      "时空断裂",
+      "倒带",
+      "Z 驱动器"
+    ]
+  },
+  "elise": {
+    "id": "elise",
+    "forbiddenWords": [
+      "蜘蛛",
+      "茧",
+      "网络",
+      "垂降",
+      "转换"
+    ]
+  },
+  "evelynn": {
+    "id": "evelynn",
+    "forbiddenWords": [
+      "无形的",
+      "魅力",
+      "恶魔",
+      "隐身",
+      "凯达"
+    ]
+  },
+  "ezreal": {
+    "id": "ezreal",
+    "forbiddenWords": [
+      "挑战",
+      "探险家",
+      "神秘射击",
+      "眨",
+      "奥术"
+    ]
+  },
+  "fiddlesticks": {
+    "id": "fiddlesticks",
+    "forbiddenWords": [
+      "稻草人",
+      "害怕",
+      "乌鸦",
+      "流走",
+      "群鸦风暴"
+    ]
+  },
+  "fiora": {
+    "id": "fiora",
+    "forbiddenWords": [
+      "决斗者",
+      "必不可少的",
+      "招架",
+      "剑杆",
+      "真实伤害"
+    ]
+  },
+  "fizz": {
+    "id": "fizz",
+    "forbiddenWords": [
+      "鲨鱼",
+      "三叉戟",
+      "鱼",
+      "无法确定目标",
+      "比尔吉沃特"
+    ]
+  },
+  "galio": {
+    "id": "galio",
+    "forbiddenWords": [
+      "石像鬼",
+      "德玛西亚",
+      "巨人",
+      "魔法",
+      "嘲讽"
+    ]
+  },
+  "gangplank": {
+    "id": "gangplank",
+    "forbiddenWords": [
+      "桶",
+      "海盗",
+      "橙子",
+      "比尔吉沃特",
+      "大炮"
+    ]
+  },
+  "garen": {
+    "id": "garen",
+    "forbiddenWords": [
+      "德玛西亚",
+      "旋转",
+      "剑",
+      "沉默",
+      "正义"
+    ]
+  },
+  "gnar": {
+    "id": "gnar",
+    "forbiddenWords": [
+      "兆",
+      "回旋镖",
+      "愤怒",
+      "约德尔",
+      "转换"
+    ]
+  },
+  "gragas": {
+    "id": "gragas",
+    "forbiddenWords": [
+      "桶",
+      "啤酒",
+      "腹部",
+      "弗雷尔卓德",
+      "身体猛击"
+    ]
+  },
+  "graves": {
+    "id": "graves",
+    "forbiddenWords": [
+      "霰弹枪",
+      "抽烟",
+      "比尔吉沃特",
+      "扭曲的命运",
+      "重新加载"
+    ]
+  },
+  "gwen": {
+    "id": "gwen",
+    "forbiddenWords": [
+      "剪刀",
+      "玩具娃娃",
+      "针",
+      "薄雾",
+      "剪剪"
+    ]
+  },
+  "hecarim": {
+    "id": "hecarim",
+    "forbiddenWords": [
+      "马",
+      "半人马座",
+      "收费",
+      "暗影岛",
+      "害怕"
+    ]
+  },
+  "heimerdinger": {
+    "id": "heimerdinger",
+    "forbiddenWords": [
+      "炮塔",
+      "科学家",
+      "约德尔",
+      "皮尔特沃夫",
+      "大头"
+    ]
+  },
+  "hwei": {
+    "id": "hwei",
+    "forbiddenWords": [
+      "画家",
+      "刷子",
+      "烬",
+      "十项能力",
+      "颜色"
+    ]
+  },
+  "illaoi": {
+    "id": "illaoi",
+    "forbiddenWords": [
+      "触手",
+      "精神",
+      "纳加卡布罗斯",
+      "偶像",
+      "比尔吉沃特"
+    ]
+  },
+  "irelia": {
+    "id": "irelia",
+    "forbiddenWords": [
+      "刀片",
+      "爱奥尼亚",
+      "短跑",
+      "小黄人",
+      "刀锋舞者"
+    ]
+  },
+  "ivern": {
+    "id": "ivern",
+    "forbiddenWords": [
+      "树",
+      "雏菊",
+      "森林之友",
+      "衬套",
+      "丛林"
+    ]
+  },
+  "janna": {
+    "id": "janna",
+    "forbiddenWords": [
+      "风",
+      "龙卷风",
+      "盾",
+      "和风",
+      "支持"
+    ]
+  },
+  "jarvaniv": {
+    "id": "jarvaniv",
+    "forbiddenWords": [
+      "德玛西亚",
+      "王子",
+      "旗帜",
+      "大灾变",
+      "情商"
+    ]
+  },
+  "jax": {
+    "id": "jax",
+    "forbiddenWords": [
+      "灯",
+      "反恐精英",
+      "艾卡西亚",
+      "棋圣",
+      "邦克"
+    ]
+  },
+  "jayce": {
+    "id": "jayce",
+    "forbiddenWords": [
+      "锤",
+      "大炮",
+      "皮尔特沃夫",
+      "维克多",
+      "冲击波"
+    ]
+  },
+  "jhin": {
+    "id": "jhin",
+    "forbiddenWords": [
+      "四",
+      "面具",
+      "艺术",
+      "大师",
+      "第四枪"
+    ]
+  },
+  "jinx": {
+    "id": "jinx",
+    "forbiddenWords": [
+      "粉末",
+      "火箭",
+      "扎安",
+      "奥术",
+      "维"
+    ]
+  },
+  "ksante": {
+    "id": "ksante",
+    "forbiddenWords": [
+      "纳祖玛",
+      "全力以赴",
+      "坦克",
+      "恩托福斯",
+      "恕瑞玛"
+    ]
+  },
+  "kaisa": {
+    "id": "kaisa",
+    "forbiddenWords": [
+      "空白",
+      "凯达",
+      "发展",
+      "等离子体",
+      "套装"
+    ]
+  },
+  "kalista": {
+    "id": "kalista",
+    "forbiddenWords": [
+      "矛",
+      "宣誓",
+      "复仇",
+      "撕裂",
+      "暗影岛"
+    ]
+  },
+  "karma": {
+    "id": "karma",
+    "forbiddenWords": [
+      "咒语",
+      "爱奥尼亚",
+      "盾",
+      "赋权",
+      "系绳"
+    ]
+  },
+  "karthus": {
+    "id": "karthus",
+    "forbiddenWords": [
+      "安魂曲",
+      "全球终极版",
+      "死亡",
+      "浪费",
+      "巫妖"
+    ]
+  },
+  "kassadin": {
+    "id": "kassadin",
+    "forbiddenWords": [
+      "空白",
+      "裂谷步道",
+      "马尔扎哈尔",
+      "沉默",
+      "紫色的"
+    ]
+  },
+  "katarina": {
+    "id": "katarina",
+    "forbiddenWords": [
+      "匕首",
+      "重置",
+      "旋转",
+      "诺克萨斯",
+      "刺客"
+    ]
+  },
+  "kayle": {
+    "id": "kayle",
+    "forbiddenWords": [
+      "天使",
+      "翅膀",
+      "16级",
+      "莫甘娜",
+      "刀枪不入"
+    ]
+  },
+  "kayn": {
+    "id": "kayn",
+    "forbiddenWords": [
+      "拉亚斯特",
+      "达金",
+      "蓝色表格",
+      "红色表格",
+      "墙壁"
+    ]
+  },
+  "kennen": {
+    "id": "kennen",
+    "forbiddenWords": [
+      "闪电",
+      "手里剑",
+      "忍者",
+      "约德尔",
+      "击晕"
+    ]
+  },
+  "khazix": {
+    "id": "khazix",
+    "forbiddenWords": [
+      "进化",
+      "隔离",
+      "空白",
+      "昆虫",
+      "雷恩加尔"
+    ]
+  },
+  "kindred": {
+    "id": "kindred",
+    "forbiddenWords": [
+      "羊肉",
+      "狼",
+      "马克",
+      "死亡",
+      "弓"
+    ]
+  },
+  "kled": {
+    "id": "kled",
+    "forbiddenWords": [
+      "斯卡尔",
+      "约德尔",
+      "山",
+      "胆小的蜥蜴",
+      "诺克萨斯"
+    ]
+  },
+  "kogmaw": {
+    "id": "kogmaw",
+    "forbiddenWords": [
+      "空白",
+      "吐",
+      "炮兵",
+      "被动爆炸",
+      "嘴"
+    ]
+  },
+  "leblanc": {
+    "id": "leblanc",
+    "forbiddenWords": [
+      "克隆",
+      "骗子",
+      "黑玫瑰",
+      "失真",
+      "诺克萨斯"
+    ]
+  },
+  "leesin": {
+    "id": "leesin",
+    "forbiddenWords": [
+      "瞎的",
+      "踢",
+      "沃德",
+      "昆虫",
+      "僧"
+    ]
+  },
+  "leona": {
+    "id": "leona",
+    "forbiddenWords": [
+      "太阳",
+      "盾",
+      "击晕",
+      "索拉里",
+      "戴安娜"
+    ]
+  },
+  "lillia": {
+    "id": "lillia",
+    "forbiddenWords": [
+      "鹿",
+      "梦",
+      "睡觉",
+      "埃普",
+      "讨好"
+    ]
+  },
+  "lissandra": {
+    "id": "lissandra",
+    "forbiddenWords": [
+      "冰",
+      "冷冻",
+      "巫婆",
+      "弗雷尔卓德",
+      "自我终极"
+    ]
+  },
+  "locke": {
+    "id": "locke",
+    "forbiddenWords": [
+      "指甲",
+      "驱魔师",
+      "炼狱",
+      "恶魔",
+      "执行"
+    ]
+  },
+  "lucian": {
+    "id": "lucian",
+    "forbiddenWords": [
+      "番泻叶",
+      "枪",
+      "短跑",
+      "净化器",
+      "双摄"
+    ]
+  },
+  "lulu": {
+    "id": "lulu",
+    "forbiddenWords": [
+      "像素",
+      "多晶型物",
+      "约德尔",
+      "紫色的",
+      "纸杯蛋糕"
+    ]
+  },
+  "lux": {
+    "id": "lux",
+    "forbiddenWords": [
+      "光",
+      "激光",
+      "德玛西亚",
+      "装订",
+      "彩虹"
+    ]
+  },
+  "malphite": {
+    "id": "malphite",
+    "forbiddenWords": [
+      "岩石",
+      "石头",
+      "势不可挡",
+      "盔甲",
+      "敲起来"
+    ]
+  },
+  "malzahar": {
+    "id": "malzahar",
+    "forbiddenWords": [
+      "空白",
+      "压制",
+      "虚灵",
+      "先知",
+      "太空艾滋病"
+    ]
+  },
+  "maokai": {
+    "id": "maokai",
+    "forbiddenWords": [
+      "树",
+      "树苗",
+      "根",
+      "暗影岛",
+      "坦克"
+    ]
+  },
+  "masteryi": {
+    "id": "masteryi",
+    "forbiddenWords": [
+      "阿尔法",
+      "吴举",
+      "剑",
+      "幽思",
+      "汉兰达"
+    ]
+  },
+  "mel": {
+    "id": "mel",
+    "forbiddenWords": [
+      "反映",
+      "梅达尔达",
+      "奥术",
+      "金的",
+      "诺克萨斯"
+    ]
+  },
+  "milio": {
+    "id": "milio",
+    "forbiddenWords": [
+      "火",
+      "富美吾",
+      "以绪塔尔",
+      "洁净",
+      "背包"
+    ]
+  },
+  "missfortune": {
+    "id": "missfortune",
+    "forbiddenWords": [
+      "枪",
+      "子弹时间",
+      "比尔吉沃特",
+      "海盗",
+      "莎拉"
+    ]
+  },
+  "mordekaiser": {
+    "id": "mordekaiser",
+    "forbiddenWords": [
+      "死亡领域",
+      "锤",
+      "巴西",
+      "铁",
+      "诺克萨斯"
+    ]
+  },
+  "morgana": {
+    "id": "morgana",
+    "forbiddenWords": [
+      "装订",
+      "黑盾",
+      "凯尔",
+      "堕落天使",
+      "链条"
+    ]
+  },
+  "naafiri": {
+    "id": "naafiri",
+    "forbiddenWords": [
+      "狗",
+      "盒",
+      "达金",
+      "匕首",
+      "猎犬"
+    ]
+  },
+  "nami": {
+    "id": "nami",
+    "forbiddenWords": [
+      "美人鱼",
+      "气泡",
+      "海浪",
+      "潮",
+      "职员"
+    ]
+  },
+  "nasus": {
+    "id": "nasus",
+    "forbiddenWords": [
+      "堆",
+      "甘蔗",
+      "狗",
+      "恕瑞玛",
+      "枯萎"
+    ]
+  },
+  "nautilus": {
+    "id": "nautilus",
+    "forbiddenWords": [
+      "锚",
+      "钩",
+      "泰坦",
+      "深度",
+      "比尔吉沃特"
+    ]
+  },
+  "neeko": {
+    "id": "neeko",
+    "forbiddenWords": [
+      "变色龙",
+      "伪装",
+      "番茄",
+      "克隆",
+      "流行花"
+    ]
+  },
+  "nidalee": {
+    "id": "nidalee",
+    "forbiddenWords": [
+      "矛",
+      "美洲狮",
+      "转换",
+      "陷阱",
+      "打猎"
+    ]
+  },
+  "nilah": {
+    "id": "nilah",
+    "forbiddenWords": [
+      "喜悦",
+      "鞭",
+      "水",
+      "阿什莱什",
+      "近战ADC"
+    ]
+  },
+  "nocturne": {
+    "id": "nocturne",
+    "forbiddenWords": [
+      "黑暗",
+      "恶梦",
+      "害怕",
+      "全球终极版",
+      "法术护盾"
+    ]
+  },
+  "nunu": {
+    "id": "nunu",
+    "forbiddenWords": [
+      "威朗普",
+      "雪球",
+      "雪人",
+      "弗雷尔卓德",
+      "绝对零"
+    ]
+  },
+  "olaf": {
+    "id": "olaf",
+    "forbiddenWords": [
+      "轴",
+      "狂战士",
+      "维京人",
+      "仙境传说",
+      "弗雷尔卓德"
+    ]
+  },
+  "orianna": {
+    "id": "orianna",
+    "forbiddenWords": [
+      "球",
+      "机器人",
+      "发条",
+      "冲击波",
+      "命令"
+    ]
+  },
+  "ornn": {
+    "id": "ornn",
+    "forbiddenWords": [
+      "锻造",
+      "锤",
+      "内存",
+      "项目",
+      "沃利贝尔"
+    ]
+  },
+  "pantheon": {
+    "id": "pantheon",
+    "forbiddenWords": [
+      "矛",
+      "盾",
+      "斯巴达人",
+      "巨神龙",
+      "阿特柔斯"
+    ]
+  },
+  "poppy": {
+    "id": "poppy",
+    "forbiddenWords": [
+      "锤",
+      "约德尔",
+      "德玛西亚",
+      "墙",
+      "英雄"
+    ]
+  },
+  "pyke": {
+    "id": "pyke",
+    "forbiddenWords": [
+      "钩",
+      "鱼叉",
+      "比尔吉沃特",
+      "执行",
+      "淹死"
+    ]
+  },
+  "qiyana": {
+    "id": "qiyana",
+    "forbiddenWords": [
+      "元素",
+      "以绪塔尔",
+      "环形刀片",
+      "皇后",
+      "草"
+    ]
+  },
+  "quinn": {
+    "id": "quinn",
+    "forbiddenWords": [
+      "勇气",
+      "鸟",
+      "德玛西亚",
+      "侦察",
+      "弩"
+    ]
+  },
+  "rakan": {
+    "id": "rakan",
+    "forbiddenWords": [
+      "霞",
+      "魅力",
+      "羽毛",
+      "瓦斯塔亚",
+      "情人"
+    ]
+  },
+  "rammus": {
+    "id": "rammus",
+    "forbiddenWords": [
+      "好的",
+      "犰狳",
+      "卷",
+      "嘲讽",
+      "鞋钉"
+    ]
+  },
+  "reksai": {
+    "id": "reksai",
+    "forbiddenWords": [
+      "空白",
+      "隧道",
+      "洞穴",
+      "女王",
+      "真实视力"
+    ]
+  },
+  "rell": {
+    "id": "rell",
+    "forbiddenWords": [
+      "马",
+      "磁铁",
+      "金属",
+      "槊",
+      "诺克萨斯"
+    ]
+  },
+  "renata": {
+    "id": "renata",
+    "forbiddenWords": [
+      "化学技术",
+      "扎安",
+      "握手",
+      "救助",
+      "商业"
+    ]
+  },
+  "renekton": {
+    "id": "renekton",
+    "forbiddenWords": [
+      "鳄鱼",
+      "恕瑞玛",
+      "片",
+      "愤怒",
+      "内瑟斯"
+    ]
+  },
+  "rengar": {
+    "id": "rengar",
+    "forbiddenWords": [
+      "衬套",
+      "飞跃",
+      "杯",
+      "猎人",
+      "卡兹克"
+    ]
+  },
+  "riven": {
+    "id": "riven",
+    "forbiddenWords": [
+      "断剑",
+      "流亡",
+      "组合",
+      "动画取消",
+      "风斩"
+    ]
+  },
+  "rumble": {
+    "id": "rumble",
+    "forbiddenWords": [
+      "机甲",
+      "热",
+      "过热",
+      "喷火器",
+      "均衡器"
+    ]
+  },
+  "ryze": {
+    "id": "ryze",
+    "forbiddenWords": [
+      "符文",
+      "蓝色的",
+      "滚动",
+      "领域扭曲",
+      "法师"
+    ]
+  },
+  "samira": {
+    "id": "samira",
+    "forbiddenWords": [
+      "风格",
+      "S级",
+      "枪",
+      "剑",
+      "地狱触发"
+    ]
+  },
+  "sejuani": {
+    "id": "sejuani",
+    "forbiddenWords": [
+      "鬃",
+      "公猪",
+      "弗雷尔卓德",
+      "连枷",
+      "永久冻土"
+    ]
+  },
+  "senna": {
+    "id": "senna",
+    "forbiddenWords": [
+      "卢西恩",
+      "锤石",
+      "薄雾",
+      "灵魂",
+      "遗物大炮"
+    ]
+  },
+  "seraphine": {
+    "id": "seraphine",
+    "forbiddenWords": [
+      "歌手",
+      "音乐",
+      "阶段",
+      "钾/DA",
+      "安可"
+    ]
+  },
+  "sett": {
+    "id": "sett",
+    "forbiddenWords": [
+      "老板",
+      "冲床",
+      "干草机",
+      "妈妈",
+      "爱奥尼亚"
+    ]
+  },
+  "shaco": {
+    "id": "shaco",
+    "forbiddenWords": [
+      "小丑",
+      "盒子",
+      "克隆",
+      "背刺",
+      "无形的"
+    ]
+  },
+  "shen": {
+    "id": "shen",
+    "forbiddenWords": [
+      "忍者",
+      "嘲讽",
+      "传送",
+      "均衡",
+      "灵刃"
+    ]
+  },
+  "shyvana": {
+    "id": "shyvana",
+    "forbiddenWords": [
+      "龙",
+      "火",
+      "半龙",
+      "德玛西亚",
+      "嘉文四世"
+    ]
+  },
+  "singed": {
+    "id": "singed",
+    "forbiddenWords": [
+      "毒",
+      "一扔",
+      "化学家",
+      "扎安",
+      "微光"
+    ]
+  },
+  "sion": {
+    "id": "sion",
+    "forbiddenWords": [
+      "僵尸",
+      "斧头",
+      "收费",
+      "诺克萨斯",
+      "亡灵"
+    ]
+  },
+  "sivir": {
+    "id": "sivir",
+    "forbiddenWords": [
+      "回旋镖",
+      "十字刃",
+      "恕瑞玛",
+      "法术护盾",
+      "雇佣兵"
+    ]
+  },
+  "skarner": {
+    "id": "skarner",
+    "forbiddenWords": [
+      "蝎",
+      "以绪塔尔",
+      "博尔德",
+      "刺穿",
+      "墙"
+    ]
+  },
+  "smolder": {
+    "id": "smolder",
+    "forbiddenWords": [
+      "龙",
+      "堆栈",
+      "火",
+      "妈妈",
+      "执行"
+    ]
+  },
+  "sona": {
+    "id": "sona",
+    "forbiddenWords": [
+      "音乐",
+      "埃特瓦尔",
+      "沉默的",
+      "渐强",
+      "光环"
+    ]
+  },
+  "soraka": {
+    "id": "soraka",
+    "forbiddenWords": [
+      "愈合",
+      "香蕉",
+      "星星",
+      "沉默",
+      "希望"
+    ]
+  },
+  "swain": {
+    "id": "swain",
+    "forbiddenWords": [
+      "乌鸦队",
+      "诺克萨斯",
+      "恶魔",
+      "一般的",
+      "流走"
+    ]
+  },
+  "sylas": {
+    "id": "sylas",
+    "forbiddenWords": [
+      "链条",
+      "最终的",
+      "偷",
+      "德玛西亚",
+      "监狱"
+    ]
+  },
+  "syndra": {
+    "id": "syndra",
+    "forbiddenWords": [
+      "球体",
+      "击晕",
+      "爱奥尼亚",
+      "黑暗君主",
+      "释放力量"
+    ]
+  },
+  "tahmkench": {
+    "id": "tahmkench",
+    "forbiddenWords": [
+      "舌头",
+      "吞食",
+      "鲶鱼",
+      "河王",
+      "脸皮厚"
+    ]
+  },
+  "taliyah": {
+    "id": "taliyah",
+    "forbiddenWords": [
+      "石头",
+      "恕瑞玛",
+      "工作过的地面",
+      "墙",
+      "织石者"
+    ]
+  },
+  "talon": {
+    "id": "talon",
+    "forbiddenWords": [
+      "跑酷",
+      "刀片",
+      "诺克萨斯",
+      "刺客",
+      "流血"
+    ]
+  },
+  "taric": {
+    "id": "taric",
+    "forbiddenWords": [
+      "宝石",
+      "巨神龙",
+      "刀枪不入",
+      "击晕",
+      "堡垒"
+    ]
+  },
+  "teemo": {
+    "id": "teemo",
+    "forbiddenWords": [
+      "蘑菇",
+      "瞎的",
+      "毒",
+      "约德尔",
+      "侦察"
+    ]
+  },
+  "thresh": {
+    "id": "thresh",
+    "forbiddenWords": [
+      "钩",
+      "灯笼",
+      "灵魂",
+      "剥皮",
+      "链条"
+    ]
+  },
+  "tristana": {
+    "id": "tristana",
+    "forbiddenWords": [
+      "大炮",
+      "火箭跳跃",
+      "炸弹",
+      "约德尔",
+      "破坏射击"
+    ]
+  },
+  "trundle": {
+    "id": "trundle",
+    "forbiddenWords": [
+      "巨魔",
+      "支柱",
+      "俱乐部",
+      "弗雷尔卓德",
+      "切普"
+    ]
+  },
+  "tryndamere": {
+    "id": "tryndamere",
+    "forbiddenWords": [
+      "不朽",
+      "愤怒",
+      "批判的",
+      "剑",
+      "阿什"
+    ]
+  },
+  "twistedfate": {
+    "id": "twistedfate",
+    "forbiddenWords": [
+      "牌",
+      "金卡",
+      "命运",
+      "赌徒",
+      "传送"
+    ]
+  },
+  "twitch": {
+    "id": "twitch",
+    "forbiddenWords": [
+      "鼠",
+      "毒",
+      "无形的",
+      "弩",
+      "喷雾和祈祷"
+    ]
+  },
+  "udyr": {
+    "id": "udyr",
+    "forbiddenWords": [
+      "立场",
+      "熊",
+      "凤凰",
+      "觉醒",
+      "弗雷尔卓德"
+    ]
+  },
+  "urgot": {
+    "id": "urgot",
+    "forbiddenWords": [
+      "霰弹枪膝盖",
+      "执行",
+      "磨床",
+      "扎安",
+      "链条"
+    ]
+  },
+  "varus": {
+    "id": "varus",
+    "forbiddenWords": [
+      "箭",
+      "达金",
+      "腐败",
+      "枯萎病",
+      "弓"
+    ]
+  },
+  "vayne": {
+    "id": "vayne",
+    "forbiddenWords": [
+      "弩",
+      "翻滚",
+      "银螺栓",
+      "真实伤害",
+      "谴责"
+    ]
+  },
+  "veigar": {
+    "id": "veigar",
+    "forbiddenWords": [
+      "小大师",
+      "笼",
+      "现象级的邪恶",
+      "约德尔",
+      "暗物质"
+    ]
+  },
+  "velkoz": {
+    "id": "velkoz",
+    "forbiddenWords": [
+      "空白",
+      "激光",
+      "触手",
+      "研究",
+      "眼睛"
+    ]
+  },
+  "vex": {
+    "id": "vex",
+    "forbiddenWords": [
+      "阴影",
+      "愁云",
+      "约德尔",
+      "短跑",
+      "厄运"
+    ]
+  },
+  "vi": {
+    "id": "vi",
+    "forbiddenWords": [
+      "护手",
+      "冲床",
+      "皮尔特沃夫",
+      "凯特琳",
+      "金克斯"
+    ]
+  },
+  "viego": {
+    "id": "viego",
+    "forbiddenWords": [
+      "破败之王",
+      "薄雾",
+      "伊索尔德",
+      "拥有",
+      "剑"
+    ]
+  },
+  "viktor": {
+    "id": "viktor",
+    "forbiddenWords": [
+      "六角核",
+      "进化",
+      "激光",
+      "机器先驱报",
+      "光荣进化"
+    ]
+  },
+  "vladimir": {
+    "id": "vladimir",
+    "forbiddenWords": [
+      "血",
+      "血瘟",
+      "水池",
+      "赤红",
+      "诺克萨斯"
+    ]
+  },
+  "volibear": {
+    "id": "volibear",
+    "forbiddenWords": [
+      "熊",
+      "闪电",
+      "弗雷尔卓德",
+      "风暴",
+      "雷"
+    ]
+  },
+  "warwick": {
+    "id": "warwick",
+    "forbiddenWords": [
+      "狼",
+      "血猎",
+      "扎安",
+      "嗥",
+      "范德"
+    ]
+  },
+  "monkeyking": {
+    "id": "monkeyking",
+    "forbiddenWords": [
+      "猴",
+      "克隆",
+      "职员",
+      "气旋",
+      "战士骗子"
+    ]
+  },
+  "xayah": {
+    "id": "xayah",
+    "forbiddenWords": [
+      "羽毛",
+      "洛",
+      "剑锋召唤者",
+      "根",
+      "瓦斯塔亚"
+    ]
+  },
+  "xerath": {
+    "id": "xerath",
+    "forbiddenWords": [
+      "技能射击",
+      "炮兵",
+      "奥术",
+      "远程",
+      "恕瑞玛"
+    ]
+  },
+  "xinzhao": {
+    "id": "xinzhao",
+    "forbiddenWords": [
+      "矛",
+      "德玛西亚",
+      "三爪攻击",
+      "新月守卫",
+      "收费"
+    ]
+  },
+  "yasuo": {
+    "id": "yasuo",
+    "forbiddenWords": [
+      "风墙",
+      "龙卷风",
+      "武士",
+      "波佐吉",
+      "空降兵"
+    ]
+  },
+  "yone": {
+    "id": "yone",
+    "forbiddenWords": [
+      "精神",
+      "面具",
+      "亚索",
+      "灵魂无束缚",
+      "阿扎卡纳"
+    ]
+  },
+  "yorick": {
+    "id": "yorick",
+    "forbiddenWords": [
+      "少女",
+      "食尸鬼",
+      "铲",
+      "分推",
+      "薄雾"
+    ]
+  },
+  "yunara": {
+    "id": "yunara",
+    "forbiddenWords": [
+      "超越",
+      "致命一击",
+      "灵域",
+      "永恒之塔埃尔娜",
+      "念珠"
+    ]
+  },
+  "yuumi": {
+    "id": "yuumi",
+    "forbiddenWords": [
+      "猫",
+      "书",
+      "附",
+      "变焦",
+      "无法确定目标"
+    ]
+  },
+  "zaahen": {
+    "id": "zaahen",
+    "forbiddenWords": [
+      "达金",
+      "格莱夫",
+      "复活",
+      "决心",
+      "未破的"
+    ]
+  },
+  "zac": {
+    "id": "zac",
+    "forbiddenWords": [
+      "粘液",
+      "斑点",
+      "松紧带",
+      "弹跳",
+      "扎安"
+    ]
+  },
+  "zed": {
+    "id": "zed",
+    "forbiddenWords": [
+      "阴影",
+      "死亡印记",
+      "手里剑",
+      "忍者",
+      "活力"
+    ]
+  },
+  "zeri": {
+    "id": "zeri",
+    "forbiddenWords": [
+      "电",
+      "扎安",
+      "爆火",
+      "闪电",
+      "速度"
+    ]
+  },
+  "ziggs": {
+    "id": "ziggs",
+    "forbiddenWords": [
+      "炸弹",
+      "炸药",
+      "书包",
+      "约德尔",
+      "拆除"
+    ]
+  },
+  "zilean": {
+    "id": "zilean",
+    "forbiddenWords": [
+      "时间",
+      "炸弹",
+      "复活",
+      "计时守护者",
+      "经验"
+    ]
+  },
+  "zoe": {
+    "id": "zoe",
+    "forbiddenWords": [
+      "气泡",
+      "门户网站",
+      "睡觉",
+      "巨神龙",
+      "暮"
+    ]
+  },
+  "zyra": {
+    "id": "zyra",
+    "forbiddenWords": [
+      "植物",
+      "根源",
+      "种子",
+      "荆棘",
+      "花园"
+    ]
+  }
+}
