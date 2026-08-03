@@ -1,0 +1,32 @@
+{
+    "id": "hwei",
+    "imageSlug": "Hwei",
+    "key": "910",
+    "name": "Hwei",
+    "skins": [
+        {
+            "id": "910000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "910001",
+            "num": 1,
+            "name": "Winterblessed Hwei",
+            "chromas": true
+        },
+        {
+            "id": "910011",
+            "num": 11,
+            "name": "Spirit Blossom Hwei",
+            "chromas": true
+        },
+        {
+            "id": "910021",
+            "num": 21,
+            "name": "Sinful Shores Hwei",
+            "chromas": false
+        }
+    ]
+}

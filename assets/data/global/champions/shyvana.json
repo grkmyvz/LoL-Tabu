@@ -1,0 +1,62 @@
+{
+    "id": "shyvana",
+    "imageSlug": "Shyvana",
+    "key": "102",
+    "name": "Shyvana",
+    "skins": [
+        {
+            "id": "102000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "102001",
+            "num": 1,
+            "name": "Shyvana Ironscale",
+            "chromas": false
+        },
+        {
+            "id": "102002",
+            "num": 2,
+            "name": "Boneclaw Shyvana",
+            "chromas": false
+        },
+        {
+            "id": "102003",
+            "num": 3,
+            "name": "Darkflame Shyvana",
+            "chromas": false
+        },
+        {
+            "id": "102004",
+            "num": 4,
+            "name": "Ice Drake Shyvana",
+            "chromas": false
+        },
+        {
+            "id": "102005",
+            "num": 5,
+            "name": "Worlds 2014 Shyvana",
+            "chromas": true
+        },
+        {
+            "id": "102006",
+            "num": 6,
+            "name": "Super Galaxy Shyvana",
+            "chromas": false
+        },
+        {
+            "id": "102008",
+            "num": 8,
+            "name": "Ruined Shyvana",
+            "chromas": true
+        },
+        {
+            "id": "102017",
+            "num": 17,
+            "name": "Immortal Journey Shyvana",
+            "chromas": true
+        }
+    ]
+}

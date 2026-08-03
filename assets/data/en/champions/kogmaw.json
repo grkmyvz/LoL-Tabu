@@ -1,0 +1,10 @@
+﻿{
+    "id": "kogmaw",
+    "forbiddenWords": [
+        "Void",
+        "Spit",
+        "Artillery",
+        "Passive Explosion",
+        "Mouth"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "rakan",
+    "imageSlug": "Rakan",
+    "key": "497",
+    "name": "Rakan",
+    "skins": [
+        {
+            "id": "497000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "497001",
+            "num": 1,
+            "name": "Cosmic Dawn Rakan",
+            "chromas": false
+        },
+        {
+            "id": "497002",
+            "num": 2,
+            "name": "Sweetheart Rakan",
+            "chromas": false
+        },
+        {
+            "id": "497003",
+            "num": 3,
+            "name": "SSG Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497004",
+            "num": 4,
+            "name": "iG Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497005",
+            "num": 5,
+            "name": "Star Guardian Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497009",
+            "num": 9,
+            "name": "Elderwood Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497018",
+            "num": 18,
+            "name": "Arcana Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497027",
+            "num": 27,
+            "name": "Broken Covenant Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497036",
+            "num": 36,
+            "name": "Redeemed Star Guardian Rakan",
+            "chromas": false
+        },
+        {
+            "id": "497037",
+            "num": 37,
+            "name": "Dragonmancer Rakan",
+            "chromas": true
+        },
+        {
+            "id": "497038",
+            "num": 38,
+            "name": "Prestige Dragonmancer Rakan",
+            "chromas": false
+        },
+        {
+            "id": "497047",
+            "num": 47,
+            "name": "Battle Academia Rakan",
+            "chromas": true
+        }
+    ]
+}

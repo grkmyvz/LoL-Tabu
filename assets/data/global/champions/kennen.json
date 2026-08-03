@@ -1,0 +1,74 @@
+{
+    "id": "kennen",
+    "imageSlug": "Kennen",
+    "key": "85",
+    "name": "Kennen",
+    "skins": [
+        {
+            "id": "85000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "85001",
+            "num": 1,
+            "name": "Deadly Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85002",
+            "num": 2,
+            "name": "Swamp Master Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85003",
+            "num": 3,
+            "name": "Karate Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85004",
+            "num": 4,
+            "name": "Kennen M.D.",
+            "chromas": true
+        },
+        {
+            "id": "85005",
+            "num": 5,
+            "name": "Arctic Ops Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85006",
+            "num": 6,
+            "name": "Blood Moon Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85007",
+            "num": 7,
+            "name": "Super Kennen",
+            "chromas": false
+        },
+        {
+            "id": "85008",
+            "num": 8,
+            "name": "Infernal Kennen",
+            "chromas": true
+        },
+        {
+            "id": "85023",
+            "num": 23,
+            "name": "DWG Kennen",
+            "chromas": true
+        },
+        {
+            "id": "85025",
+            "num": 25,
+            "name": "Astronaut Kennen",
+            "chromas": true
+        }
+    ]
+}

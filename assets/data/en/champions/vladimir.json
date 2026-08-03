@@ -1,0 +1,10 @@
+{
+    "id": "vladimir",
+    "forbiddenWords": [
+        "Blood",
+        "Hemoplague",
+        "Pool",
+        "Crimson",
+        "Noxus"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "sona",
+    "forbiddenWords": [
+        "Müzik",
+        "Etwahl",
+        "Sesini kapatmak",
+        "Kreşendo",
+        "Auralar"
+    ]
+}

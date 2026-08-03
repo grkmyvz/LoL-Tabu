@@ -1,0 +1,134 @@
+{
+    "id": "caitlyn",
+    "imageSlug": "Caitlyn",
+    "key": "51",
+    "name": "Caitlyn",
+    "skins": [
+        {
+            "id": "51000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "51001",
+            "num": 1,
+            "name": "Resistance Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51002",
+            "num": 2,
+            "name": "Sheriff Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51003",
+            "num": 3,
+            "name": "Safari Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51004",
+            "num": 4,
+            "name": "Arctic Warfare Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51005",
+            "num": 5,
+            "name": "Officer Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51006",
+            "num": 6,
+            "name": "Headhunter Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51010",
+            "num": 10,
+            "name": "Lunar Wraith Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51011",
+            "num": 11,
+            "name": "Pulsefire Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51013",
+            "num": 13,
+            "name": "Pool Party Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51019",
+            "num": 19,
+            "name": "Arcade Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51020",
+            "num": 20,
+            "name": "Prestige Arcade Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51022",
+            "num": 22,
+            "name": "Battle Academia Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51028",
+            "num": 28,
+            "name": "Arcane Enforcer Caitlyn",
+            "chromas": false
+        },
+        {
+            "id": "51029",
+            "num": 29,
+            "name": "Prestige Arcade Caitlyn (2022)",
+            "chromas": false
+        },
+        {
+            "id": "51030",
+            "num": 30,
+            "name": "Snow Moon Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51039",
+            "num": 39,
+            "name": "Heartthrob Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51048",
+            "num": 48,
+            "name": "DRX Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51050",
+            "num": 50,
+            "name": "Arcane Commander Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51051",
+            "num": 51,
+            "name": "Prestige Arcane Commander Caitlyn",
+            "chromas": true
+        },
+        {
+            "id": "51054",
+            "num": 54,
+            "name": "Firecracker Caitlyn",
+            "chromas": true
+        }
+    ]
+}

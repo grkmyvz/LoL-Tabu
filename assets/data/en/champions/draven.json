@@ -1,0 +1,10 @@
+﻿{
+    "id": "draven",
+    "forbiddenWords": [
+        "Axes",
+        "Catch",
+        "Noxus",
+        "Executioner",
+        "Adoration"
+    ]
+}

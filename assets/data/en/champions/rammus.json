@@ -1,0 +1,10 @@
+﻿{
+    "id": "rammus",
+    "forbiddenWords": [
+        "OK",
+        "Armadillo",
+        "Roll",
+        "Taunt",
+        "Spikes"
+    ]
+}

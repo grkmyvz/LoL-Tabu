@@ -1,0 +1,10 @@
+﻿{
+    "id": "kassadin",
+    "forbiddenWords": [
+        "Void",
+        "Riftwalk",
+        "Malzahar",
+        "Silence",
+        "Purple"
+    ]
+}

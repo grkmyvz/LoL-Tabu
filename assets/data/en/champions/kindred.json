@@ -1,0 +1,10 @@
+﻿{
+    "id": "kindred",
+    "forbiddenWords": [
+        "Lamb",
+        "Wolf",
+        "Marks",
+        "Death",
+        "Bow"
+    ]
+}

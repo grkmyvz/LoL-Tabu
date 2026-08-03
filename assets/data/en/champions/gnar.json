@@ -1,0 +1,10 @@
+﻿{
+    "id": "gnar",
+    "forbiddenWords": [
+        "Mega",
+        "Boomerang",
+        "Rage",
+        "Yordle",
+        "Transform"
+    ]
+}

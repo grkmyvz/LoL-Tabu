@@ -1,0 +1,10 @@
+{
+    "id": "vi",
+    "forbiddenWords": [
+        "Gauntlets",
+        "Punch",
+        "Piltover",
+        "Caitlyn",
+        "Jinx"
+    ]
+}

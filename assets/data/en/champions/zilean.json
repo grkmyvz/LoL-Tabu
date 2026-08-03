@@ -1,0 +1,10 @@
+{
+    "id": "zilean",
+    "forbiddenWords": [
+        "Time",
+        "Bomb",
+        "Revive",
+        "Chronokeeper",
+        "Experience"
+    ]
+}

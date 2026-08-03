@@ -1,0 +1,10 @@
+{
+    "id": "rell",
+    "forbiddenWords": [
+        "Atış",
+        "Mıknatıs",
+        "maden",
+        "Mızrak",
+        "Noxus'ta"
+    ]
+}

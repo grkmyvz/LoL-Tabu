@@ -1,0 +1,10 @@
+{
+    "id": "trundle",
+    "forbiddenWords": [
+        "Troll",
+        "Pillar",
+        "Club",
+        "Freljord",
+        "Chomp"
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "garen",
+    "imageSlug": "Garen",
+    "key": "86",
+    "name": "Garen",
+    "skins": [
+        {
+            "id": "86000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "86001",
+            "num": 1,
+            "name": "Sanguine Garen",
+            "chromas": false
+        },
+        {
+            "id": "86002",
+            "num": 2,
+            "name": "Desert Trooper Garen",
+            "chromas": false
+        },
+        {
+            "id": "86003",
+            "num": 3,
+            "name": "Commando Garen",
+            "chromas": false
+        },
+        {
+            "id": "86004",
+            "num": 4,
+            "name": "Dreadknight Garen",
+            "chromas": false
+        },
+        {
+            "id": "86005",
+            "num": 5,
+            "name": "Rugged Garen",
+            "chromas": false
+        },
+        {
+            "id": "86006",
+            "num": 6,
+            "name": "Steel Legion Garen",
+            "chromas": false
+        },
+        {
+            "id": "86010",
+            "num": 10,
+            "name": "Rogue Admiral Garen",
+            "chromas": false
+        },
+        {
+            "id": "86011",
+            "num": 11,
+            "name": "Warring Kingdoms Garen",
+            "chromas": true
+        },
+        {
+            "id": "86013",
+            "num": 13,
+            "name": "God-King Garen",
+            "chromas": false
+        },
+        {
+            "id": "86014",
+            "num": 14,
+            "name": "Demacia Vice Garen",
+            "chromas": true
+        },
+        {
+            "id": "86022",
+            "num": 22,
+            "name": "Mecha Kingdoms Garen",
+            "chromas": false
+        },
+        {
+            "id": "86023",
+            "num": 23,
+            "name": "Prestige Mecha Kingdoms Garen",
+            "chromas": false
+        },
+        {
+            "id": "86024",
+            "num": 24,
+            "name": "Battle Academia Garen",
+            "chromas": true
+        },
+        {
+            "id": "86033",
+            "num": 33,
+            "name": "Mythmaker Garen",
+            "chromas": true
+        },
+        {
+            "id": "86044",
+            "num": 44,
+            "name": "Fallen God-King Garen",
+            "chromas": false
+        },
+        {
+            "id": "86046",
+            "num": 46,
+            "name": "Visions of the Fallen Garen",
+            "chromas": false
+        }
+    ]
+}

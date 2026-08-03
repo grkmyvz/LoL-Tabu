@@ -1,0 +1,56 @@
+{
+    "id": "velkoz",
+    "imageSlug": "Velkoz",
+    "key": "161",
+    "name": "Vel'Koz",
+    "skins": [
+        {
+            "id": "161000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "161001",
+            "num": 1,
+            "name": "Battlecast Vel'Koz",
+            "chromas": false
+        },
+        {
+            "id": "161002",
+            "num": 2,
+            "name": "Arclight Vel'Koz",
+            "chromas": false
+        },
+        {
+            "id": "161003",
+            "num": 3,
+            "name": "Definitely Not Vel'Koz",
+            "chromas": false
+        },
+        {
+            "id": "161004",
+            "num": 4,
+            "name": "Infernal Vel'Koz",
+            "chromas": true
+        },
+        {
+            "id": "161011",
+            "num": 11,
+            "name": "Blackfrost Vel'Koz",
+            "chromas": true
+        },
+        {
+            "id": "161020",
+            "num": 20,
+            "name": "Bee'Koz",
+            "chromas": true
+        },
+        {
+            "id": "161029",
+            "num": 29,
+            "name": "Spaghetti alla Vel'Koz",
+            "chromas": true
+        }
+    ]
+}

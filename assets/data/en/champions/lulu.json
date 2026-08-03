@@ -1,0 +1,10 @@
+﻿{
+    "id": "lulu",
+    "forbiddenWords": [
+        "Pix",
+        "Polymorph",
+        "Yordle",
+        "Purple",
+        "Cupcake"
+    ]
+}

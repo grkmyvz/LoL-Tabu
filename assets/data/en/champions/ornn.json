@@ -1,0 +1,10 @@
+﻿{
+    "id": "ornn",
+    "forbiddenWords": [
+        "Forge",
+        "Hammer",
+        "Ram",
+        "Items",
+        "Volibear"
+    ]
+}

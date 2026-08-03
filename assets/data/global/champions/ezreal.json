@@ -1,0 +1,140 @@
+{
+    "id": "ezreal",
+    "imageSlug": "Ezreal",
+    "key": "81",
+    "name": "Ezreal",
+    "skins": [
+        {
+            "id": "81000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "81001",
+            "num": 1,
+            "name": "Nottingham Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81002",
+            "num": 2,
+            "name": "Striker Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81003",
+            "num": 3,
+            "name": "Frosted Ezreal",
+            "chromas": true
+        },
+        {
+            "id": "81004",
+            "num": 4,
+            "name": "Explorer Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81005",
+            "num": 5,
+            "name": "Pulsefire Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81006",
+            "num": 6,
+            "name": "TPA Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81007",
+            "num": 7,
+            "name": "Debonair Ezreal",
+            "chromas": true
+        },
+        {
+            "id": "81008",
+            "num": 8,
+            "name": "Ace of Spades Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81009",
+            "num": 9,
+            "name": "Arcade Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81018",
+            "num": 18,
+            "name": "Star Guardian Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81019",
+            "num": 19,
+            "name": "SSG Ezreal",
+            "chromas": true
+        },
+        {
+            "id": "81020",
+            "num": 20,
+            "name": "Pajama Guardian Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81021",
+            "num": 21,
+            "name": "Battle Academia Ezreal",
+            "chromas": true
+        },
+        {
+            "id": "81022",
+            "num": 22,
+            "name": "PsyOps Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81023",
+            "num": 23,
+            "name": "Prestige PsyOps Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81025",
+            "num": 25,
+            "name": "Porcelain Protector Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81033",
+            "num": 33,
+            "name": "Faerie Court Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81043",
+            "num": 43,
+            "name": "HEARTSTEEL Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81044",
+            "num": 44,
+            "name": "Heavenscale Ezreal",
+            "chromas": true
+        },
+        {
+            "id": "81054",
+            "num": 54,
+            "name": "Prestige Heavenscale Ezreal",
+            "chromas": false
+        },
+        {
+            "id": "81065",
+            "num": 65,
+            "name": "Masque of the Black Rose Ezreal",
+            "chromas": false
+        }
+    ]
+}

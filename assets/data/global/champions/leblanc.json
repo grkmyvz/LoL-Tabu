@@ -1,0 +1,98 @@
+{
+    "id": "leblanc",
+    "imageSlug": "Leblanc",
+    "key": "7",
+    "name": "LeBlanc",
+    "skins": [
+        {
+            "id": "7000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "7001",
+            "num": 1,
+            "name": "Wicked LeBlanc",
+            "chromas": false
+        },
+        {
+            "id": "7002",
+            "num": 2,
+            "name": "Prestigious LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7003",
+            "num": 3,
+            "name": "Mistletoe LeBlanc",
+            "chromas": false
+        },
+        {
+            "id": "7004",
+            "num": 4,
+            "name": "Ravenborn LeBlanc",
+            "chromas": false
+        },
+        {
+            "id": "7005",
+            "num": 5,
+            "name": "Elderwood LeBlanc",
+            "chromas": false
+        },
+        {
+            "id": "7012",
+            "num": 12,
+            "name": "Program LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7019",
+            "num": 19,
+            "name": "iG LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7020",
+            "num": 20,
+            "name": "Coven LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7029",
+            "num": 29,
+            "name": "Worlds 2020 LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7033",
+            "num": 33,
+            "name": "Prestige Coven LeBlanc",
+            "chromas": false
+        },
+        {
+            "id": "7035",
+            "num": 35,
+            "name": "Debonair LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7045",
+            "num": 45,
+            "name": "Bewitching LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7055",
+            "num": 55,
+            "name": "Risen Legend LeBlanc",
+            "chromas": true
+        },
+        {
+            "id": "7059",
+            "num": 59,
+            "name": "Prestige Sinful Shores LeBlanc",
+            "chromas": true
+        }
+    ]
+}

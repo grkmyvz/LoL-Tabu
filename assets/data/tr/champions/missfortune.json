@@ -1,0 +1,10 @@
+{
+    "id": "missfortune",
+    "forbiddenWords": [
+        "Silahlar",
+        "Mermi Zamanı",
+        "Sintine suyu",
+        "Korsan",
+        "Sara"
+    ]
+}

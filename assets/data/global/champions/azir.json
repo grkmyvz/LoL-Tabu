@@ -1,0 +1,56 @@
+{
+    "id": "azir",
+    "imageSlug": "Azir",
+    "key": "268",
+    "name": "Azir",
+    "skins": [
+        {
+            "id": "268000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "268001",
+            "num": 1,
+            "name": "Galactic Azir",
+            "chromas": false
+        },
+        {
+            "id": "268002",
+            "num": 2,
+            "name": "Gravelord Azir",
+            "chromas": false
+        },
+        {
+            "id": "268003",
+            "num": 3,
+            "name": "SKT T1 Azir",
+            "chromas": false
+        },
+        {
+            "id": "268004",
+            "num": 4,
+            "name": "Warring Kingdoms Azir",
+            "chromas": false
+        },
+        {
+            "id": "268005",
+            "num": 5,
+            "name": "Elderwood Azir",
+            "chromas": true
+        },
+        {
+            "id": "268014",
+            "num": 14,
+            "name": "Worlds 2022 Azir",
+            "chromas": true
+        },
+        {
+            "id": "268019",
+            "num": 19,
+            "name": "Attorney Azir",
+            "chromas": true
+        }
+    ]
+}

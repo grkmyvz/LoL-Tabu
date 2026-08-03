@@ -1,0 +1,10 @@
+﻿{
+    "id": "kayle",
+    "forbiddenWords": [
+        "Angel",
+        "Wings",
+        "Level 16",
+        "Morgana",
+        "Invulnerability"
+    ]
+}

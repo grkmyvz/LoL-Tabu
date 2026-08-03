@@ -1,0 +1,62 @@
+{
+    "id": "zilean",
+    "imageSlug": "Zilean",
+    "key": "26",
+    "name": "Zilean",
+    "skins": [
+        {
+            "id": "26000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "26001",
+            "num": 1,
+            "name": "Old Saint Zilean",
+            "chromas": false
+        },
+        {
+            "id": "26002",
+            "num": 2,
+            "name": "Groovy Zilean",
+            "chromas": false
+        },
+        {
+            "id": "26003",
+            "num": 3,
+            "name": "Shurima Desert Zilean",
+            "chromas": false
+        },
+        {
+            "id": "26004",
+            "num": 4,
+            "name": "Time Machine Zilean",
+            "chromas": false
+        },
+        {
+            "id": "26005",
+            "num": 5,
+            "name": "Blood Moon Zilean",
+            "chromas": false
+        },
+        {
+            "id": "26006",
+            "num": 6,
+            "name": "Sugar Rush Zilean",
+            "chromas": true
+        },
+        {
+            "id": "26014",
+            "num": 14,
+            "name": "Winterblessed Zilean",
+            "chromas": true
+        },
+        {
+            "id": "26024",
+            "num": 24,
+            "name": "Arcana Zilean",
+            "chromas": true
+        }
+    ]
+}

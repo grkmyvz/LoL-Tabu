@@ -1,0 +1,74 @@
+{
+    "id": "volibear",
+    "imageSlug": "Volibear",
+    "key": "106",
+    "name": "Volibear",
+    "skins": [
+        {
+            "id": "106000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "106001",
+            "num": 1,
+            "name": "Thunder Lord Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106002",
+            "num": 2,
+            "name": "Northern Storm Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106003",
+            "num": 3,
+            "name": "Runeguard Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106004",
+            "num": 4,
+            "name": "Captain Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106005",
+            "num": 5,
+            "name": "El Rayo Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106006",
+            "num": 6,
+            "name": "The Thousand-Pierced Bear",
+            "chromas": false
+        },
+        {
+            "id": "106007",
+            "num": 7,
+            "name": "Duality Dragon Volibear",
+            "chromas": true
+        },
+        {
+            "id": "106009",
+            "num": 9,
+            "name": "Prestige Duality Dragon Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106019",
+            "num": 19,
+            "name": "Inkshadow Volibear",
+            "chromas": false
+        },
+        {
+            "id": "106029",
+            "num": 29,
+            "name": "Spirit Blossom Springs Volibear",
+            "chromas": false
+        }
+    ]
+}

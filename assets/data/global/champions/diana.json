@@ -1,0 +1,110 @@
+{
+    "id": "diana",
+    "imageSlug": "Diana",
+    "key": "131",
+    "name": "Diana",
+    "skins": [
+        {
+            "id": "131000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "131001",
+            "num": 1,
+            "name": "Dark Valkyrie Diana",
+            "chromas": false
+        },
+        {
+            "id": "131002",
+            "num": 2,
+            "name": "Lunar Goddess Diana",
+            "chromas": true
+        },
+        {
+            "id": "131003",
+            "num": 3,
+            "name": "Infernal Diana",
+            "chromas": false
+        },
+        {
+            "id": "131011",
+            "num": 11,
+            "name": "Blood Moon Diana",
+            "chromas": false
+        },
+        {
+            "id": "131012",
+            "num": 12,
+            "name": "Dark Waters Diana",
+            "chromas": true
+        },
+        {
+            "id": "131018",
+            "num": 18,
+            "name": "Dragonslayer Diana",
+            "chromas": true
+        },
+        {
+            "id": "131025",
+            "num": 25,
+            "name": "Battle Queen Diana",
+            "chromas": false
+        },
+        {
+            "id": "131026",
+            "num": 26,
+            "name": "Prestige Battle Queen Diana",
+            "chromas": false
+        },
+        {
+            "id": "131027",
+            "num": 27,
+            "name": "Sentinel Diana",
+            "chromas": true
+        },
+        {
+            "id": "131037",
+            "num": 37,
+            "name": "Firecracker Diana",
+            "chromas": true
+        },
+        {
+            "id": "131047",
+            "num": 47,
+            "name": "Winterblessed Diana",
+            "chromas": true
+        },
+        {
+            "id": "131054",
+            "num": 54,
+            "name": "Heavenscale Diana",
+            "chromas": true
+        },
+        {
+            "id": "131064",
+            "num": 64,
+            "name": "Dark Cosmic Diana",
+            "chromas": true
+        },
+        {
+            "id": "131065",
+            "num": 65,
+            "name": "Prestige Dark Cosmic Diana",
+            "chromas": false
+        },
+        {
+            "id": "131076",
+            "num": 76,
+            "name": "Eternal Aspect Diana",
+            "chromas": false
+        },
+        {
+            "id": "131077",
+            "num": 77,
+            "name": "Eclipse Eternal Aspect Diana",
+            "chromas": true
+        }
+    ]
+}

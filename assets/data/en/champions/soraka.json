@@ -1,0 +1,10 @@
+{
+    "id": "soraka",
+    "forbiddenWords": [
+        "Heal",
+        "Banana",
+        "Star",
+        "Silence",
+        "Wish"
+    ]
+}

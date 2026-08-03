@@ -1,0 +1,92 @@
+{
+    "id": "mordekaiser",
+    "imageSlug": "Mordekaiser",
+    "key": "82",
+    "name": "Mordekaiser",
+    "skins": [
+        {
+            "id": "82000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "82001",
+            "num": 1,
+            "name": "Dragon Knight Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82002",
+            "num": 2,
+            "name": "Infernal Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82003",
+            "num": 3,
+            "name": "Pentakill Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82004",
+            "num": 4,
+            "name": "Lord Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82005",
+            "num": 5,
+            "name": "King of Clubs Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82006",
+            "num": 6,
+            "name": "Dark Star Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82013",
+            "num": 13,
+            "name": "PROJECT: Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82023",
+            "num": 23,
+            "name": "Pentakill III: Lost Chapter Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82032",
+            "num": 32,
+            "name": "High Noon Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82042",
+            "num": 42,
+            "name": "Ashen Graveknight Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82044",
+            "num": 44,
+            "name": "Old God Mordekaiser",
+            "chromas": true
+        },
+        {
+            "id": "82054",
+            "num": 54,
+            "name": "Sahn-Uzal Mordekaiser",
+            "chromas": false
+        },
+        {
+            "id": "82055",
+            "num": 55,
+            "name": "Prestige Money Miser Mordekaiser",
+            "chromas": true
+        }
+    ]
+}

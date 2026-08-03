@@ -1,0 +1,10 @@
+{
+    "id": "teemo",
+    "forbiddenWords": [
+        "Mushroom",
+        "Blind",
+        "Poison",
+        "Yordle",
+        "Scout"
+    ]
+}

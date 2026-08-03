@@ -1,0 +1,10 @@
+{
+    "id": "twistedfate",
+    "forbiddenWords": [
+        "Cards",
+        "Gold Card",
+        "Destiny",
+        "Gambler",
+        "Teleport"
+    ]
+}

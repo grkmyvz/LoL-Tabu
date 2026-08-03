@@ -1,0 +1,80 @@
+{
+    "id": "maokai",
+    "imageSlug": "Maokai",
+    "key": "57",
+    "name": "Maokai",
+    "skins": [
+        {
+            "id": "57000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "57001",
+            "num": 1,
+            "name": "Charred Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57002",
+            "num": 2,
+            "name": "Totemic Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57003",
+            "num": 3,
+            "name": "Festive Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57004",
+            "num": 4,
+            "name": "Haunted Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57005",
+            "num": 5,
+            "name": "Goalkeeper Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57006",
+            "num": 6,
+            "name": "Meowkai",
+            "chromas": true
+        },
+        {
+            "id": "57007",
+            "num": 7,
+            "name": "Victorious Maokai",
+            "chromas": false
+        },
+        {
+            "id": "57016",
+            "num": 16,
+            "name": "Worldbreaker Maokai",
+            "chromas": true
+        },
+        {
+            "id": "57024",
+            "num": 24,
+            "name": "Astronaut Maokai",
+            "chromas": true
+        },
+        {
+            "id": "57033",
+            "num": 33,
+            "name": "DRX Maokai",
+            "chromas": true
+        },
+        {
+            "id": "57035",
+            "num": 35,
+            "name": "Corrupted Petricite Maokai",
+            "chromas": false
+        }
+    ]
+}

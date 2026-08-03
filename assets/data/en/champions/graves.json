@@ -1,0 +1,10 @@
+﻿{
+    "id": "graves",
+    "forbiddenWords": [
+        "Shotgun",
+        "Smoke",
+        "Bilgewater",
+        "Twisted Fate",
+        "Reload"
+    ]
+}

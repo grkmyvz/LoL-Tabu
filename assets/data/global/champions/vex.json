@@ -1,0 +1,38 @@
+{
+    "id": "vex",
+    "imageSlug": "Vex",
+    "key": "711",
+    "name": "Vex",
+    "skins": [
+        {
+            "id": "711000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "711001",
+            "num": 1,
+            "name": "Dawnbringer Vex",
+            "chromas": true
+        },
+        {
+            "id": "711010",
+            "num": 10,
+            "name": "Empyrean Vex",
+            "chromas": true
+        },
+        {
+            "id": "711020",
+            "num": 20,
+            "name": "Stargazer Vex",
+            "chromas": true
+        },
+        {
+            "id": "711029",
+            "num": 29,
+            "name": "Surprise Party Vex",
+            "chromas": true
+        }
+    ]
+}

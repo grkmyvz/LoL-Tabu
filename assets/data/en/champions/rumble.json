@@ -1,0 +1,10 @@
+{
+    "id": "rumble",
+    "forbiddenWords": [
+        "Mech",
+        "Heat",
+        "Overheat",
+        "Flamethrower",
+        "Equalizer"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "id": "nasus",
+    "imageSlug": "Nasus",
+    "key": "75",
+    "name": "Nasus",
+    "skins": [
+        {
+            "id": "75000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "75001",
+            "num": 1,
+            "name": "Galactic Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75002",
+            "num": 2,
+            "name": "Pharaoh Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75003",
+            "num": 3,
+            "name": "Dreadknight Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75004",
+            "num": 4,
+            "name": "Riot K-9 Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75005",
+            "num": 5,
+            "name": "Infernal Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75006",
+            "num": 6,
+            "name": "Archduke Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75010",
+            "num": 10,
+            "name": "Worldbreaker Nasus",
+            "chromas": false
+        },
+        {
+            "id": "75011",
+            "num": 11,
+            "name": "Lunar Guardian Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75016",
+            "num": 16,
+            "name": "Battlecast Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75025",
+            "num": 25,
+            "name": "Space Groove Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75035",
+            "num": 35,
+            "name": "Armored Titan Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75045",
+            "num": 45,
+            "name": "Nightbringer Nasus",
+            "chromas": true
+        },
+        {
+            "id": "75054",
+            "num": 54,
+            "name": "Fatemaker Nasus",
+            "chromas": true
+        }
+    ]
+}

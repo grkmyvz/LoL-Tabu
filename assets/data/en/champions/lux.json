@@ -1,0 +1,10 @@
+﻿{
+    "id": "lux",
+    "forbiddenWords": [
+        "Light",
+        "Laser",
+        "Demacia",
+        "Binding",
+        "Rainbow"
+    ]
+}

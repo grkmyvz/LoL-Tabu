@@ -1,0 +1,10 @@
+{
+    "id": "twitch",
+    "forbiddenWords": [
+        "Fare",
+        "Zehir",
+        "Görünmez",
+        "Arbalet",
+        "Spreyleyin ve dua edin"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "chogath",
+    "imageSlug": "Chogath",
+    "key": "31",
+    "name": "Cho'Gath",
+    "skins": [
+        {
+            "id": "31000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "31001",
+            "num": 1,
+            "name": "Nightmare Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31002",
+            "num": 2,
+            "name": "Gentleman Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31003",
+            "num": 3,
+            "name": "Loch Ness Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31004",
+            "num": 4,
+            "name": "Jurassic Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31005",
+            "num": 5,
+            "name": "Battlecast Prime Cho'Gath",
+            "chromas": true
+        },
+        {
+            "id": "31006",
+            "num": 6,
+            "name": "Prehistoric Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31007",
+            "num": 7,
+            "name": "Dark Star Cho'Gath",
+            "chromas": false
+        },
+        {
+            "id": "31014",
+            "num": 14,
+            "name": "Shan Hai Scrolls Cho'Gath",
+            "chromas": true
+        },
+        {
+            "id": "31023",
+            "num": 23,
+            "name": "Broken Covenant Cho'Gath",
+            "chromas": true
+        },
+        {
+            "id": "31032",
+            "num": 32,
+            "name": "Toy Terror Cho'Gath",
+            "chromas": true
+        },
+        {
+            "id": "31041",
+            "num": 41,
+            "name": "Petricite Cho'Gath",
+            "chromas": false
+        }
+    ]
+}

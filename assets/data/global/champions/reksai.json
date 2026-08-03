@@ -1,0 +1,44 @@
+{
+    "id": "reksai",
+    "imageSlug": "RekSai",
+    "key": "421",
+    "name": "Rek'Sai",
+    "skins": [
+        {
+            "id": "421000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "421001",
+            "num": 1,
+            "name": "Eternum Rek'Sai",
+            "chromas": false
+        },
+        {
+            "id": "421002",
+            "num": 2,
+            "name": "Pool Party Rek'Sai",
+            "chromas": true
+        },
+        {
+            "id": "421009",
+            "num": 9,
+            "name": "Blackfrost Rek'Sai",
+            "chromas": true
+        },
+        {
+            "id": "421017",
+            "num": 17,
+            "name": "Elderwood Rek'Sai",
+            "chromas": true
+        },
+        {
+            "id": "421026",
+            "num": 26,
+            "name": "Primordian Rek'Sai",
+            "chromas": true
+        }
+    ]
+}

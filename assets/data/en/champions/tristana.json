@@ -1,0 +1,10 @@
+{
+    "id": "tristana",
+    "forbiddenWords": [
+        "Cannon",
+        "Rocket Jump",
+        "Bomb",
+        "Yordle",
+        "Buster Shot"
+    ]
+}

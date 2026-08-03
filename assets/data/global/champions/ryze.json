@@ -1,0 +1,98 @@
+{
+    "id": "ryze",
+    "imageSlug": "Ryze",
+    "key": "13",
+    "name": "Ryze",
+    "skins": [
+        {
+            "id": "13000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "13001",
+            "num": 1,
+            "name": "Young Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13002",
+            "num": 2,
+            "name": "Tribal Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13003",
+            "num": 3,
+            "name": "Uncle Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13004",
+            "num": 4,
+            "name": "Triumphant Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13005",
+            "num": 5,
+            "name": "Professor Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13006",
+            "num": 6,
+            "name": "Zombie Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13007",
+            "num": 7,
+            "name": "Dark Crystal Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13008",
+            "num": 8,
+            "name": "Pirate Ryze",
+            "chromas": false
+        },
+        {
+            "id": "13009",
+            "num": 9,
+            "name": "Ryze Whitebeard",
+            "chromas": false
+        },
+        {
+            "id": "13010",
+            "num": 10,
+            "name": "SKT T1 Ryze",
+            "chromas": true
+        },
+        {
+            "id": "13011",
+            "num": 11,
+            "name": "Worlds 2019 Ryze",
+            "chromas": true
+        },
+        {
+            "id": "13013",
+            "num": 13,
+            "name": "Guardian of the Sands Ryze",
+            "chromas": true
+        },
+        {
+            "id": "13020",
+            "num": 20,
+            "name": "Arcana Ryze",
+            "chromas": true
+        },
+        {
+            "id": "13029",
+            "num": 29,
+            "name": "Blood Moon Ryze",
+            "chromas": true
+        }
+    ]
+}

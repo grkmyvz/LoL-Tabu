@@ -1,0 +1,10 @@
+{
+    "id": "corki",
+    "forbiddenWords": [
+        "Uçak",
+        "Yordle",
+        "Füze",
+        "Pilot",
+        "Bıyık"
+    ]
+}

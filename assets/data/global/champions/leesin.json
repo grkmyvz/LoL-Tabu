@@ -1,0 +1,128 @@
+{
+    "id": "leesin",
+    "imageSlug": "LeeSin",
+    "key": "64",
+    "name": "Lee Sin",
+    "skins": [
+        {
+            "id": "64000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "64001",
+            "num": 1,
+            "name": "Traditional Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64002",
+            "num": 2,
+            "name": "Acolyte Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64003",
+            "num": 3,
+            "name": "Dragon Fist Lee Sin",
+            "chromas": true
+        },
+        {
+            "id": "64004",
+            "num": 4,
+            "name": "Muay Thai Lee Sin",
+            "chromas": true
+        },
+        {
+            "id": "64005",
+            "num": 5,
+            "name": "Pool Party Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64006",
+            "num": 6,
+            "name": "SKT T1 Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64010",
+            "num": 10,
+            "name": "Knockout Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64011",
+            "num": 11,
+            "name": "God Fist Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64012",
+            "num": 12,
+            "name": "Playmaker Lee Sin",
+            "chromas": true
+        },
+        {
+            "id": "64027",
+            "num": 27,
+            "name": "Nightbringer Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64028",
+            "num": 28,
+            "name": "Prestige Nightbringer Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64029",
+            "num": 29,
+            "name": "FPX Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64031",
+            "num": 31,
+            "name": "Storm Dragon Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64039",
+            "num": 39,
+            "name": "Prestige Nightbringer Lee Sin (2022)",
+            "chromas": false
+        },
+        {
+            "id": "64041",
+            "num": 41,
+            "name": "Zenith Games Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64051",
+            "num": 51,
+            "name": "Heavenscale Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64052",
+            "num": 52,
+            "name": "Divine Heavenscale Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64068",
+            "num": 68,
+            "name": "T1 Lee Sin",
+            "chromas": false
+        },
+        {
+            "id": "64072",
+            "num": 72,
+            "name": "Inkshadow Lee Sin",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "ivern",
+    "imageSlug": "Ivern",
+    "key": "427",
+    "name": "Ivern",
+    "skins": [
+        {
+            "id": "427000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "427001",
+            "num": 1,
+            "name": "Candy King Ivern",
+            "chromas": false
+        },
+        {
+            "id": "427002",
+            "num": 2,
+            "name": "Dunkmaster Ivern",
+            "chromas": true
+        },
+        {
+            "id": "427011",
+            "num": 11,
+            "name": "Old God Ivern",
+            "chromas": true
+        },
+        {
+            "id": "427020",
+            "num": 20,
+            "name": "Astronaut Ivern",
+            "chromas": true
+        },
+        {
+            "id": "427030",
+            "num": 30,
+            "name": "Spirit Blossom Ivern",
+            "chromas": false
+        },
+        {
+            "id": "427031",
+            "num": 31,
+            "name": "Rain Shepherd Ivern",
+            "chromas": false
+        }
+    ]
+}

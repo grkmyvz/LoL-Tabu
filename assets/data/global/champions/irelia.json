@@ -1,0 +1,110 @@
+{
+    "id": "irelia",
+    "imageSlug": "Irelia",
+    "key": "39",
+    "name": "Irelia",
+    "skins": [
+        {
+            "id": "39000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "39001",
+            "num": 1,
+            "name": "Nightblade Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39002",
+            "num": 2,
+            "name": "Aviator Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39003",
+            "num": 3,
+            "name": "Infiltrator Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39004",
+            "num": 4,
+            "name": "Frostblade Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39005",
+            "num": 5,
+            "name": "Order of the Lotus Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39006",
+            "num": 6,
+            "name": "Divine Sword Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39015",
+            "num": 15,
+            "name": "iG Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39016",
+            "num": 16,
+            "name": "PROJECT: Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39017",
+            "num": 17,
+            "name": "Prestige PROJECT: Irelia",
+            "chromas": false
+        },
+        {
+            "id": "39018",
+            "num": 18,
+            "name": "High Noon Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39026",
+            "num": 26,
+            "name": "Sentinel Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39036",
+            "num": 36,
+            "name": "Prestige PROJECT: Irelia (2022)",
+            "chromas": false
+        },
+        {
+            "id": "39037",
+            "num": 37,
+            "name": "Mythmaker Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39045",
+            "num": 45,
+            "name": "Porcelain Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39055",
+            "num": 55,
+            "name": "Spirit Blossom Irelia",
+            "chromas": true
+        },
+        {
+            "id": "39063",
+            "num": 63,
+            "name": "Breadsticks Irelia",
+            "chromas": true
+        }
+    ]
+}

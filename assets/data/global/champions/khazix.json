@@ -1,0 +1,62 @@
+{
+    "id": "khazix",
+    "imageSlug": "Khazix",
+    "key": "121",
+    "name": "Kha'Zix",
+    "skins": [
+        {
+            "id": "121000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "121001",
+            "num": 1,
+            "name": "Mecha Kha'Zix",
+            "chromas": true
+        },
+        {
+            "id": "121002",
+            "num": 2,
+            "name": "Guardian of the Sands Kha'Zix",
+            "chromas": false
+        },
+        {
+            "id": "121003",
+            "num": 3,
+            "name": "Death Blossom Kha'Zix",
+            "chromas": false
+        },
+        {
+            "id": "121004",
+            "num": 4,
+            "name": "Dark Star Kha'Zix",
+            "chromas": false
+        },
+        {
+            "id": "121011",
+            "num": 11,
+            "name": "Worlds 2018 Kha'Zix",
+            "chromas": true
+        },
+        {
+            "id": "121060",
+            "num": 60,
+            "name": "Odyssey Kha'Zix",
+            "chromas": false
+        },
+        {
+            "id": "121069",
+            "num": 69,
+            "name": "Lunar Guardian Kha'Zix",
+            "chromas": false
+        },
+        {
+            "id": "121079",
+            "num": 79,
+            "name": "Crystalis Indomitus Kha'Zix",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "maokai",
+    "forbiddenWords": [
+        "Tree",
+        "Sapling",
+        "Root",
+        "Shadow Isles",
+        "Tank"
+    ]
+}

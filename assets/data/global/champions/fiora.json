@@ -1,0 +1,110 @@
+{
+    "id": "fiora",
+    "imageSlug": "Fiora",
+    "key": "114",
+    "name": "Fiora",
+    "skins": [
+        {
+            "id": "114000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "114001",
+            "num": 1,
+            "name": "Royal Guard Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114002",
+            "num": 2,
+            "name": "Nightraven Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114003",
+            "num": 3,
+            "name": "Headmistress Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114004",
+            "num": 4,
+            "name": "PROJECT: Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114005",
+            "num": 5,
+            "name": "Pool Party Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114022",
+            "num": 22,
+            "name": "Soaring Sword Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114023",
+            "num": 23,
+            "name": "Heartpiercer Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114031",
+            "num": 31,
+            "name": "iG Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114041",
+            "num": 41,
+            "name": "Pulsefire Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114050",
+            "num": 50,
+            "name": "Lunar Beast Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114051",
+            "num": 51,
+            "name": "Prestige Lunar Beast Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114060",
+            "num": 60,
+            "name": "Bewitching Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114069",
+            "num": 69,
+            "name": "Faerie Court Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114080",
+            "num": 80,
+            "name": "Dragonmancer Fiora",
+            "chromas": false
+        },
+        {
+            "id": "114089",
+            "num": 89,
+            "name": "Battle Queen Fiora",
+            "chromas": true
+        },
+        {
+            "id": "114098",
+            "num": 98,
+            "name": "Victorious Fiora",
+            "chromas": true
+        }
+    ]
+}

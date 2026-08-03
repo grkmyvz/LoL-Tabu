@@ -1,0 +1,10 @@
+﻿{
+  "id": "renata",
+  "forbiddenWords": [
+    "Chemtech",
+    "Zaun",
+    "Handshake",
+    "Bailout",
+    "Business"
+  ]
+}

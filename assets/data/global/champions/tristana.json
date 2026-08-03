@@ -1,0 +1,110 @@
+{
+    "id": "tristana",
+    "imageSlug": "Tristana",
+    "key": "18",
+    "name": "Tristana",
+    "skins": [
+        {
+            "id": "18000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "18001",
+            "num": 1,
+            "name": "Riot Girl Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18002",
+            "num": 2,
+            "name": "Earnest Elf Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18003",
+            "num": 3,
+            "name": "Firefighter Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18004",
+            "num": 4,
+            "name": "Guerilla Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18005",
+            "num": 5,
+            "name": "Buccaneer Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18006",
+            "num": 6,
+            "name": "Rocket Girl Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18010",
+            "num": 10,
+            "name": "Dragon Trainer Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18011",
+            "num": 11,
+            "name": "Bewitching Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18012",
+            "num": 12,
+            "name": "Omega Squad Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18024",
+            "num": 24,
+            "name": "Little Demon Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18033",
+            "num": 33,
+            "name": "Pengu Cosplay Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18040",
+            "num": 40,
+            "name": "Hextech Tristana",
+            "chromas": false
+        },
+        {
+            "id": "18041",
+            "num": 41,
+            "name": "Firecracker Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18051",
+            "num": 51,
+            "name": "Spirit Blossom Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18061",
+            "num": 61,
+            "name": "Faerie Court Tristana",
+            "chromas": true
+        },
+        {
+            "id": "18070",
+            "num": 70,
+            "name": "Rain Shepherd Tristana",
+            "chromas": true
+        }
+    ]
+}

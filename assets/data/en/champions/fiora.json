@@ -1,0 +1,10 @@
+﻿{
+    "id": "fiora",
+    "forbiddenWords": [
+        "Duelist",
+        "Vital",
+        "Parry",
+        "Rapier",
+        "True Damage"
+    ]
+}

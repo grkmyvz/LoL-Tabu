@@ -1,0 +1,110 @@
+{
+    "id": "alistar",
+    "imageSlug": "Alistar",
+    "key": "12",
+    "name": "Alistar",
+    "skins": [
+        {
+            "id": "12000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "12001",
+            "num": 1,
+            "name": "Black Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12002",
+            "num": 2,
+            "name": "Golden Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12003",
+            "num": 3,
+            "name": "Matador Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12004",
+            "num": 4,
+            "name": "Longhorn Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12005",
+            "num": 5,
+            "name": "Unchained Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12006",
+            "num": 6,
+            "name": "Infernal Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12007",
+            "num": 7,
+            "name": "Sweeper Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12008",
+            "num": 8,
+            "name": "Marauder Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12009",
+            "num": 9,
+            "name": "SKT T1 Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12010",
+            "num": 10,
+            "name": "Moo Cow Alistar",
+            "chromas": true
+        },
+        {
+            "id": "12019",
+            "num": 19,
+            "name": "Hextech Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12020",
+            "num": 20,
+            "name": "Conqueror Alistar",
+            "chromas": true
+        },
+        {
+            "id": "12022",
+            "num": 22,
+            "name": "Blackfrost Alistar",
+            "chromas": true
+        },
+        {
+            "id": "12029",
+            "num": 29,
+            "name": "Lunar Beast Alistar",
+            "chromas": true
+        },
+        {
+            "id": "12040",
+            "num": 40,
+            "name": "Elderwood Alistar",
+            "chromas": false
+        },
+        {
+            "id": "12049",
+            "num": 49,
+            "name": "Black Alistar Modern",
+            "chromas": false
+        }
+    ]
+}

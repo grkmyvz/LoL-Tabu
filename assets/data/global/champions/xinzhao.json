@@ -1,0 +1,86 @@
+{
+    "id": "xinzhao",
+    "imageSlug": "XinZhao",
+    "key": "5",
+    "name": "Xin Zhao",
+    "skins": [
+        {
+            "id": "5000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "5001",
+            "num": 1,
+            "name": "Commando Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5002",
+            "num": 2,
+            "name": "Imperial Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5003",
+            "num": 3,
+            "name": "Viscero Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5004",
+            "num": 4,
+            "name": "Winged Hussar Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5005",
+            "num": 5,
+            "name": "Warring Kingdoms Xin Zhao",
+            "chromas": true
+        },
+        {
+            "id": "5006",
+            "num": 6,
+            "name": "Secret Agent Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5013",
+            "num": 13,
+            "name": "Dragonslayer Xin Zhao",
+            "chromas": true
+        },
+        {
+            "id": "5020",
+            "num": 20,
+            "name": "Cosmic Defender Xin Zhao",
+            "chromas": true
+        },
+        {
+            "id": "5027",
+            "num": 27,
+            "name": "Marauder Xin Zhao",
+            "chromas": true
+        },
+        {
+            "id": "5036",
+            "num": 36,
+            "name": "Firecracker Xin Zhao",
+            "chromas": true
+        },
+        {
+            "id": "5047",
+            "num": 47,
+            "name": "Trials of Twilight Xin Zhao",
+            "chromas": false
+        },
+        {
+            "id": "5053",
+            "num": 53,
+            "name": "T1 Xin Zhao",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "lucian",
+    "imageSlug": "Lucian",
+    "key": "236",
+    "name": "Lucian",
+    "skins": [
+        {
+            "id": "236000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "236001",
+            "num": 1,
+            "name": "Hired Gun Lucian",
+            "chromas": false
+        },
+        {
+            "id": "236002",
+            "num": 2,
+            "name": "Striker Lucian",
+            "chromas": false
+        },
+        {
+            "id": "236006",
+            "num": 6,
+            "name": "PROJECT: Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236007",
+            "num": 7,
+            "name": "Heartseeker Lucian",
+            "chromas": false
+        },
+        {
+            "id": "236008",
+            "num": 8,
+            "name": "High Noon Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236009",
+            "num": 9,
+            "name": "Demacia Vice Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236018",
+            "num": 18,
+            "name": "Pulsefire Lucian",
+            "chromas": false
+        },
+        {
+            "id": "236019",
+            "num": 19,
+            "name": "Prestige Pulsefire Lucian",
+            "chromas": false
+        },
+        {
+            "id": "236025",
+            "num": 25,
+            "name": "Victorious Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236031",
+            "num": 31,
+            "name": "Arcana Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236040",
+            "num": 40,
+            "name": "Strike Paladin Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236052",
+            "num": 52,
+            "name": "Winterblessed Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236062",
+            "num": 62,
+            "name": "Masked Justice Lucian",
+            "chromas": true
+        },
+        {
+            "id": "236072",
+            "num": 72,
+            "name": "Sunken Shadows Lucian",
+            "chromas": false
+        }
+    ]
+}

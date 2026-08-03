@@ -1,0 +1,32 @@
+{
+    "id": "aurora",
+    "imageSlug": "Aurora",
+    "key": "893",
+    "name": "Aurora",
+    "skins": [
+        {
+            "id": "893000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "893001",
+            "num": 1,
+            "name": "Battle Bunny Aurora",
+            "chromas": true
+        },
+        {
+            "id": "893011",
+            "num": 11,
+            "name": "Arcana Aurora",
+            "chromas": true
+        },
+        {
+            "id": "893020",
+            "num": 20,
+            "name": "Broken Covenant Aurora",
+            "chromas": true
+        }
+    ]
+}

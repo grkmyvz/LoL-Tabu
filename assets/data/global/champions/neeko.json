@@ -1,0 +1,68 @@
+{
+    "id": "neeko",
+    "imageSlug": "Neeko",
+    "key": "518",
+    "name": "Neeko",
+    "skins": [
+        {
+            "id": "518000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "518001",
+            "num": 1,
+            "name": "Winter Wonder Neeko",
+            "chromas": true
+        },
+        {
+            "id": "518010",
+            "num": 10,
+            "name": "Star Guardian Neeko",
+            "chromas": false
+        },
+        {
+            "id": "518011",
+            "num": 11,
+            "name": "Prestige Star Guardian Neeko",
+            "chromas": false
+        },
+        {
+            "id": "518012",
+            "num": 12,
+            "name": "Shan Hai Scrolls Neeko",
+            "chromas": true
+        },
+        {
+            "id": "518021",
+            "num": 21,
+            "name": "Prestige Star Guardian Neeko (2022)",
+            "chromas": false
+        },
+        {
+            "id": "518022",
+            "num": 22,
+            "name": "Bewitching Neeko",
+            "chromas": true
+        },
+        {
+            "id": "518031",
+            "num": 31,
+            "name": "Street Demons Neeko",
+            "chromas": true
+        },
+        {
+            "id": "518040",
+            "num": 40,
+            "name": "Cosplayer Neeko",
+            "chromas": true
+        },
+        {
+            "id": "518049",
+            "num": 49,
+            "name": "Beeko",
+            "chromas": false
+        }
+    ]
+}

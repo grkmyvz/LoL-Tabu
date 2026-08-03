@@ -1,0 +1,32 @@
+{
+    "id": "nilah",
+    "imageSlug": "Nilah",
+    "key": "895",
+    "name": "Nilah",
+    "skins": [
+        {
+            "id": "895000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "895001",
+            "num": 1,
+            "name": "Star Guardian Nilah",
+            "chromas": true
+        },
+        {
+            "id": "895011",
+            "num": 11,
+            "name": "Coven Nilah",
+            "chromas": true
+        },
+        {
+            "id": "895021",
+            "num": 21,
+            "name": "Inkshadow Nilah",
+            "chromas": true
+        }
+    ]
+}

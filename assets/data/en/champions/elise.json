@@ -1,0 +1,10 @@
+﻿{
+    "id": "elise",
+    "forbiddenWords": [
+        "Spider",
+        "Cocoon",
+        "Web",
+        "Rappel",
+        "Transform"
+    ]
+}

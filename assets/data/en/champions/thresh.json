@@ -1,0 +1,10 @@
+{
+    "id": "thresh",
+    "forbiddenWords": [
+        "Hook",
+        "Lantern",
+        "Souls",
+        "Flay",
+        "Chains"
+    ]
+}

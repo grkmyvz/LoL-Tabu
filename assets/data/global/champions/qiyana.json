@@ -1,0 +1,68 @@
+{
+    "id": "qiyana",
+    "imageSlug": "Qiyana",
+    "key": "246",
+    "name": "Qiyana",
+    "skins": [
+        {
+            "id": "246000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "246001",
+            "num": 1,
+            "name": "Battle Boss Qiyana",
+            "chromas": true
+        },
+        {
+            "id": "246002",
+            "num": 2,
+            "name": "True Damage Qiyana",
+            "chromas": false
+        },
+        {
+            "id": "246010",
+            "num": 10,
+            "name": "Prestige True Damage Qiyana",
+            "chromas": false
+        },
+        {
+            "id": "246011",
+            "num": 11,
+            "name": "Battle Queen Qiyana",
+            "chromas": true
+        },
+        {
+            "id": "246020",
+            "num": 20,
+            "name": "Shockblade Qiyana",
+            "chromas": true
+        },
+        {
+            "id": "246021",
+            "num": 21,
+            "name": "Prestige True Damage Qiyana (2022)",
+            "chromas": false
+        },
+        {
+            "id": "246030",
+            "num": 30,
+            "name": "Lunar Empress Qiyana",
+            "chromas": true
+        },
+        {
+            "id": "246040",
+            "num": 40,
+            "name": "La Ilusión Qiyana",
+            "chromas": true
+        },
+        {
+            "id": "246050",
+            "num": 50,
+            "name": "Prestige Battle Academia Qiyana",
+            "chromas": false
+        }
+    ]
+}

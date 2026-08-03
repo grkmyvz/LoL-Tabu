@@ -1,0 +1,50 @@
+{
+    "id": "aurelionsol",
+    "imageSlug": "AurelionSol",
+    "key": "136",
+    "name": "Aurelion Sol",
+    "skins": [
+        {
+            "id": "136000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "136001",
+            "num": 1,
+            "name": "Ashen Lord Aurelion Sol",
+            "chromas": false
+        },
+        {
+            "id": "136002",
+            "num": 2,
+            "name": "Mecha Aurelion Sol",
+            "chromas": true
+        },
+        {
+            "id": "136011",
+            "num": 11,
+            "name": "Storm Dragon Aurelion Sol",
+            "chromas": false
+        },
+        {
+            "id": "136021",
+            "num": 21,
+            "name": "Inkshadow Aurelion Sol",
+            "chromas": false
+        },
+        {
+            "id": "136031",
+            "num": 31,
+            "name": "Porcelain Protector Aurelion Sol",
+            "chromas": false
+        },
+        {
+            "id": "136038",
+            "num": 38,
+            "name": "Divine Architect Porcelain Aurelion Sol",
+            "chromas": false
+        }
+    ]
+}

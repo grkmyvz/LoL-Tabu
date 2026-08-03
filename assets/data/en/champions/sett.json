@@ -1,0 +1,10 @@
+{
+    "id": "sett",
+    "forbiddenWords": [
+        "Boss",
+        "Punch",
+        "Haymaker",
+        "Mama",
+        "Ionia"
+    ]
+}

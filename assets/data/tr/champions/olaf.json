@@ -1,0 +1,10 @@
+{
+    "id": "olaf",
+    "forbiddenWords": [
+        "Eksenler",
+        "Vahşi",
+        "Viking",
+        "Ragnarok",
+        "Freljord"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "yunara",
+    "imageSlug": "Yunara",
+    "key": "804",
+    "name": "Yunara",
+    "skins": [
+        {
+            "id": "804000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "804001",
+            "num": 1,
+            "name": "Spirit Blossom Springs Yunara",
+            "chromas": true
+        },
+        {
+            "id": "804010",
+            "num": 10,
+            "name": "T1 Yunara",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "viego",
+    "imageSlug": "Viego",
+    "key": "234",
+    "name": "Viego",
+    "skins": [
+        {
+            "id": "234000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "234001",
+            "num": 1,
+            "name": "Lunar Beast Viego",
+            "chromas": true
+        },
+        {
+            "id": "234010",
+            "num": 10,
+            "name": "Dissonance of Pentakill Viego",
+            "chromas": false
+        },
+        {
+            "id": "234019",
+            "num": 19,
+            "name": "EDG Viego",
+            "chromas": false
+        },
+        {
+            "id": "234021",
+            "num": 21,
+            "name": "King Viego",
+            "chromas": false
+        },
+        {
+            "id": "234030",
+            "num": 30,
+            "name": "Soul Fighter Viego",
+            "chromas": false
+        },
+        {
+            "id": "234037",
+            "num": 37,
+            "name": "Worlds 2024 Viego",
+            "chromas": false
+        },
+        {
+            "id": "234043",
+            "num": 43,
+            "name": "Revenant Reign Viego",
+            "chromas": false
+        }
+    ]
+}

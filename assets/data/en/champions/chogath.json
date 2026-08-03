@@ -1,0 +1,10 @@
+﻿{
+    "id": "chogath",
+    "forbiddenWords": [
+        "Feast",
+        "Void",
+        "Monster",
+        "Stacks",
+        "Grow"
+    ]
+}

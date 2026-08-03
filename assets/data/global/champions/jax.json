@@ -1,0 +1,116 @@
+{
+    "id": "jax",
+    "imageSlug": "Jax",
+    "key": "24",
+    "name": "Jax",
+    "skins": [
+        {
+            "id": "24000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "24001",
+            "num": 1,
+            "name": "The Mighty Jax",
+            "chromas": false
+        },
+        {
+            "id": "24002",
+            "num": 2,
+            "name": "Vandal Jax",
+            "chromas": false
+        },
+        {
+            "id": "24003",
+            "num": 3,
+            "name": "Angler Jax",
+            "chromas": false
+        },
+        {
+            "id": "24004",
+            "num": 4,
+            "name": "PAX Jax",
+            "chromas": false
+        },
+        {
+            "id": "24005",
+            "num": 5,
+            "name": "Jaximus",
+            "chromas": false
+        },
+        {
+            "id": "24006",
+            "num": 6,
+            "name": "Temple Jax",
+            "chromas": false
+        },
+        {
+            "id": "24007",
+            "num": 7,
+            "name": "Nemesis Jax",
+            "chromas": true
+        },
+        {
+            "id": "24008",
+            "num": 8,
+            "name": "SKT T1 Jax",
+            "chromas": false
+        },
+        {
+            "id": "24012",
+            "num": 12,
+            "name": "Warden Jax",
+            "chromas": false
+        },
+        {
+            "id": "24013",
+            "num": 13,
+            "name": "God Staff Jax",
+            "chromas": false
+        },
+        {
+            "id": "24014",
+            "num": 14,
+            "name": "Mecha Kingdoms Jax",
+            "chromas": true
+        },
+        {
+            "id": "24020",
+            "num": 20,
+            "name": "Conqueror Jax",
+            "chromas": false
+        },
+        {
+            "id": "24021",
+            "num": 21,
+            "name": "Prestige Conqueror Jax",
+            "chromas": false
+        },
+        {
+            "id": "24022",
+            "num": 22,
+            "name": "Empyrean Jax",
+            "chromas": true
+        },
+        {
+            "id": "24032",
+            "num": 32,
+            "name": "Neo PAX Jax",
+            "chromas": false
+        },
+        {
+            "id": "24033",
+            "num": 33,
+            "name": "PROJECT: Jax",
+            "chromas": true
+        },
+        {
+            "id": "24042",
+            "num": 42,
+            "name": "Prestige Magma Chamber Jax",
+            "chromas": true
+        }
+    ]
+}

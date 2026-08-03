@@ -1,0 +1,110 @@
+{
+    "id": "evelynn",
+    "imageSlug": "Evelynn",
+    "key": "28",
+    "name": "Evelynn",
+    "skins": [
+        {
+            "id": "28000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "28001",
+            "num": 1,
+            "name": "Shadow Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28002",
+            "num": 2,
+            "name": "Masquerade Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28003",
+            "num": 3,
+            "name": "Tango Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28004",
+            "num": 4,
+            "name": "Safecracker Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28005",
+            "num": 5,
+            "name": "Blood Moon Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28006",
+            "num": 6,
+            "name": "K/DA Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28007",
+            "num": 7,
+            "name": "Prestige K/DA Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28008",
+            "num": 8,
+            "name": "Sugar Rush Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28015",
+            "num": 15,
+            "name": "K/DA ALL OUT Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28024",
+            "num": 24,
+            "name": "Coven Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28031",
+            "num": 31,
+            "name": "Prestige K/DA Evelynn (2022)",
+            "chromas": false
+        },
+        {
+            "id": "28032",
+            "num": 32,
+            "name": "Spirit Blossom Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28042",
+            "num": 42,
+            "name": "Soul Fighter Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28052",
+            "num": 52,
+            "name": "High Noon Evelynn",
+            "chromas": true
+        },
+        {
+            "id": "28053",
+            "num": 53,
+            "name": "Prestige High Noon Evelynn",
+            "chromas": false
+        },
+        {
+            "id": "28064",
+            "num": 64,
+            "name": "Nightbringer Evelynn",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "varus",
+    "imageSlug": "Varus",
+    "key": "110",
+    "name": "Varus",
+    "skins": [
+        {
+            "id": "110000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "110001",
+            "num": 1,
+            "name": "Blight Crystal Varus",
+            "chromas": false
+        },
+        {
+            "id": "110002",
+            "num": 2,
+            "name": "Arclight Varus",
+            "chromas": false
+        },
+        {
+            "id": "110003",
+            "num": 3,
+            "name": "Arctic Ops Varus",
+            "chromas": false
+        },
+        {
+            "id": "110004",
+            "num": 4,
+            "name": "Heartseeker Varus",
+            "chromas": false
+        },
+        {
+            "id": "110005",
+            "num": 5,
+            "name": "Varus Swiftbolt",
+            "chromas": false
+        },
+        {
+            "id": "110006",
+            "num": 6,
+            "name": "Dark Star Varus",
+            "chromas": true
+        },
+        {
+            "id": "110007",
+            "num": 7,
+            "name": "Conqueror Varus",
+            "chromas": true
+        },
+        {
+            "id": "110009",
+            "num": 9,
+            "name": "Infernal Varus",
+            "chromas": true
+        },
+        {
+            "id": "110016",
+            "num": 16,
+            "name": "PROJECT: Varus",
+            "chromas": true
+        },
+        {
+            "id": "110017",
+            "num": 17,
+            "name": "Cosmic Hunter Varus",
+            "chromas": true
+        },
+        {
+            "id": "110034",
+            "num": 34,
+            "name": "High Noon Varus",
+            "chromas": true
+        },
+        {
+            "id": "110044",
+            "num": 44,
+            "name": "Snow Moon Varus",
+            "chromas": true
+        },
+        {
+            "id": "110053",
+            "num": 53,
+            "name": "Empyrean Varus",
+            "chromas": true
+        },
+        {
+            "id": "110060",
+            "num": 60,
+            "name": "Spirit Blossom Varus",
+            "chromas": true
+        },
+        {
+            "id": "110069",
+            "num": 69,
+            "name": "T1 Varus",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "reksai",
+    "forbiddenWords": [
+        "Geçersiz",
+        "Tünel",
+        "Yuva",
+        "Kraliçe",
+        "Gerçek Görüş"
+    ]
+}

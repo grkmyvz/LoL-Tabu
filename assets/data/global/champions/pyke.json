@@ -1,0 +1,86 @@
+{
+    "id": "pyke",
+    "imageSlug": "Pyke",
+    "key": "555",
+    "name": "Pyke",
+    "skins": [
+        {
+            "id": "555000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "555001",
+            "num": 1,
+            "name": "Sand Wraith Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555009",
+            "num": 9,
+            "name": "Blood Moon Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555016",
+            "num": 16,
+            "name": "PROJECT: Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555025",
+            "num": 25,
+            "name": "PsyOps Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555034",
+            "num": 34,
+            "name": "Sentinel Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555044",
+            "num": 44,
+            "name": "Ashen Knight Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555045",
+            "num": 45,
+            "name": "Empyrean Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555053",
+            "num": 53,
+            "name": "Soul Fighter Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555054",
+            "num": 54,
+            "name": "Prestige Soul Fighter Pyke",
+            "chromas": false
+        },
+        {
+            "id": "555064",
+            "num": 64,
+            "name": "Fright Night Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555074",
+            "num": 74,
+            "name": "Inkshadow Pyke",
+            "chromas": true
+        },
+        {
+            "id": "555075",
+            "num": 75,
+            "name": "T1 Pyke",
+            "chromas": true
+        }
+    ]
+}

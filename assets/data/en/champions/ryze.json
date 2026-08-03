@@ -1,0 +1,10 @@
+{
+    "id": "ryze",
+    "forbiddenWords": [
+        "Runes",
+        "Blue",
+        "Scroll",
+        "Realm Warp",
+        "Mage"
+    ]
+}

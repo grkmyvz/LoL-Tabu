@@ -1,0 +1,10 @@
+﻿{
+    "id": "fizz",
+    "forbiddenWords": [
+        "Shark",
+        "Trident",
+        "Fish",
+        "Untargetable",
+        "Bilgewater"
+    ]
+}

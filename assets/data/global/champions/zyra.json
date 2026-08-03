@@ -1,0 +1,86 @@
+{
+    "id": "zyra",
+    "imageSlug": "Zyra",
+    "key": "143",
+    "name": "Zyra",
+    "skins": [
+        {
+            "id": "143000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "143001",
+            "num": 1,
+            "name": "Wildfire Zyra",
+            "chromas": false
+        },
+        {
+            "id": "143002",
+            "num": 2,
+            "name": "Haunted Zyra",
+            "chromas": false
+        },
+        {
+            "id": "143003",
+            "num": 3,
+            "name": "SKT T1 Zyra",
+            "chromas": false
+        },
+        {
+            "id": "143004",
+            "num": 4,
+            "name": "Dragon Sorceress Zyra",
+            "chromas": false
+        },
+        {
+            "id": "143005",
+            "num": 5,
+            "name": "Coven Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143006",
+            "num": 6,
+            "name": "Prestige Coven Zyra",
+            "chromas": false
+        },
+        {
+            "id": "143007",
+            "num": 7,
+            "name": "Crystal Rose Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143016",
+            "num": 16,
+            "name": "Crime City Nightmare Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143036",
+            "num": 36,
+            "name": "Mythmaker Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143046",
+            "num": 46,
+            "name": "Street Demons Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143055",
+            "num": 55,
+            "name": "Blood Moon Zyra",
+            "chromas": true
+        },
+        {
+            "id": "143064",
+            "num": 64,
+            "name": "Spirit Blossom Zyra",
+            "chromas": true
+        }
+    ]
+}

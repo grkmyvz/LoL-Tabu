@@ -1,0 +1,10 @@
+{
+    "id": "yasuo",
+    "forbiddenWords": [
+        "Wind Wall",
+        "Tornado",
+        "Samurai",
+        "Hasagi",
+        "Airborne"
+    ]
+}

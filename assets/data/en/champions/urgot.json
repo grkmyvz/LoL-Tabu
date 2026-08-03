@@ -1,0 +1,10 @@
+{
+    "id": "urgot",
+    "forbiddenWords": [
+        "Shotgun Knees",
+        "Execution",
+        "Grinder",
+        "Zaun",
+        "Chains"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "ahri",
+    "forbiddenWords": [
+        "Fox",
+        "Charm",
+        "Orb",
+        "Nine Tails",
+        "Spirit Rush"
+    ]
+}

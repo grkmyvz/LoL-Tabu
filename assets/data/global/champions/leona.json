@@ -1,0 +1,122 @@
+{
+    "id": "leona",
+    "imageSlug": "Leona",
+    "key": "89",
+    "name": "Leona",
+    "skins": [
+        {
+            "id": "89000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "89001",
+            "num": 1,
+            "name": "Valkyrie Leona",
+            "chromas": false
+        },
+        {
+            "id": "89002",
+            "num": 2,
+            "name": "Defender Leona",
+            "chromas": false
+        },
+        {
+            "id": "89003",
+            "num": 3,
+            "name": "Iron Solari Leona",
+            "chromas": false
+        },
+        {
+            "id": "89004",
+            "num": 4,
+            "name": "Pool Party Leona",
+            "chromas": true
+        },
+        {
+            "id": "89008",
+            "num": 8,
+            "name": "PROJECT: Leona",
+            "chromas": false
+        },
+        {
+            "id": "89009",
+            "num": 9,
+            "name": "Barbecue Leona",
+            "chromas": false
+        },
+        {
+            "id": "89010",
+            "num": 10,
+            "name": "Solar Eclipse Leona",
+            "chromas": false
+        },
+        {
+            "id": "89011",
+            "num": 11,
+            "name": "Lunar Eclipse Leona",
+            "chromas": false
+        },
+        {
+            "id": "89012",
+            "num": 12,
+            "name": "Mecha Kingdoms Leona",
+            "chromas": true
+        },
+        {
+            "id": "89021",
+            "num": 21,
+            "name": "Battle Academia Leona",
+            "chromas": true
+        },
+        {
+            "id": "89022",
+            "num": 22,
+            "name": "DWG Leona",
+            "chromas": true
+        },
+        {
+            "id": "89023",
+            "num": 23,
+            "name": "Prestige Battle Academia Leona",
+            "chromas": false
+        },
+        {
+            "id": "89033",
+            "num": 33,
+            "name": "Debonair Leona",
+            "chromas": true
+        },
+        {
+            "id": "89034",
+            "num": 34,
+            "name": "High Noon Leona",
+            "chromas": true
+        },
+        {
+            "id": "89050",
+            "num": 50,
+            "name": "Crystalis Motus Leona",
+            "chromas": true
+        },
+        {
+            "id": "89052",
+            "num": 52,
+            "name": "Battle Lion Leona",
+            "chromas": true
+        },
+        {
+            "id": "89053",
+            "num": 53,
+            "name": "Prestige Battle Lion Leona",
+            "chromas": false
+        },
+        {
+            "id": "89064",
+            "num": 64,
+            "name": "Eternal Aspect Leona",
+            "chromas": true
+        }
+    ]
+}

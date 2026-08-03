@@ -1,0 +1,116 @@
+{
+    "id": "morgana",
+    "imageSlug": "Morgana",
+    "key": "25",
+    "name": "Morgana",
+    "skins": [
+        {
+            "id": "25000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "25001",
+            "num": 1,
+            "name": "Exiled Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25002",
+            "num": 2,
+            "name": "Sinful Succulence Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25003",
+            "num": 3,
+            "name": "Blade Mistress Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25004",
+            "num": 4,
+            "name": "Blackthorn Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25005",
+            "num": 5,
+            "name": "Ghost Bride Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25006",
+            "num": 6,
+            "name": "Victorious Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25010",
+            "num": 10,
+            "name": "Lunar Wraith Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25011",
+            "num": 11,
+            "name": "Bewitching Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25017",
+            "num": 17,
+            "name": "Majestic Empress Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25026",
+            "num": 26,
+            "name": "Coven Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25039",
+            "num": 39,
+            "name": "Dawnbringer Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25041",
+            "num": 41,
+            "name": "Prestige Bewitching Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25050",
+            "num": 50,
+            "name": "Star Nemesis Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25060",
+            "num": 60,
+            "name": "Snow Moon Morgana",
+            "chromas": true
+        },
+        {
+            "id": "25070",
+            "num": 70,
+            "name": "Porcelain Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25080",
+            "num": 80,
+            "name": "Spirit Blossom Morgana",
+            "chromas": false
+        },
+        {
+            "id": "25081",
+            "num": 81,
+            "name": "Prestige Veiled Lady Morgana",
+            "chromas": false
+        }
+    ]
+}

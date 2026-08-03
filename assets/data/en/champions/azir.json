@@ -1,0 +1,10 @@
+﻿{
+    "id": "azir",
+    "forbiddenWords": [
+        "Shurima",
+        "Emperor",
+        "Sand Soldiers",
+        "Shuffle",
+        "Bird"
+    ]
+}

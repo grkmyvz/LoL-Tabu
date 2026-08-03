@@ -1,0 +1,10 @@
+{
+    "id": "nasus",
+    "forbiddenWords": [
+        "Yığın",
+        "Baston",
+        "Köpek",
+        "Shurima",
+        "Solmak"
+    ]
+}

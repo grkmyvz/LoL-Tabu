@@ -1,0 +1,50 @@
+{
+    "id": "rumble",
+    "imageSlug": "Rumble",
+    "key": "68",
+    "name": "Rumble",
+    "skins": [
+        {
+            "id": "68000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "68001",
+            "num": 1,
+            "name": "Rumble in the Jungle",
+            "chromas": false
+        },
+        {
+            "id": "68002",
+            "num": 2,
+            "name": "Bilgerat Rumble",
+            "chromas": false
+        },
+        {
+            "id": "68003",
+            "num": 3,
+            "name": "Super Galaxy Rumble",
+            "chromas": false
+        },
+        {
+            "id": "68004",
+            "num": 4,
+            "name": "Badlands Baron Rumble",
+            "chromas": true
+        },
+        {
+            "id": "68013",
+            "num": 13,
+            "name": "Space Groove Rumble",
+            "chromas": true
+        },
+        {
+            "id": "68023",
+            "num": 23,
+            "name": "Cafe Cuties Rumble",
+            "chromas": true
+        }
+    ]
+}

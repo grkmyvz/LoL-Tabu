@@ -1,0 +1,80 @@
+{
+    "id": "nautilus",
+    "imageSlug": "Nautilus",
+    "key": "111",
+    "name": "Nautilus",
+    "skins": [
+        {
+            "id": "111000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "111001",
+            "num": 1,
+            "name": "Abyssal Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111002",
+            "num": 2,
+            "name": "Subterranean Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111003",
+            "num": 3,
+            "name": "AstroNautilus",
+            "chromas": true
+        },
+        {
+            "id": "111004",
+            "num": 4,
+            "name": "Warden Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111005",
+            "num": 5,
+            "name": "Worldbreaker Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111006",
+            "num": 6,
+            "name": "Conqueror Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111009",
+            "num": 9,
+            "name": "Shan Hai Scrolls Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111018",
+            "num": 18,
+            "name": "Fright Night Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111027",
+            "num": 27,
+            "name": "Cosmic Paladin Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111036",
+            "num": 36,
+            "name": "Crystalis Indomitus Nautilus",
+            "chromas": false
+        },
+        {
+            "id": "111039",
+            "num": 39,
+            "name": "Petricite Nautilus",
+            "chromas": false
+        }
+    ]
+}

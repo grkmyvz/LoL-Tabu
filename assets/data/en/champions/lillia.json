@@ -1,0 +1,10 @@
+﻿{
+    "id": "lillia",
+    "forbiddenWords": [
+        "Deer",
+        "Dream",
+        "Sleep",
+        "Eep",
+        "Fawn"
+    ]
+}

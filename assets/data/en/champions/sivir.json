@@ -1,0 +1,10 @@
+{
+    "id": "sivir",
+    "forbiddenWords": [
+        "Boomerang",
+        "Crossblade",
+        "Shurima",
+        "Spell Shield",
+        "Mercenary"
+    ]
+}

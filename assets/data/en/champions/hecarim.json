@@ -1,0 +1,10 @@
+﻿{
+    "id": "hecarim",
+    "forbiddenWords": [
+        "Horse",
+        "Centaur",
+        "Charge",
+        "Shadow Isles",
+        "Fear"
+    ]
+}

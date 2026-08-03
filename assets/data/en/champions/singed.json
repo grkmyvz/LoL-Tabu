@@ -1,0 +1,10 @@
+{
+    "id": "singed",
+    "forbiddenWords": [
+        "Poison",
+        "Fling",
+        "Chemist",
+        "Zaun",
+        "Shimmer"
+    ]
+}

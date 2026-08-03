@@ -1,0 +1,10 @@
+{
+    "id": "kassadin",
+    "forbiddenWords": [
+        "Geçersiz",
+        "Yarık Geçidi",
+        "Malzahar",
+        "Sessizlik",
+        "Mor"
+    ]
+}

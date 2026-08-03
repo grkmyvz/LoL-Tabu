@@ -1,0 +1,10 @@
+{
+    "id": "smolder",
+    "forbiddenWords": [
+        "Dragon",
+        "Stacks",
+        "Fire",
+        "Mom",
+        "Execute"
+    ]
+}

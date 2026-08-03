@@ -1,0 +1,10 @@
+﻿{
+    "id": "kled",
+    "forbiddenWords": [
+        "Skaarl",
+        "Yordle",
+        "Mount",
+        "Cowardly Lizard",
+        "Noxus"
+    ]
+}

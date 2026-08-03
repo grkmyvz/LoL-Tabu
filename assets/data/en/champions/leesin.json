@@ -1,0 +1,10 @@
+﻿{
+    "id": "leesin",
+    "forbiddenWords": [
+        "Blind",
+        "Kick",
+        "Ward",
+        "Insec",
+        "Monk"
+    ]
+}

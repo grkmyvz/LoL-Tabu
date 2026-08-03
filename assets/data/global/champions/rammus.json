@@ -1,0 +1,86 @@
+{
+    "id": "rammus",
+    "imageSlug": "Rammus",
+    "key": "33",
+    "name": "Rammus",
+    "skins": [
+        {
+            "id": "33000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "33001",
+            "num": 1,
+            "name": "King Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33002",
+            "num": 2,
+            "name": "Chrome Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33003",
+            "num": 3,
+            "name": "Molten Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33004",
+            "num": 4,
+            "name": "Freljord Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33005",
+            "num": 5,
+            "name": "Ninja Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33006",
+            "num": 6,
+            "name": "Full Metal Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33007",
+            "num": 7,
+            "name": "Guardian of the Sands Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33008",
+            "num": 8,
+            "name": "Sweeper Rammus",
+            "chromas": true
+        },
+        {
+            "id": "33016",
+            "num": 16,
+            "name": "Hextech Rammus",
+            "chromas": false
+        },
+        {
+            "id": "33017",
+            "num": 17,
+            "name": "Astronaut Rammus",
+            "chromas": true
+        },
+        {
+            "id": "33026",
+            "num": 26,
+            "name": "Durian Defender Rammus",
+            "chromas": true
+        },
+        {
+            "id": "33035",
+            "num": 35,
+            "name": "Baron Rammus",
+            "chromas": false
+        }
+    ]
+}

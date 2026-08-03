@@ -1,0 +1,10 @@
+{
+    "id": "udyr",
+    "forbiddenWords": [
+        "Stances",
+        "Bear",
+        "Phoenix",
+        "Awaken",
+        "Freljord"
+    ]
+}

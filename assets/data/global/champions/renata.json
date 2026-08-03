@@ -1,0 +1,44 @@
+{
+    "id": "renata",
+    "imageSlug": "Renata",
+    "key": "888",
+    "name": "Renata Glasc",
+    "skins": [
+        {
+            "id": "888000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "888001",
+            "num": 1,
+            "name": "Admiral Glasc",
+            "chromas": true
+        },
+        {
+            "id": "888010",
+            "num": 10,
+            "name": "Fright Night Renata Glasc",
+            "chromas": true
+        },
+        {
+            "id": "888020",
+            "num": 20,
+            "name": "La Ilusión Renata Glasc",
+            "chromas": true
+        },
+        {
+            "id": "888021",
+            "num": 21,
+            "name": "Prestige La Ilusión Renata Glasc",
+            "chromas": false
+        },
+        {
+            "id": "888031",
+            "num": 31,
+            "name": "Masque of the Black Rose Renata Glasc",
+            "chromas": false
+        }
+    ]
+}

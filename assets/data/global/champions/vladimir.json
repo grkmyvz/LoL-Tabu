@@ -1,0 +1,98 @@
+{
+    "id": "vladimir",
+    "imageSlug": "Vladimir",
+    "key": "8",
+    "name": "Vladimir",
+    "skins": [
+        {
+            "id": "8000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "8001",
+            "num": 1,
+            "name": "Count Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8002",
+            "num": 2,
+            "name": "Marquis Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8003",
+            "num": 3,
+            "name": "Nosferatu Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8004",
+            "num": 4,
+            "name": "Vandal Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8005",
+            "num": 5,
+            "name": "Blood Lord Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8006",
+            "num": 6,
+            "name": "Soulstealer Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8007",
+            "num": 7,
+            "name": "Academy Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8008",
+            "num": 8,
+            "name": "Dark Waters Vladimir",
+            "chromas": true
+        },
+        {
+            "id": "8014",
+            "num": 14,
+            "name": "Nightbringer Vladimir",
+            "chromas": true
+        },
+        {
+            "id": "8021",
+            "num": 21,
+            "name": "Cosmic Devourer Vladimir",
+            "chromas": true
+        },
+        {
+            "id": "8030",
+            "num": 30,
+            "name": "Cafe Cuties Vladimir",
+            "chromas": true
+        },
+        {
+            "id": "8039",
+            "num": 39,
+            "name": "Broken Covenant Vladimir",
+            "chromas": true
+        },
+        {
+            "id": "8048",
+            "num": 48,
+            "name": "Masque of the Black Rose Vladimir",
+            "chromas": false
+        },
+        {
+            "id": "8049",
+            "num": 49,
+            "name": "PsyOps Vladimir",
+            "chromas": true
+        }
+    ]
+}

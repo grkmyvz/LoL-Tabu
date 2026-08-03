@@ -1,0 +1,74 @@
+{
+    "id": "gnar",
+    "imageSlug": "Gnar",
+    "key": "150",
+    "name": "Gnar",
+    "skins": [
+        {
+            "id": "150000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "150001",
+            "num": 1,
+            "name": "Dino Gnar",
+            "chromas": true
+        },
+        {
+            "id": "150002",
+            "num": 2,
+            "name": "Gentleman Gnar",
+            "chromas": false
+        },
+        {
+            "id": "150003",
+            "num": 3,
+            "name": "Snow Day Gnar",
+            "chromas": false
+        },
+        {
+            "id": "150004",
+            "num": 4,
+            "name": "El León Gnar",
+            "chromas": false
+        },
+        {
+            "id": "150013",
+            "num": 13,
+            "name": "Super Galaxy Gnar",
+            "chromas": false
+        },
+        {
+            "id": "150014",
+            "num": 14,
+            "name": "SSG Gnar",
+            "chromas": true
+        },
+        {
+            "id": "150015",
+            "num": 15,
+            "name": "Astronaut Gnar",
+            "chromas": true
+        },
+        {
+            "id": "150022",
+            "num": 22,
+            "name": "Elderwood Gnar",
+            "chromas": true
+        },
+        {
+            "id": "150031",
+            "num": 31,
+            "name": "La Ilusión Gnar",
+            "chromas": true
+        },
+        {
+            "id": "150041",
+            "num": 41,
+            "name": "T1 Gnar",
+            "chromas": true
+        }
+    ]
+}

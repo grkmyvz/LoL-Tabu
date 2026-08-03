@@ -1,0 +1,56 @@
+{
+    "id": "quinn",
+    "imageSlug": "Quinn",
+    "key": "133",
+    "name": "Quinn",
+    "skins": [
+        {
+            "id": "133000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "133001",
+            "num": 1,
+            "name": "Phoenix Quinn",
+            "chromas": false
+        },
+        {
+            "id": "133002",
+            "num": 2,
+            "name": "Woad Scout Quinn",
+            "chromas": false
+        },
+        {
+            "id": "133003",
+            "num": 3,
+            "name": "Corsair Quinn",
+            "chromas": false
+        },
+        {
+            "id": "133004",
+            "num": 4,
+            "name": "Heartseeker Quinn",
+            "chromas": false
+        },
+        {
+            "id": "133005",
+            "num": 5,
+            "name": "Warden Quinn",
+            "chromas": true
+        },
+        {
+            "id": "133014",
+            "num": 14,
+            "name": "Star Guardian Quinn",
+            "chromas": true
+        },
+        {
+            "id": "133024",
+            "num": 24,
+            "name": "PROJECT: Quinn",
+            "chromas": true
+        }
+    ]
+}

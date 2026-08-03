@@ -1,0 +1,10 @@
+{
+    "id": "volibear",
+    "forbiddenWords": [
+        "Bear",
+        "Lightning",
+        "Freljord",
+        "Storm",
+        "Thunder"
+    ]
+}

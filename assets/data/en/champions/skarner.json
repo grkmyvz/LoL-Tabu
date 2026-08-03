@@ -1,0 +1,10 @@
+{
+    "id": "skarner",
+    "forbiddenWords": [
+        "Scorpion",
+        "Ixtal",
+        "Boulder",
+        "Impale",
+        "Wall"
+    ]
+}

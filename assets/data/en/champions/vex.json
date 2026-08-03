@@ -1,0 +1,10 @@
+{
+    "id": "vex",
+    "forbiddenWords": [
+        "Shadow",
+        "Gloom",
+        "Yordle",
+        "Dash",
+        "Doom"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "aurora",
+    "forbiddenWords": [
+        "Tavşan",
+        "Ruh",
+        "Freljord",
+        "Cadı",
+        "Bölge"
+    ]
+}

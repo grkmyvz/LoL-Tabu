@@ -1,0 +1,10 @@
+﻿{
+    "id": "drmundo",
+    "forbiddenWords": [
+        "Doctor",
+        "Cleaver",
+        "Purple",
+        "Regeneration",
+        "Goes Where He Pleases"
+    ]
+}

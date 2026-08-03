@@ -1,0 +1,104 @@
+{
+    "id": "karma",
+    "imageSlug": "Karma",
+    "key": "43",
+    "name": "Karma",
+    "skins": [
+        {
+            "id": "43000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "43001",
+            "num": 1,
+            "name": "Sun Goddess Karma",
+            "chromas": false
+        },
+        {
+            "id": "43002",
+            "num": 2,
+            "name": "Sakura Karma",
+            "chromas": false
+        },
+        {
+            "id": "43003",
+            "num": 3,
+            "name": "Traditional Karma",
+            "chromas": false
+        },
+        {
+            "id": "43004",
+            "num": 4,
+            "name": "Order of the Lotus Karma",
+            "chromas": false
+        },
+        {
+            "id": "43005",
+            "num": 5,
+            "name": "Warden Karma",
+            "chromas": false
+        },
+        {
+            "id": "43006",
+            "num": 6,
+            "name": "Winter Wonder Karma",
+            "chromas": false
+        },
+        {
+            "id": "43007",
+            "num": 7,
+            "name": "Conqueror Karma",
+            "chromas": true
+        },
+        {
+            "id": "43008",
+            "num": 8,
+            "name": "Dark Star Karma",
+            "chromas": true
+        },
+        {
+            "id": "43019",
+            "num": 19,
+            "name": "Dawnbringer Karma",
+            "chromas": false
+        },
+        {
+            "id": "43026",
+            "num": 26,
+            "name": "Odyssey Karma",
+            "chromas": false
+        },
+        {
+            "id": "43027",
+            "num": 27,
+            "name": "Ruined Karma",
+            "chromas": true
+        },
+        {
+            "id": "43044",
+            "num": 44,
+            "name": "Tranquility Dragon Karma",
+            "chromas": false
+        },
+        {
+            "id": "43054",
+            "num": 54,
+            "name": "Faerie Queen Karma",
+            "chromas": false
+        },
+        {
+            "id": "43061",
+            "num": 61,
+            "name": "Infernal Karma",
+            "chromas": false
+        },
+        {
+            "id": "43070",
+            "num": 70,
+            "name": "Spirit Blossom Karma",
+            "chromas": false
+        }
+    ]
+}

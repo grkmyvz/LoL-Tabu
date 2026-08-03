@@ -1,0 +1,68 @@
+{
+    "id": "zoe",
+    "imageSlug": "Zoe",
+    "key": "142",
+    "name": "Zoe",
+    "skins": [
+        {
+            "id": "142000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "142001",
+            "num": 1,
+            "name": "Cyber Pop Zoe",
+            "chromas": false
+        },
+        {
+            "id": "142002",
+            "num": 2,
+            "name": "Pool Party Zoe",
+            "chromas": true
+        },
+        {
+            "id": "142009",
+            "num": 9,
+            "name": "Star Guardian Zoe",
+            "chromas": true
+        },
+        {
+            "id": "142018",
+            "num": 18,
+            "name": "Arcanist Zoe",
+            "chromas": false
+        },
+        {
+            "id": "142019",
+            "num": 19,
+            "name": "Prestige Arcanist Zoe",
+            "chromas": false
+        },
+        {
+            "id": "142020",
+            "num": 20,
+            "name": "EDG Zoe",
+            "chromas": true
+        },
+        {
+            "id": "142022",
+            "num": 22,
+            "name": "Winterblessed Zoe",
+            "chromas": true
+        },
+        {
+            "id": "142033",
+            "num": 33,
+            "name": "Dark Star Zoe",
+            "chromas": true
+        },
+        {
+            "id": "142043",
+            "num": 43,
+            "name": "Prestige Eternal Aspect Zoe",
+            "chromas": true
+        }
+    ]
+}

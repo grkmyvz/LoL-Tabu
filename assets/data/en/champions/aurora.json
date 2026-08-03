@@ -1,0 +1,10 @@
+﻿{
+    "id": "aurora",
+    "forbiddenWords": [
+        "Rabbit",
+        "Spirit",
+        "Freljord",
+        "Witch",
+        "Realm"
+    ]
+}

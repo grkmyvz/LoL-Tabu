@@ -1,0 +1,10 @@
+﻿{
+    "id": "jarvaniv",
+    "forbiddenWords": [
+        "Demacia",
+        "Prince",
+        "Flag",
+        "Cataclysm",
+        "EQ"
+    ]
+}

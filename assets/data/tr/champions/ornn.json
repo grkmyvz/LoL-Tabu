@@ -1,0 +1,10 @@
+{
+    "id": "ornn",
+    "forbiddenWords": [
+        "Dövmek",
+        "Çekiç",
+        "Veri deposu",
+        "Öğeler",
+        "Volibear"
+    ]
+}

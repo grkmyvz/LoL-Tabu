@@ -1,0 +1,10 @@
+{
+    "id": "drmundo",
+    "forbiddenWords": [
+        "Doktor",
+        "satır",
+        "Mor",
+        "Yenilenme",
+        "Dilediği yere gider"
+    ]
+}

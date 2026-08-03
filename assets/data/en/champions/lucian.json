@@ -1,0 +1,10 @@
+﻿{
+    "id": "lucian",
+    "forbiddenWords": [
+        "Senna",
+        "Guns",
+        "Dash",
+        "Purifier",
+        "Double Shot"
+    ]
+}

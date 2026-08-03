@@ -1,0 +1,10 @@
+﻿{
+    "id": "ivern",
+    "forbiddenWords": [
+        "Tree",
+        "Daisy",
+        "Friend of the Forest",
+        "Bush",
+        "Jungle"
+    ]
+}

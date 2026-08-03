@@ -1,0 +1,110 @@
+{
+    "id": "sona",
+    "imageSlug": "Sona",
+    "key": "37",
+    "name": "Sona",
+    "skins": [
+        {
+            "id": "37000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "37001",
+            "num": 1,
+            "name": "Muse Sona",
+            "chromas": false
+        },
+        {
+            "id": "37002",
+            "num": 2,
+            "name": "Pentakill Sona",
+            "chromas": false
+        },
+        {
+            "id": "37003",
+            "num": 3,
+            "name": "Silent Night Sona",
+            "chromas": false
+        },
+        {
+            "id": "37004",
+            "num": 4,
+            "name": "Guqin Sona",
+            "chromas": true
+        },
+        {
+            "id": "37005",
+            "num": 5,
+            "name": "Arcade Sona",
+            "chromas": true
+        },
+        {
+            "id": "37006",
+            "num": 6,
+            "name": "DJ Sona",
+            "chromas": false
+        },
+        {
+            "id": "37007",
+            "num": 7,
+            "name": "Sweetheart Sona",
+            "chromas": false
+        },
+        {
+            "id": "37009",
+            "num": 9,
+            "name": "Odyssey Sona",
+            "chromas": true
+        },
+        {
+            "id": "37017",
+            "num": 17,
+            "name": "PsyOps Sona",
+            "chromas": true
+        },
+        {
+            "id": "37026",
+            "num": 26,
+            "name": "Pentakill III: Lost Chapter Sona",
+            "chromas": true
+        },
+        {
+            "id": "37035",
+            "num": 35,
+            "name": "Star Guardian Sona",
+            "chromas": true
+        },
+        {
+            "id": "37045",
+            "num": 45,
+            "name": "Immortal Journey Sona",
+            "chromas": true
+        },
+        {
+            "id": "37046",
+            "num": 46,
+            "name": "Prestige Immortal Journey Sona",
+            "chromas": false
+        },
+        {
+            "id": "37056",
+            "num": 56,
+            "name": "Victorious Sona",
+            "chromas": true
+        },
+        {
+            "id": "37066",
+            "num": 66,
+            "name": "Spirit Blossom Springs Sona",
+            "chromas": true
+        },
+        {
+            "id": "37075",
+            "num": 75,
+            "name": "Prestige Requiem Sona",
+            "chromas": true
+        }
+    ]
+}

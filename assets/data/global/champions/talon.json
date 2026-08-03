@@ -1,0 +1,86 @@
+{
+    "id": "talon",
+    "imageSlug": "Talon",
+    "key": "91",
+    "name": "Talon",
+    "skins": [
+        {
+            "id": "91000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "91001",
+            "num": 1,
+            "name": "Renegade Talon",
+            "chromas": false
+        },
+        {
+            "id": "91002",
+            "num": 2,
+            "name": "Crimson Elite Talon",
+            "chromas": false
+        },
+        {
+            "id": "91003",
+            "num": 3,
+            "name": "Dragonblade Talon",
+            "chromas": true
+        },
+        {
+            "id": "91004",
+            "num": 4,
+            "name": "SSW Talon",
+            "chromas": false
+        },
+        {
+            "id": "91005",
+            "num": 5,
+            "name": "Blood Moon Talon",
+            "chromas": false
+        },
+        {
+            "id": "91012",
+            "num": 12,
+            "name": "Enduring Sword Talon",
+            "chromas": true
+        },
+        {
+            "id": "91020",
+            "num": 20,
+            "name": "Talon Blackwood",
+            "chromas": true
+        },
+        {
+            "id": "91029",
+            "num": 29,
+            "name": "Withered Rose Talon",
+            "chromas": true
+        },
+        {
+            "id": "91038",
+            "num": 38,
+            "name": "High Noon Talon",
+            "chromas": true
+        },
+        {
+            "id": "91039",
+            "num": 39,
+            "name": "Prestige High Noon Talon",
+            "chromas": false
+        },
+        {
+            "id": "91049",
+            "num": 49,
+            "name": "Primal Ambush Talon",
+            "chromas": true
+        },
+        {
+            "id": "91059",
+            "num": 59,
+            "name": "Grand Reckoning Talon",
+            "chromas": false
+        }
+    ]
+}

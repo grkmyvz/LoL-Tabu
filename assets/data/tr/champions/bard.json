@@ -1,0 +1,10 @@
+{
+    "id": "bard",
+    "forbiddenWords": [
+        "Bipler",
+        "Çanlar",
+        "Portal",
+        "Altın",
+        "Dolaşmak"
+    ]
+}

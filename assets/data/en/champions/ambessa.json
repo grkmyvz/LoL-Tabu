@@ -1,0 +1,10 @@
+﻿{
+    "id": "ambessa",
+    "forbiddenWords": [
+        "Medarda",
+        "Noxus",
+        "Arcane",
+        "General",
+        "Chains"
+    ]
+}

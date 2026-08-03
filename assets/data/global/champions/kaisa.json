@@ -1,0 +1,104 @@
+{
+    "id": "kaisa",
+    "imageSlug": "Kaisa",
+    "key": "145",
+    "name": "Kai'Sa",
+    "skins": [
+        {
+            "id": "145000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "145001",
+            "num": 1,
+            "name": "Bullet Angel Kai'Sa",
+            "chromas": true
+        },
+        {
+            "id": "145014",
+            "num": 14,
+            "name": "K/DA Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145015",
+            "num": 15,
+            "name": "Prestige K/DA Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145016",
+            "num": 16,
+            "name": "iG Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145017",
+            "num": 17,
+            "name": "Arcade Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145026",
+            "num": 26,
+            "name": "K/DA ALL OUT Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145027",
+            "num": 27,
+            "name": "Prestige K/DA ALL OUT Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145029",
+            "num": 29,
+            "name": "Lagoon Dragon Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145039",
+            "num": 39,
+            "name": "Prestige K/DA Kai'Sa (2022)",
+            "chromas": false
+        },
+        {
+            "id": "145040",
+            "num": 40,
+            "name": "Star Guardian Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145048",
+            "num": 48,
+            "name": "Inkshadow Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145059",
+            "num": 59,
+            "name": "Heavenscale Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145069",
+            "num": 69,
+            "name": "Dark Star Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145070",
+            "num": 70,
+            "name": "Risen Legend Kai'Sa",
+            "chromas": false
+        },
+        {
+            "id": "145071",
+            "num": 71,
+            "name": "Immortalized Legend Kai'Sa",
+            "chromas": false
+        }
+    ]
+}

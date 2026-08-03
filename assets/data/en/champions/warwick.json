@@ -1,0 +1,10 @@
+{
+    "id": "warwick",
+    "forbiddenWords": [
+        "Wolf",
+        "Blood Hunt",
+        "Zaun",
+        "Howl",
+        "Vander"
+    ]
+}

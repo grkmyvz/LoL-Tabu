@@ -1,0 +1,92 @@
+{
+    "id": "fizz",
+    "imageSlug": "Fizz",
+    "key": "105",
+    "name": "Fizz",
+    "skins": [
+        {
+            "id": "105000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "105001",
+            "num": 1,
+            "name": "Atlantean Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105002",
+            "num": 2,
+            "name": "Tundra Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105003",
+            "num": 3,
+            "name": "Fisherman Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105004",
+            "num": 4,
+            "name": "Void Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105008",
+            "num": 8,
+            "name": "Cottontail Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105009",
+            "num": 9,
+            "name": "Super Galaxy Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105010",
+            "num": 10,
+            "name": "Omega Squad Fizz",
+            "chromas": true
+        },
+        {
+            "id": "105014",
+            "num": 14,
+            "name": "Fuzz Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105015",
+            "num": 15,
+            "name": "Prestige Fuzz Fizz",
+            "chromas": false
+        },
+        {
+            "id": "105016",
+            "num": 16,
+            "name": "Little Devil Fizz",
+            "chromas": true
+        },
+        {
+            "id": "105025",
+            "num": 25,
+            "name": "Prestige Fuzz Fizz (2022)",
+            "chromas": false
+        },
+        {
+            "id": "105026",
+            "num": 26,
+            "name": "Astronaut Fizz",
+            "chromas": true
+        },
+        {
+            "id": "105035",
+            "num": 35,
+            "name": "Rain Shepherd Fizz",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "varus",
+    "forbiddenWords": [
+        "Arrow",
+        "Darkin",
+        "Corruption",
+        "Blight",
+        "Bow"
+    ]
+}

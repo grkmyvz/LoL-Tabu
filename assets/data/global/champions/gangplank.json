@@ -1,0 +1,86 @@
+{
+    "id": "gangplank",
+    "imageSlug": "Gangplank",
+    "key": "41",
+    "name": "Gangplank",
+    "skins": [
+        {
+            "id": "41000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "41001",
+            "num": 1,
+            "name": "Spooky Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41002",
+            "num": 2,
+            "name": "Minuteman Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41003",
+            "num": 3,
+            "name": "Sailor Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41004",
+            "num": 4,
+            "name": "Toy Soldier Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41005",
+            "num": 5,
+            "name": "Special Forces Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41006",
+            "num": 6,
+            "name": "Sultan Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41007",
+            "num": 7,
+            "name": "Captain Gangplank",
+            "chromas": false
+        },
+        {
+            "id": "41008",
+            "num": 8,
+            "name": "Dreadnova Gangplank",
+            "chromas": true
+        },
+        {
+            "id": "41014",
+            "num": 14,
+            "name": "Pool Party Gangplank",
+            "chromas": true
+        },
+        {
+            "id": "41021",
+            "num": 21,
+            "name": "FPX Gangplank",
+            "chromas": true
+        },
+        {
+            "id": "41023",
+            "num": 23,
+            "name": "Gangplank the Betrayer",
+            "chromas": true
+        },
+        {
+            "id": "41033",
+            "num": 33,
+            "name": "PROJECT: Gangplank",
+            "chromas": true
+        }
+    ]
+}

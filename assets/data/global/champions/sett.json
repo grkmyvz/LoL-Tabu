@@ -1,0 +1,74 @@
+{
+    "id": "sett",
+    "imageSlug": "Sett",
+    "key": "875",
+    "name": "Sett",
+    "skins": [
+        {
+            "id": "875000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "875001",
+            "num": 1,
+            "name": "Mecha Kingdoms Sett",
+            "chromas": true
+        },
+        {
+            "id": "875008",
+            "num": 8,
+            "name": "Obsidian Dragon Sett",
+            "chromas": true
+        },
+        {
+            "id": "875009",
+            "num": 9,
+            "name": "Prestige Obsidian Dragon Sett",
+            "chromas": false
+        },
+        {
+            "id": "875010",
+            "num": 10,
+            "name": "Pool Party Sett",
+            "chromas": true
+        },
+        {
+            "id": "875019",
+            "num": 19,
+            "name": "Firecracker Sett",
+            "chromas": true
+        },
+        {
+            "id": "875038",
+            "num": 38,
+            "name": "Spirit Blossom Sett",
+            "chromas": true
+        },
+        {
+            "id": "875045",
+            "num": 45,
+            "name": "Soul Fighter Sett",
+            "chromas": true
+        },
+        {
+            "id": "875056",
+            "num": 56,
+            "name": "HEARTSTEEL Sett",
+            "chromas": true
+        },
+        {
+            "id": "875066",
+            "num": 66,
+            "name": "Radiant Serpent Sett",
+            "chromas": false
+        },
+        {
+            "id": "875067",
+            "num": 67,
+            "name": "Spirit Blossom Springs Sett",
+            "chromas": true
+        }
+    ]
+}

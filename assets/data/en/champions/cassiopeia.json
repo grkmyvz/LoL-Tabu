@@ -1,0 +1,10 @@
+﻿{
+    "id": "cassiopeia",
+    "forbiddenWords": [
+        "Snake",
+        "Poison",
+        "Petrify",
+        "Fangs",
+        "No Boots"
+    ]
+}

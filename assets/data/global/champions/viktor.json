@@ -1,0 +1,62 @@
+{
+    "id": "viktor",
+    "imageSlug": "Viktor",
+    "key": "112",
+    "name": "Viktor",
+    "skins": [
+        {
+            "id": "112000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "112001",
+            "num": 1,
+            "name": "Full Machine Viktor",
+            "chromas": false
+        },
+        {
+            "id": "112002",
+            "num": 2,
+            "name": "Prototype Viktor",
+            "chromas": false
+        },
+        {
+            "id": "112003",
+            "num": 3,
+            "name": "Creator Viktor",
+            "chromas": false
+        },
+        {
+            "id": "112004",
+            "num": 4,
+            "name": "Death Sworn Viktor",
+            "chromas": false
+        },
+        {
+            "id": "112005",
+            "num": 5,
+            "name": "PsyOps Viktor",
+            "chromas": true
+        },
+        {
+            "id": "112014",
+            "num": 14,
+            "name": "High Noon Viktor",
+            "chromas": true
+        },
+        {
+            "id": "112024",
+            "num": 24,
+            "name": "Arcane Savior Viktor",
+            "chromas": false
+        },
+        {
+            "id": "112025",
+            "num": 25,
+            "name": "Machine Herald Viktor",
+            "chromas": true
+        }
+    ]
+}

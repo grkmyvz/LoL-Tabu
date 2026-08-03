@@ -1,0 +1,68 @@
+{
+    "id": "xerath",
+    "imageSlug": "Xerath",
+    "key": "101",
+    "name": "Xerath",
+    "skins": [
+        {
+            "id": "101000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "101001",
+            "num": 1,
+            "name": "Runeborn Xerath",
+            "chromas": false
+        },
+        {
+            "id": "101002",
+            "num": 2,
+            "name": "Battlecast Xerath",
+            "chromas": false
+        },
+        {
+            "id": "101003",
+            "num": 3,
+            "name": "Scorched Earth Xerath",
+            "chromas": false
+        },
+        {
+            "id": "101004",
+            "num": 4,
+            "name": "Guardian of the Sands Xerath",
+            "chromas": false
+        },
+        {
+            "id": "101005",
+            "num": 5,
+            "name": "Dark Star Xerath",
+            "chromas": true
+        },
+        {
+            "id": "101012",
+            "num": 12,
+            "name": "Arcana Xerath",
+            "chromas": true
+        },
+        {
+            "id": "101021",
+            "num": 21,
+            "name": "Astronaut Xerath",
+            "chromas": true
+        },
+        {
+            "id": "101030",
+            "num": 30,
+            "name": "Crystalis Indomitus Xerath",
+            "chromas": true
+        },
+        {
+            "id": "101032",
+            "num": 32,
+            "name": "Corrupted Petricite Xerath",
+            "chromas": false
+        }
+    ]
+}

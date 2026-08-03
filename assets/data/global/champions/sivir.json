@@ -1,0 +1,128 @@
+{
+    "id": "sivir",
+    "imageSlug": "Sivir",
+    "key": "15",
+    "name": "Sivir",
+    "skins": [
+        {
+            "id": "15000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "15001",
+            "num": 1,
+            "name": "Warrior Princess Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15002",
+            "num": 2,
+            "name": "Spectacular Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15003",
+            "num": 3,
+            "name": "Huntress Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15004",
+            "num": 4,
+            "name": "Bandit Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15005",
+            "num": 5,
+            "name": "PAX Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15006",
+            "num": 6,
+            "name": "Snowstorm Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15007",
+            "num": 7,
+            "name": "Warden Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15008",
+            "num": 8,
+            "name": "Victorious Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15009",
+            "num": 9,
+            "name": "Neo PAX Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15010",
+            "num": 10,
+            "name": "Pizza Delivery Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15016",
+            "num": 16,
+            "name": "Blood Moon Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15025",
+            "num": 25,
+            "name": "Odyssey Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15034",
+            "num": 34,
+            "name": "Cafe Cuties Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15043",
+            "num": 43,
+            "name": "Solar Eclipse Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15050",
+            "num": 50,
+            "name": "Mythmaker Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15051",
+            "num": 51,
+            "name": "Prestige Mythmaker Sivir",
+            "chromas": false
+        },
+        {
+            "id": "15061",
+            "num": 61,
+            "name": "Primal Ambush Sivir",
+            "chromas": true
+        },
+        {
+            "id": "15070",
+            "num": 70,
+            "name": "Ann-Sivir-sary",
+            "chromas": false
+        },
+        {
+            "id": "15072",
+            "num": 72,
+            "name": "PROJECT: Sivir",
+            "chromas": true
+        }
+    ]
+}

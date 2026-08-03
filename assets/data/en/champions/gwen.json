@@ -1,0 +1,10 @@
+﻿{
+    "id": "gwen",
+    "forbiddenWords": [
+        "Scissors",
+        "Doll",
+        "Needle",
+        "Mist",
+        "Snip Snip"
+    ]
+}

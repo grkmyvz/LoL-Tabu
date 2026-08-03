@@ -1,0 +1,10 @@
+﻿{
+    "id": "lissandra",
+    "forbiddenWords": [
+        "Ice",
+        "Frozen",
+        "Witch",
+        "Freljord",
+        "Self Ult"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "anivia",
+    "imageSlug": "Anivia",
+    "key": "34",
+    "name": "Anivia",
+    "skins": [
+        {
+            "id": "34000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "34001",
+            "num": 1,
+            "name": "Team Spirit Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34002",
+            "num": 2,
+            "name": "Bird of Prey Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34003",
+            "num": 3,
+            "name": "Noxus Hunter Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34004",
+            "num": 4,
+            "name": "Hextech Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34005",
+            "num": 5,
+            "name": "Blackfrost Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34006",
+            "num": 6,
+            "name": "Prehistoric Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34007",
+            "num": 7,
+            "name": "Festival Queen Anivia",
+            "chromas": false
+        },
+        {
+            "id": "34008",
+            "num": 8,
+            "name": "Papercraft Anivia",
+            "chromas": true
+        },
+        {
+            "id": "34017",
+            "num": 17,
+            "name": "Cosmic Flight Anivia",
+            "chromas": true
+        },
+        {
+            "id": "34027",
+            "num": 27,
+            "name": "Divine Phoenix Anivia",
+            "chromas": true
+        },
+        {
+            "id": "34037",
+            "num": 37,
+            "name": "Bewitching Batnivia",
+            "chromas": true
+        },
+        {
+            "id": "34046",
+            "num": 46,
+            "name": "Victorious Anivia",
+            "chromas": true
+        }
+    ]
+}

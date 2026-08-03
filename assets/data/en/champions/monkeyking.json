@@ -1,0 +1,10 @@
+{
+    "id": "monkeyking",
+    "forbiddenWords": [
+        "Monkey",
+        "Clone",
+        "Staff",
+        "Cyclone",
+        "Warrior Trickster"
+    ]
+}

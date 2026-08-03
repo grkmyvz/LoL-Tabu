@@ -1,0 +1,122 @@
+{
+    "id": "yasuo",
+    "imageSlug": "Yasuo",
+    "key": "157",
+    "name": "Yasuo",
+    "skins": [
+        {
+            "id": "157000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "157001",
+            "num": 1,
+            "name": "High Noon Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157002",
+            "num": 2,
+            "name": "PROJECT: Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157003",
+            "num": 3,
+            "name": "Blood Moon Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157009",
+            "num": 9,
+            "name": "Nightbringer Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157010",
+            "num": 10,
+            "name": "Odyssey Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157017",
+            "num": 17,
+            "name": "Battle Boss Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157018",
+            "num": 18,
+            "name": "True Damage Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157035",
+            "num": 35,
+            "name": "Prestige True Damage Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157036",
+            "num": 36,
+            "name": "Spirit Blossom Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157045",
+            "num": 45,
+            "name": "Sea Dog Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157054",
+            "num": 54,
+            "name": "Truth Dragon Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157055",
+            "num": 55,
+            "name": "Dream Dragon Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157056",
+            "num": 56,
+            "name": "Inkshadow Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157057",
+            "num": 57,
+            "name": "Prestige Inkshadow Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157068",
+            "num": 68,
+            "name": "Foreseen Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157077",
+            "num": 77,
+            "name": "Battle Wolf Yasuo",
+            "chromas": true
+        },
+        {
+            "id": "157087",
+            "num": 87,
+            "name": "Genesis Nightbringer Yasuo",
+            "chromas": false
+        },
+        {
+            "id": "157088",
+            "num": 88,
+            "name": "Petals of Spring Yasuo",
+            "chromas": true
+        }
+    ]
+}

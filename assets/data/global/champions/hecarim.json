@@ -1,0 +1,86 @@
+{
+    "id": "hecarim",
+    "imageSlug": "Hecarim",
+    "key": "120",
+    "name": "Hecarim",
+    "skins": [
+        {
+            "id": "120000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "120001",
+            "num": 1,
+            "name": "Blood Knight Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120002",
+            "num": 2,
+            "name": "Reaper Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120003",
+            "num": 3,
+            "name": "Headless Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120004",
+            "num": 4,
+            "name": "Arcade Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120005",
+            "num": 5,
+            "name": "Elderwood Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120006",
+            "num": 6,
+            "name": "Worldbreaker Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120007",
+            "num": 7,
+            "name": "Lancer Zero Hecarim",
+            "chromas": false
+        },
+        {
+            "id": "120008",
+            "num": 8,
+            "name": "High Noon Hecarim",
+            "chromas": true
+        },
+        {
+            "id": "120014",
+            "num": 14,
+            "name": "Cosmic Charger Hecarim",
+            "chromas": true
+        },
+        {
+            "id": "120022",
+            "num": 22,
+            "name": "Arcana Hecarim",
+            "chromas": true
+        },
+        {
+            "id": "120031",
+            "num": 31,
+            "name": "Winterblessed Hecarim",
+            "chromas": true
+        },
+        {
+            "id": "120041",
+            "num": 41,
+            "name": "Nightbringer Hecarim",
+            "chromas": true
+        }
+    ]
+}

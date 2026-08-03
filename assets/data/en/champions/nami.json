@@ -1,0 +1,10 @@
+﻿{
+    "id": "nami",
+    "forbiddenWords": [
+        "Mermaid",
+        "Bubble",
+        "Wave",
+        "Tide",
+        "Staff"
+    ]
+}

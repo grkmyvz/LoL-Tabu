@@ -1,0 +1,32 @@
+{
+    "id": "ksante",
+    "imageSlug": "KSante",
+    "key": "897",
+    "name": "K'Sante",
+    "skins": [
+        {
+            "id": "897000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "897001",
+            "num": 1,
+            "name": "Empyrean K'Sante",
+            "chromas": true
+        },
+        {
+            "id": "897002",
+            "num": 2,
+            "name": "Prestige Empyrean K'Sante",
+            "chromas": false
+        },
+        {
+            "id": "897008",
+            "num": 8,
+            "name": "HEARTSTEEL K'Sante",
+            "chromas": true
+        }
+    ]
+}

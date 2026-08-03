@@ -1,0 +1,104 @@
+{
+    "id": "jarvaniv",
+    "imageSlug": "JarvanIV",
+    "key": "59",
+    "name": "Jarvan IV",
+    "skins": [
+        {
+            "id": "59000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "59001",
+            "num": 1,
+            "name": "Commando Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59002",
+            "num": 2,
+            "name": "Dragonslayer Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59003",
+            "num": 3,
+            "name": "Darkforge Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59004",
+            "num": 4,
+            "name": "Victorious Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59005",
+            "num": 5,
+            "name": "Warring Kingdoms Jarvan IV",
+            "chromas": true
+        },
+        {
+            "id": "59006",
+            "num": 6,
+            "name": "Fnatic Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59007",
+            "num": 7,
+            "name": "Dark Star Jarvan IV",
+            "chromas": true
+        },
+        {
+            "id": "59008",
+            "num": 8,
+            "name": "SSG Jarvan IV",
+            "chromas": true
+        },
+        {
+            "id": "59009",
+            "num": 9,
+            "name": "Hextech Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59011",
+            "num": 11,
+            "name": "Pool Party Jarvan IV",
+            "chromas": true
+        },
+        {
+            "id": "59021",
+            "num": 21,
+            "name": "Lunar Beast Jarvan IV",
+            "chromas": true
+        },
+        {
+            "id": "59030",
+            "num": 30,
+            "name": "Worlds 2021 Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59035",
+            "num": 35,
+            "name": "Nightbringer Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59044",
+            "num": 44,
+            "name": "Mythmaker Jarvan IV",
+            "chromas": false
+        },
+        {
+            "id": "59054",
+            "num": 54,
+            "name": "Prestige Visions of the Fallen Jarvan IV",
+            "chromas": false
+        }
+    ]
+}

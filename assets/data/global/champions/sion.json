@@ -1,0 +1,80 @@
+{
+    "id": "sion",
+    "imageSlug": "Sion",
+    "key": "14",
+    "name": "Sion",
+    "skins": [
+        {
+            "id": "14000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "14001",
+            "num": 1,
+            "name": "Hextech Sion",
+            "chromas": false
+        },
+        {
+            "id": "14002",
+            "num": 2,
+            "name": "Barbarian Sion",
+            "chromas": false
+        },
+        {
+            "id": "14003",
+            "num": 3,
+            "name": "Lumberjack Sion",
+            "chromas": false
+        },
+        {
+            "id": "14004",
+            "num": 4,
+            "name": "Warmonger Sion",
+            "chromas": false
+        },
+        {
+            "id": "14005",
+            "num": 5,
+            "name": "Mecha Zero Sion",
+            "chromas": true
+        },
+        {
+            "id": "14014",
+            "num": 14,
+            "name": "Worldbreaker Sion",
+            "chromas": true
+        },
+        {
+            "id": "14022",
+            "num": 22,
+            "name": "Blackfrost Sion",
+            "chromas": true
+        },
+        {
+            "id": "14030",
+            "num": 30,
+            "name": "High Noon Sion",
+            "chromas": true
+        },
+        {
+            "id": "14040",
+            "num": 40,
+            "name": "Cosmic Paladin Sion",
+            "chromas": true
+        },
+        {
+            "id": "14049",
+            "num": 49,
+            "name": "Grand Reckoning Sion",
+            "chromas": false
+        },
+        {
+            "id": "14050",
+            "num": 50,
+            "name": "Pizza Chef Sion",
+            "chromas": true
+        }
+    ]
+}

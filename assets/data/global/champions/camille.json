@@ -1,0 +1,62 @@
+{
+    "id": "camille",
+    "imageSlug": "Camille",
+    "key": "164",
+    "name": "Camille",
+    "skins": [
+        {
+            "id": "164000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "164001",
+            "num": 1,
+            "name": "Program Camille",
+            "chromas": false
+        },
+        {
+            "id": "164002",
+            "num": 2,
+            "name": "Coven Camille",
+            "chromas": true
+        },
+        {
+            "id": "164010",
+            "num": 10,
+            "name": "iG Camille",
+            "chromas": true
+        },
+        {
+            "id": "164011",
+            "num": 11,
+            "name": "Arcana Camille",
+            "chromas": true
+        },
+        {
+            "id": "164021",
+            "num": 21,
+            "name": "Strike Commander Camille",
+            "chromas": true
+        },
+        {
+            "id": "164031",
+            "num": 31,
+            "name": "Winterblessed Camille",
+            "chromas": true
+        },
+        {
+            "id": "164032",
+            "num": 32,
+            "name": "Prestige Winterblessed Camille",
+            "chromas": false
+        },
+        {
+            "id": "164044",
+            "num": 44,
+            "name": "Petals of Spring Camille",
+            "chromas": true
+        }
+    ]
+}

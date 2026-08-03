@@ -1,0 +1,62 @@
+{
+    "id": "bard",
+    "imageSlug": "Bard",
+    "key": "432",
+    "name": "Bard",
+    "skins": [
+        {
+            "id": "432000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "432001",
+            "num": 1,
+            "name": "Elderwood Bard",
+            "chromas": false
+        },
+        {
+            "id": "432005",
+            "num": 5,
+            "name": "Snow Day Bard",
+            "chromas": true
+        },
+        {
+            "id": "432006",
+            "num": 6,
+            "name": "Bard Bard",
+            "chromas": false
+        },
+        {
+            "id": "432008",
+            "num": 8,
+            "name": "Astronaut Bard",
+            "chromas": true
+        },
+        {
+            "id": "432017",
+            "num": 17,
+            "name": "Cafe Cuties Bard",
+            "chromas": true
+        },
+        {
+            "id": "432026",
+            "num": 26,
+            "name": "Shan Hai Scrolls Bard",
+            "chromas": true
+        },
+        {
+            "id": "432035",
+            "num": 35,
+            "name": "T1 Bard",
+            "chromas": true
+        },
+        {
+            "id": "432037",
+            "num": 37,
+            "name": "Spirit Blossom Bard",
+            "chromas": true
+        }
+    ]
+}

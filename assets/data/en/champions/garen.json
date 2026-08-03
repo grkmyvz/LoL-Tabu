@@ -1,0 +1,10 @@
+﻿{
+    "id": "garen",
+    "forbiddenWords": [
+        "Demacia",
+        "Spin",
+        "Sword",
+        "Silence",
+        "Justice"
+    ]
+}

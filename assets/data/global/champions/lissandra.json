@@ -1,0 +1,68 @@
+{
+    "id": "lissandra",
+    "imageSlug": "Lissandra",
+    "key": "127",
+    "name": "Lissandra",
+    "skins": [
+        {
+            "id": "127000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "127001",
+            "num": 1,
+            "name": "Bloodstone Lissandra",
+            "chromas": false
+        },
+        {
+            "id": "127002",
+            "num": 2,
+            "name": "Blade Queen Lissandra",
+            "chromas": false
+        },
+        {
+            "id": "127003",
+            "num": 3,
+            "name": "Program Lissandra",
+            "chromas": false
+        },
+        {
+            "id": "127004",
+            "num": 4,
+            "name": "Coven Lissandra",
+            "chromas": true
+        },
+        {
+            "id": "127012",
+            "num": 12,
+            "name": "Dark Cosmic Lissandra",
+            "chromas": true
+        },
+        {
+            "id": "127023",
+            "num": 23,
+            "name": "Porcelain Lissandra",
+            "chromas": true
+        },
+        {
+            "id": "127033",
+            "num": 33,
+            "name": "Prestige Porcelain Lissandra",
+            "chromas": false
+        },
+        {
+            "id": "127034",
+            "num": 34,
+            "name": "Space Groove Lissandra",
+            "chromas": true
+        },
+        {
+            "id": "127043",
+            "num": 43,
+            "name": "Flora Fatalis Lissandra",
+            "chromas": true
+        }
+    ]
+}

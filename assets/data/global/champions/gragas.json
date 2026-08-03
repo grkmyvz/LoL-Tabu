@@ -1,0 +1,98 @@
+{
+    "id": "gragas",
+    "imageSlug": "Gragas",
+    "key": "79",
+    "name": "Gragas",
+    "skins": [
+        {
+            "id": "79000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "79001",
+            "num": 1,
+            "name": "Scuba Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79002",
+            "num": 2,
+            "name": "Hillbilly Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79003",
+            "num": 3,
+            "name": "Santa Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79004",
+            "num": 4,
+            "name": "Gragas, Esq.",
+            "chromas": false
+        },
+        {
+            "id": "79005",
+            "num": 5,
+            "name": "Vandal Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79006",
+            "num": 6,
+            "name": "Oktoberfest Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79007",
+            "num": 7,
+            "name": "Superfan Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79008",
+            "num": 8,
+            "name": "Fnatic Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79009",
+            "num": 9,
+            "name": "Gragas Caskbreaker",
+            "chromas": false
+        },
+        {
+            "id": "79010",
+            "num": 10,
+            "name": "Arctic Ops Gragas",
+            "chromas": false
+        },
+        {
+            "id": "79011",
+            "num": 11,
+            "name": "Warden Gragas",
+            "chromas": true
+        },
+        {
+            "id": "79020",
+            "num": 20,
+            "name": "Space Groove Gragas",
+            "chromas": true
+        },
+        {
+            "id": "79029",
+            "num": 29,
+            "name": "High Noon Gragas",
+            "chromas": true
+        },
+        {
+            "id": "79039",
+            "num": 39,
+            "name": "Music Fan Gragas",
+            "chromas": true
+        }
+    ]
+}

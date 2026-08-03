@@ -1,0 +1,10 @@
+{
+    "id": "poppy",
+    "forbiddenWords": [
+        "Çekiç",
+        "Yordle",
+        "Demacia",
+        "Duvar",
+        "Kahraman"
+    ]
+}

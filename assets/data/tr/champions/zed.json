@@ -1,0 +1,10 @@
+{
+    "id": "zed",
+    "forbiddenWords": [
+        "Gölgeler",
+        "Ölüm İşareti",
+        "Şuriken",
+        "Ninja",
+        "Enerji"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "ekko",
+    "imageSlug": "Ekko",
+    "key": "245",
+    "name": "Ekko",
+    "skins": [
+        {
+            "id": "245000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "245001",
+            "num": 1,
+            "name": "Sandstorm Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245002",
+            "num": 2,
+            "name": "Academy Ekko",
+            "chromas": false
+        },
+        {
+            "id": "245003",
+            "num": 3,
+            "name": "PROJECT: Ekko",
+            "chromas": false
+        },
+        {
+            "id": "245011",
+            "num": 11,
+            "name": "SKT T1 Ekko",
+            "chromas": false
+        },
+        {
+            "id": "245012",
+            "num": 12,
+            "name": "Trick or Treat Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245019",
+            "num": 19,
+            "name": "True Damage Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245028",
+            "num": 28,
+            "name": "Pulsefire Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245036",
+            "num": 36,
+            "name": "Arcane Firelight Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245045",
+            "num": 45,
+            "name": "Star Guardian Ekko",
+            "chromas": true
+        },
+        {
+            "id": "245046",
+            "num": 46,
+            "name": "Prestige Star Guardian Ekko",
+            "chromas": false
+        },
+        {
+            "id": "245056",
+            "num": 56,
+            "name": "Breakout True Damage Ekko",
+            "chromas": false
+        },
+        {
+            "id": "245057",
+            "num": 57,
+            "name": "Arcane Last Stand Ekko",
+            "chromas": true
+        }
+    ]
+}

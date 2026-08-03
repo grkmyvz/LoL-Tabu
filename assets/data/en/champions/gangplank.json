@@ -1,0 +1,10 @@
+﻿{
+    "id": "gangplank",
+    "forbiddenWords": [
+        "Barrel",
+        "Pirate",
+        "Orange",
+        "Bilgewater",
+        "Cannon"
+    ]
+}

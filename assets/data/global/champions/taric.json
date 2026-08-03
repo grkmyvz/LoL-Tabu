@@ -1,0 +1,56 @@
+{
+    "id": "taric",
+    "imageSlug": "Taric",
+    "key": "44",
+    "name": "Taric",
+    "skins": [
+        {
+            "id": "44000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "44001",
+            "num": 1,
+            "name": "Emerald Taric",
+            "chromas": false
+        },
+        {
+            "id": "44002",
+            "num": 2,
+            "name": "Armor of the Fifth Age Taric",
+            "chromas": false
+        },
+        {
+            "id": "44003",
+            "num": 3,
+            "name": "Bloodstone Taric",
+            "chromas": false
+        },
+        {
+            "id": "44004",
+            "num": 4,
+            "name": "Pool Party Taric",
+            "chromas": true
+        },
+        {
+            "id": "44009",
+            "num": 9,
+            "name": "Taric Luminshield",
+            "chromas": true
+        },
+        {
+            "id": "44018",
+            "num": 18,
+            "name": "Space Groove Taric",
+            "chromas": true
+        },
+        {
+            "id": "44027",
+            "num": 27,
+            "name": "Fatebreaker Taric",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "kayn",
+    "imageSlug": "Kayn",
+    "key": "141",
+    "name": "Kayn",
+    "skins": [
+        {
+            "id": "141000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "141001",
+            "num": 1,
+            "name": "Soulhunter Kayn",
+            "chromas": false
+        },
+        {
+            "id": "141002",
+            "num": 2,
+            "name": "Odyssey Kayn",
+            "chromas": true
+        },
+        {
+            "id": "141008",
+            "num": 8,
+            "name": "Nightbringer Kayn",
+            "chromas": true
+        },
+        {
+            "id": "141009",
+            "num": 9,
+            "name": "Prestige Nightbringer Kayn",
+            "chromas": false
+        },
+        {
+            "id": "141015",
+            "num": 15,
+            "name": "Snow Moon Kayn",
+            "chromas": true
+        },
+        {
+            "id": "141020",
+            "num": 20,
+            "name": "HEARTSTEEL Kayn",
+            "chromas": true
+        },
+        {
+            "id": "141026",
+            "num": 26,
+            "name": "Battle Academia Kayn",
+            "chromas": true
+        }
+    ]
+}

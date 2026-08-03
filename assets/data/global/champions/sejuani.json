@@ -1,0 +1,92 @@
+{
+    "id": "sejuani",
+    "imageSlug": "Sejuani",
+    "key": "113",
+    "name": "Sejuani",
+    "skins": [
+        {
+            "id": "113000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "113001",
+            "num": 1,
+            "name": "Sabretusk Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113002",
+            "num": 2,
+            "name": "Darkrider Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113003",
+            "num": 3,
+            "name": "Traditional Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113004",
+            "num": 4,
+            "name": "Bear Cavalry Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113005",
+            "num": 5,
+            "name": "Poro Rider Sejuani",
+            "chromas": true
+        },
+        {
+            "id": "113006",
+            "num": 6,
+            "name": "Beast Hunter Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113007",
+            "num": 7,
+            "name": "Sejuani Dawnchaser",
+            "chromas": false
+        },
+        {
+            "id": "113008",
+            "num": 8,
+            "name": "Firecracker Sejuani",
+            "chromas": true
+        },
+        {
+            "id": "113015",
+            "num": 15,
+            "name": "Hextech Sejuani",
+            "chromas": false
+        },
+        {
+            "id": "113016",
+            "num": 16,
+            "name": "PROJECT: Sejuani",
+            "chromas": true
+        },
+        {
+            "id": "113026",
+            "num": 26,
+            "name": "Solar Eclipse Sejuani",
+            "chromas": true
+        },
+        {
+            "id": "113036",
+            "num": 36,
+            "name": "Victorious Sejuani",
+            "chromas": true
+        },
+        {
+            "id": "113048",
+            "num": 48,
+            "name": "Pug Trainer Sejuani",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "ambessa",
+    "imageSlug": "Ambessa",
+    "key": "799",
+    "name": "Ambessa",
+    "skins": [
+        {
+            "id": "799000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "799001",
+            "num": 1,
+            "name": "Chosen of the Wolf Ambessa",
+            "chromas": true
+        },
+        {
+            "id": "799008",
+            "num": 8,
+            "name": "T1 Ambessa",
+            "chromas": true
+        }
+    ]
+}

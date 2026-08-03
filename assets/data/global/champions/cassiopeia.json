@@ -1,0 +1,68 @@
+{
+    "id": "cassiopeia",
+    "imageSlug": "Cassiopeia",
+    "key": "69",
+    "name": "Cassiopeia",
+    "skins": [
+        {
+            "id": "69000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "69001",
+            "num": 1,
+            "name": "Desperada Cassiopeia",
+            "chromas": false
+        },
+        {
+            "id": "69002",
+            "num": 2,
+            "name": "Siren Cassiopeia",
+            "chromas": false
+        },
+        {
+            "id": "69003",
+            "num": 3,
+            "name": "Mythic Cassiopeia",
+            "chromas": false
+        },
+        {
+            "id": "69004",
+            "num": 4,
+            "name": "Jade Fang Cassiopeia",
+            "chromas": false
+        },
+        {
+            "id": "69008",
+            "num": 8,
+            "name": "Eternum Cassiopeia",
+            "chromas": false
+        },
+        {
+            "id": "69009",
+            "num": 9,
+            "name": "Spirit Blossom Cassiopeia",
+            "chromas": true
+        },
+        {
+            "id": "69018",
+            "num": 18,
+            "name": "Coven Cassiopeia",
+            "chromas": true
+        },
+        {
+            "id": "69028",
+            "num": 28,
+            "name": "Bewitching Cassiopeia",
+            "chromas": true
+        },
+        {
+            "id": "69038",
+            "num": 38,
+            "name": "Prestige Mythmaker Cassiopeia",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "twitch",
+    "imageSlug": "Twitch",
+    "key": "29",
+    "name": "Twitch",
+    "skins": [
+        {
+            "id": "29000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "29001",
+            "num": 1,
+            "name": "Kingpin Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29002",
+            "num": 2,
+            "name": "Whistler Village Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29003",
+            "num": 3,
+            "name": "Medieval Twitch",
+            "chromas": true
+        },
+        {
+            "id": "29004",
+            "num": 4,
+            "name": "Crime City Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29005",
+            "num": 5,
+            "name": "Vandal Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29006",
+            "num": 6,
+            "name": "Pickpocket Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29007",
+            "num": 7,
+            "name": "SSW Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29008",
+            "num": 8,
+            "name": "Omega Squad Twitch",
+            "chromas": true
+        },
+        {
+            "id": "29012",
+            "num": 12,
+            "name": "Ice King Twitch",
+            "chromas": true
+        },
+        {
+            "id": "29027",
+            "num": 27,
+            "name": "Twitch Shadowfoot",
+            "chromas": false
+        },
+        {
+            "id": "29036",
+            "num": 36,
+            "name": "Dragonslayer Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29045",
+            "num": 45,
+            "name": "High Noon Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29055",
+            "num": 55,
+            "name": "Cheddar Chief Twitch",
+            "chromas": false
+        },
+        {
+            "id": "29064",
+            "num": 64,
+            "name": "Pool Party Twitch",
+            "chromas": false
+        }
+    ]
+}

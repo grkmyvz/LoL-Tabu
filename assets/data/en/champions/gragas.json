@@ -1,0 +1,10 @@
+﻿{
+    "id": "gragas",
+    "forbiddenWords": [
+        "Barrel",
+        "Beer",
+        "Belly",
+        "Freljord",
+        "Body Slam"
+    ]
+}

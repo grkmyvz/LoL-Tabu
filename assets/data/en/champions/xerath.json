@@ -1,0 +1,10 @@
+{
+    "id": "xerath",
+    "forbiddenWords": [
+        "Skillshots",
+        "Artillery",
+        "Arcane",
+        "Long Range",
+        "Shurima"
+    ]
+}

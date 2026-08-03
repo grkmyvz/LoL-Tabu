@@ -1,0 +1,10 @@
+﻿{
+    "id": "renekton",
+    "forbiddenWords": [
+        "Crocodile",
+        "Shurima",
+        "Slice",
+        "Fury",
+        "Nasus"
+    ]
+}

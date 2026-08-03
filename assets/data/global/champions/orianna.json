@@ -1,0 +1,86 @@
+{
+    "id": "orianna",
+    "imageSlug": "Orianna",
+    "key": "61",
+    "name": "Orianna",
+    "skins": [
+        {
+            "id": "61000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "61001",
+            "num": 1,
+            "name": "Gothic Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61002",
+            "num": 2,
+            "name": "Sewn Chaos Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61003",
+            "num": 3,
+            "name": "Bladecraft Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61004",
+            "num": 4,
+            "name": "TPA Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61005",
+            "num": 5,
+            "name": "Winter Wonder Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61006",
+            "num": 6,
+            "name": "Heartseeker Orianna",
+            "chromas": false
+        },
+        {
+            "id": "61007",
+            "num": 7,
+            "name": "Dark Star Orianna",
+            "chromas": true
+        },
+        {
+            "id": "61008",
+            "num": 8,
+            "name": "Victorious Orianna",
+            "chromas": true
+        },
+        {
+            "id": "61011",
+            "num": 11,
+            "name": "Pool Party Orianna",
+            "chromas": true
+        },
+        {
+            "id": "61020",
+            "num": 20,
+            "name": "Orbeeanna",
+            "chromas": true
+        },
+        {
+            "id": "61029",
+            "num": 29,
+            "name": "Star Guardian Orianna",
+            "chromas": true
+        },
+        {
+            "id": "61038",
+            "num": 38,
+            "name": "T1 Orianna",
+            "chromas": true
+        }
+    ]
+}

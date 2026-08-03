@@ -1,0 +1,10 @@
+{
+    "id": "swain",
+    "forbiddenWords": [
+        "Ravens",
+        "Noxus",
+        "Demon",
+        "General",
+        "Drain"
+    ]
+}

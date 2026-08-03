@@ -1,0 +1,10 @@
+{
+    "id": "riven",
+    "forbiddenWords": [
+        "Broken Sword",
+        "Exile",
+        "Combo",
+        "Animation Cancel",
+        "Wind Slash"
+    ]
+}

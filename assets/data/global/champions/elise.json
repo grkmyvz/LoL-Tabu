@@ -1,0 +1,68 @@
+{
+    "id": "elise",
+    "imageSlug": "Elise",
+    "key": "60",
+    "name": "Elise",
+    "skins": [
+        {
+            "id": "60000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "60001",
+            "num": 1,
+            "name": "Death Blossom Elise",
+            "chromas": false
+        },
+        {
+            "id": "60002",
+            "num": 2,
+            "name": "Victorious Elise",
+            "chromas": false
+        },
+        {
+            "id": "60003",
+            "num": 3,
+            "name": "Blood Moon Elise",
+            "chromas": false
+        },
+        {
+            "id": "60004",
+            "num": 4,
+            "name": "SKT T1 Elise",
+            "chromas": false
+        },
+        {
+            "id": "60005",
+            "num": 5,
+            "name": "Super Galaxy Elise",
+            "chromas": false
+        },
+        {
+            "id": "60006",
+            "num": 6,
+            "name": "Bewitching Elise",
+            "chromas": true
+        },
+        {
+            "id": "60015",
+            "num": 15,
+            "name": "Withered Rose Elise",
+            "chromas": true
+        },
+        {
+            "id": "60024",
+            "num": 24,
+            "name": "Coven Elise",
+            "chromas": true
+        },
+        {
+            "id": "60034",
+            "num": 34,
+            "name": "Masque of the Black Rose Elise",
+            "chromas": false
+        }
+    ]
+}

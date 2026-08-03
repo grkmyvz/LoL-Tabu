@@ -1,0 +1,10 @@
+﻿{
+    "id": "brand",
+    "forbiddenWords": [
+        "Fire",
+        "Burn",
+        "Stun",
+        "Flames",
+        "Explosion"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "heimerdinger",
+    "forbiddenWords": [
+        "Turret",
+        "Scientist",
+        "Yordle",
+        "Piltover",
+        "Big Head"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "nidalee",
+    "forbiddenWords": [
+        "Spear",
+        "Cougar",
+        "Transform",
+        "Trap",
+        "Hunt"
+    ]
+}

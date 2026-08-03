@@ -1,0 +1,10 @@
+﻿{
+    "id": "irelia",
+    "forbiddenWords": [
+        "Blades",
+        "Ionia",
+        "Dash",
+        "Minion",
+        "Blade Dancer"
+    ]
+}

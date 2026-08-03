@@ -1,0 +1,140 @@
+{
+    "id": "akali",
+    "imageSlug": "Akali",
+    "key": "84",
+    "name": "Akali",
+    "skins": [
+        {
+            "id": "84000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "84001",
+            "num": 1,
+            "name": "Stinger Akali",
+            "chromas": false
+        },
+        {
+            "id": "84002",
+            "num": 2,
+            "name": "Infernal Akali",
+            "chromas": false
+        },
+        {
+            "id": "84003",
+            "num": 3,
+            "name": "All-star Akali",
+            "chromas": false
+        },
+        {
+            "id": "84004",
+            "num": 4,
+            "name": "Nurse Akali",
+            "chromas": true
+        },
+        {
+            "id": "84005",
+            "num": 5,
+            "name": "Blood Moon Akali",
+            "chromas": false
+        },
+        {
+            "id": "84006",
+            "num": 6,
+            "name": "Silverfang Akali",
+            "chromas": false
+        },
+        {
+            "id": "84007",
+            "num": 7,
+            "name": "Headhunter Akali",
+            "chromas": true
+        },
+        {
+            "id": "84008",
+            "num": 8,
+            "name": "Sashimi Akali",
+            "chromas": false
+        },
+        {
+            "id": "84009",
+            "num": 9,
+            "name": "K/DA Akali",
+            "chromas": false
+        },
+        {
+            "id": "84013",
+            "num": 13,
+            "name": "Prestige K/DA Akali",
+            "chromas": false
+        },
+        {
+            "id": "84014",
+            "num": 14,
+            "name": "PROJECT: Akali",
+            "chromas": true
+        },
+        {
+            "id": "84015",
+            "num": 15,
+            "name": "True Damage Akali",
+            "chromas": true
+        },
+        {
+            "id": "84032",
+            "num": 32,
+            "name": "K/DA ALL OUT Akali",
+            "chromas": true
+        },
+        {
+            "id": "84050",
+            "num": 50,
+            "name": "Crime City Nightmare Akali",
+            "chromas": false
+        },
+        {
+            "id": "84060",
+            "num": 60,
+            "name": "Prestige K/DA Akali (2022)",
+            "chromas": false
+        },
+        {
+            "id": "84061",
+            "num": 61,
+            "name": "Star Guardian Akali",
+            "chromas": false
+        },
+        {
+            "id": "84068",
+            "num": 68,
+            "name": "DRX Akali",
+            "chromas": false
+        },
+        {
+            "id": "84070",
+            "num": 70,
+            "name": "Coven Akali",
+            "chromas": false
+        },
+        {
+            "id": "84071",
+            "num": 71,
+            "name": "Prestige Coven Akali",
+            "chromas": true
+        },
+        {
+            "id": "84082",
+            "num": 82,
+            "name": "Empyrean Akali",
+            "chromas": false
+        },
+        {
+            "id": "84092",
+            "num": 92,
+            "name": "Spirit Blossom Akali",
+            "chromas": false
+        }
+    ]
+}

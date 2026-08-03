@@ -1,0 +1,10 @@
+{
+    "id": "aurelionsol",
+    "forbiddenWords": [
+        "龙",
+        "星星",
+        "空间",
+        "天界",
+        "黑洞"
+    ]
+}

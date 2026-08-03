@@ -1,0 +1,10 @@
+{
+    "id": "ashe",
+    "forbiddenWords": [
+        "Yay",
+        "Ok",
+        "Buz",
+        "Freljord",
+        "Stun"
+    ]
+}

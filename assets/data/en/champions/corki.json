@@ -1,0 +1,10 @@
+﻿{
+    "id": "corki",
+    "forbiddenWords": [
+        "Plane",
+        "Yordle",
+        "Missile",
+        "Pilot",
+        "Mustache"
+    ]
+}

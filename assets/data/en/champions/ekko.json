@@ -1,0 +1,10 @@
+﻿{
+    "id": "ekko",
+    "forbiddenWords": [
+        "Time",
+        "Zaun",
+        "Chronobreak",
+        "Rewind",
+        "Z-Drive"
+    ]
+}

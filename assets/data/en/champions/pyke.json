@@ -1,0 +1,10 @@
+﻿{
+    "id": "pyke",
+    "forbiddenWords": [
+        "Hook",
+        "Harpoon",
+        "Bilgewater",
+        "Execute",
+        "Drowned"
+    ]
+}

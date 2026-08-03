@@ -1,0 +1,10 @@
+{
+    "id": "zoe",
+    "forbiddenWords": [
+        "Bubble",
+        "Portal",
+        "Sleep",
+        "Targon",
+        "Twilight"
+    ]
+}

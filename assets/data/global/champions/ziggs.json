@@ -1,0 +1,86 @@
+{
+    "id": "ziggs",
+    "imageSlug": "Ziggs",
+    "key": "115",
+    "name": "Ziggs",
+    "skins": [
+        {
+            "id": "115000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "115001",
+            "num": 1,
+            "name": "Mad Scientist Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115002",
+            "num": 2,
+            "name": "Major Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115003",
+            "num": 3,
+            "name": "Pool Party Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115004",
+            "num": 4,
+            "name": "Snow Day Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115005",
+            "num": 5,
+            "name": "Master Arcanist Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115006",
+            "num": 6,
+            "name": "Battle Boss Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115007",
+            "num": 7,
+            "name": "Odyssey Ziggs",
+            "chromas": true
+        },
+        {
+            "id": "115014",
+            "num": 14,
+            "name": "Sugar Rush Ziggs",
+            "chromas": true
+        },
+        {
+            "id": "115023",
+            "num": 23,
+            "name": "Hextech Ziggs",
+            "chromas": false
+        },
+        {
+            "id": "115024",
+            "num": 24,
+            "name": "BZZZiggs",
+            "chromas": true
+        },
+        {
+            "id": "115033",
+            "num": 33,
+            "name": "La Ilusión Ziggs",
+            "chromas": true
+        },
+        {
+            "id": "115043",
+            "num": 43,
+            "name": "Firecracker Ziggs",
+            "chromas": true
+        }
+    ]
+}

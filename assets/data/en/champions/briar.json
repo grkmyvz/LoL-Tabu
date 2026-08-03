@@ -1,0 +1,10 @@
+﻿{
+    "id": "briar",
+    "forbiddenWords": [
+        "Blood",
+        "Frenzy",
+        "Hunger",
+        "Feet",
+        "Pillory"
+    ]
+}

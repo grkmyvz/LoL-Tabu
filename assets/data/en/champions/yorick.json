@@ -1,0 +1,10 @@
+{
+    "id": "yorick",
+    "forbiddenWords": [
+        "Maiden",
+        "Ghouls",
+        "Shovel",
+        "Split Push",
+        "Mist"
+    ]
+}

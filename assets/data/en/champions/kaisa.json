@@ -1,0 +1,10 @@
+﻿{
+    "id": "kaisa",
+    "forbiddenWords": [
+        "Void",
+        "KDA",
+        "Evolve",
+        "Plasma",
+        "Suit"
+    ]
+}

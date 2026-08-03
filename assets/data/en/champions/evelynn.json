@@ -1,0 +1,10 @@
+﻿{
+    "id": "evelynn",
+    "forbiddenWords": [
+        "Invisible",
+        "Charm",
+        "Demon",
+        "Stealth",
+        "KDA"
+    ]
+}

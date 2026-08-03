@@ -1,0 +1,50 @@
+{
+    "id": "lillia",
+    "imageSlug": "Lillia",
+    "key": "876",
+    "name": "Lillia",
+    "skins": [
+        {
+            "id": "876000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "876001",
+            "num": 1,
+            "name": "Spirit Blossom Lillia",
+            "chromas": true
+        },
+        {
+            "id": "876010",
+            "num": 10,
+            "name": "Nightbringer Lillia",
+            "chromas": true
+        },
+        {
+            "id": "876019",
+            "num": 19,
+            "name": "Shan Hai Scrolls Lillia",
+            "chromas": true
+        },
+        {
+            "id": "876028",
+            "num": 28,
+            "name": "Faerie Court Lillia",
+            "chromas": true
+        },
+        {
+            "id": "876037",
+            "num": 37,
+            "name": "Bowling League Lillia",
+            "chromas": true
+        },
+        {
+            "id": "876046",
+            "num": 46,
+            "name": "Petals of Spring Lillia",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": "taliyah",
+    "imageSlug": "Taliyah",
+    "key": "163",
+    "name": "Taliyah",
+    "skins": [
+        {
+            "id": "163000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "163001",
+            "num": 1,
+            "name": "Freljord Taliyah",
+            "chromas": false
+        },
+        {
+            "id": "163002",
+            "num": 2,
+            "name": "SSG Taliyah",
+            "chromas": true
+        },
+        {
+            "id": "163003",
+            "num": 3,
+            "name": "Pool Party Taliyah",
+            "chromas": true
+        },
+        {
+            "id": "163011",
+            "num": 11,
+            "name": "Star Guardian Taliyah",
+            "chromas": true
+        },
+        {
+            "id": "163021",
+            "num": 21,
+            "name": "Crystalis Motus Taliyah",
+            "chromas": true
+        },
+        {
+            "id": "163024",
+            "num": 24,
+            "name": "Durand's Legacy Taliyah",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "akshan",
+    "imageSlug": "Akshan",
+    "key": "166",
+    "name": "Akshan",
+    "skins": [
+        {
+            "id": "166000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "166001",
+            "num": 1,
+            "name": "Cyber Pop Akshan",
+            "chromas": true
+        },
+        {
+            "id": "166010",
+            "num": 10,
+            "name": "Crystal Rose Akshan",
+            "chromas": true
+        },
+        {
+            "id": "166020",
+            "num": 20,
+            "name": "Three Honors Akshan",
+            "chromas": false
+        },
+        {
+            "id": "166021",
+            "num": 21,
+            "name": "High Noon Akshan",
+            "chromas": true
+        }
+    ]
+}

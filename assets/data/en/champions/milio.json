@@ -1,0 +1,10 @@
+﻿{
+    "id": "milio",
+    "forbiddenWords": [
+        "Fire",
+        "Fuemigo",
+        "Ixtal",
+        "Cleanse",
+        "Backpack"
+    ]
+}

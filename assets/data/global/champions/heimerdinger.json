@@ -1,0 +1,68 @@
+{
+    "id": "heimerdinger",
+    "imageSlug": "Heimerdinger",
+    "key": "74",
+    "name": "Heimerdinger",
+    "skins": [
+        {
+            "id": "74000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "74001",
+            "num": 1,
+            "name": "Alien Invader Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74002",
+            "num": 2,
+            "name": "Blast Zone Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74003",
+            "num": 3,
+            "name": "Piltover Customs Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74004",
+            "num": 4,
+            "name": "Snowmerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74005",
+            "num": 5,
+            "name": "Hazmat Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74006",
+            "num": 6,
+            "name": "Dragon Trainer Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74015",
+            "num": 15,
+            "name": "Pool Party Heimerdinger",
+            "chromas": false
+        },
+        {
+            "id": "74024",
+            "num": 24,
+            "name": "Heimerstinger",
+            "chromas": false
+        },
+        {
+            "id": "74033",
+            "num": 33,
+            "name": "Arcane Professor Heimerdinger",
+            "chromas": false
+        }
+    ]
+}

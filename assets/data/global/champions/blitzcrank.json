@@ -1,0 +1,122 @@
+{
+    "id": "blitzcrank",
+    "imageSlug": "Blitzcrank",
+    "key": "53",
+    "name": "Blitzcrank",
+    "skins": [
+        {
+            "id": "53000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "53001",
+            "num": 1,
+            "name": "Rusty Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53002",
+            "num": 2,
+            "name": "Goalkeeper Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53003",
+            "num": 3,
+            "name": "Boom Boom Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53004",
+            "num": 4,
+            "name": "Piltover Customs Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53005",
+            "num": 5,
+            "name": "Definitely Not Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53006",
+            "num": 6,
+            "name": "iBlitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53007",
+            "num": 7,
+            "name": "Riot Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53011",
+            "num": 11,
+            "name": "Battle Boss Blitzcrank",
+            "chromas": true
+        },
+        {
+            "id": "53020",
+            "num": 20,
+            "name": "Lancer Rogue Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53021",
+            "num": 21,
+            "name": "Lancer Paragon Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53022",
+            "num": 22,
+            "name": "Witch's Brew Blitzcrank",
+            "chromas": true
+        },
+        {
+            "id": "53029",
+            "num": 29,
+            "name": "Space Groove Blitz & Crank",
+            "chromas": true
+        },
+        {
+            "id": "53036",
+            "num": 36,
+            "name": "Victorious Blitzcrank",
+            "chromas": true
+        },
+        {
+            "id": "53047",
+            "num": 47,
+            "name": "Zenith Games Blitzcrank",
+            "chromas": true
+        },
+        {
+            "id": "53056",
+            "num": 56,
+            "name": "Beezcrank",
+            "chromas": true
+        },
+        {
+            "id": "53066",
+            "num": 66,
+            "name": "Bubble Bash Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53075",
+            "num": 75,
+            "name": "Rustier Blitzcrank",
+            "chromas": false
+        },
+        {
+            "id": "53076",
+            "num": 76,
+            "name": "Rustiest Blitzcrank",
+            "chromas": false
+        }
+    ]
+}

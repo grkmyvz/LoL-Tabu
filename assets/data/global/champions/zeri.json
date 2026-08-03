@@ -1,0 +1,50 @@
+{
+    "id": "zeri",
+    "imageSlug": "Zeri",
+    "key": "221",
+    "name": "Zeri",
+    "skins": [
+        {
+            "id": "221000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "221001",
+            "num": 1,
+            "name": "Withered Rose Zeri",
+            "chromas": true
+        },
+        {
+            "id": "221010",
+            "num": 10,
+            "name": "Ocean Song Zeri",
+            "chromas": true
+        },
+        {
+            "id": "221019",
+            "num": 19,
+            "name": "Immortal Journey Zeri",
+            "chromas": true
+        },
+        {
+            "id": "221028",
+            "num": 28,
+            "name": "Fright Night Zeri",
+            "chromas": true
+        },
+        {
+            "id": "221029",
+            "num": 29,
+            "name": "Prestige Fright Night Zeri",
+            "chromas": false
+        },
+        {
+            "id": "221040",
+            "num": 40,
+            "name": "Winter Wonder Zeri",
+            "chromas": true
+        }
+    ]
+}

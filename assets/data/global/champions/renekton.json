@@ -1,0 +1,104 @@
+{
+    "id": "renekton",
+    "imageSlug": "Renekton",
+    "key": "58",
+    "name": "Renekton",
+    "skins": [
+        {
+            "id": "58000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "58001",
+            "num": 1,
+            "name": "Galactic Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58002",
+            "num": 2,
+            "name": "Outback Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58003",
+            "num": 3,
+            "name": "Bloodfury Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58004",
+            "num": 4,
+            "name": "Rune Wars Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58005",
+            "num": 5,
+            "name": "Scorched Earth Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58006",
+            "num": 6,
+            "name": "Pool Party Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58007",
+            "num": 7,
+            "name": "Prehistoric Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58008",
+            "num": 8,
+            "name": "SKT T1 Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58009",
+            "num": 9,
+            "name": "Renektoy",
+            "chromas": true
+        },
+        {
+            "id": "58017",
+            "num": 17,
+            "name": "Hextech Renekton",
+            "chromas": false
+        },
+        {
+            "id": "58018",
+            "num": 18,
+            "name": "Blackfrost Renekton",
+            "chromas": true
+        },
+        {
+            "id": "58026",
+            "num": 26,
+            "name": "PROJECT: Renekton",
+            "chromas": true
+        },
+        {
+            "id": "58033",
+            "num": 33,
+            "name": "Dawnbringer Renekton",
+            "chromas": true
+        },
+        {
+            "id": "58042",
+            "num": 42,
+            "name": "Worlds 2023 Renekton",
+            "chromas": true
+        },
+        {
+            "id": "58048",
+            "num": 48,
+            "name": "Inkshadow Renekton",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": "corki",
+    "imageSlug": "Corki",
+    "key": "42",
+    "name": "Corki",
+    "skins": [
+        {
+            "id": "42000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "42001",
+            "num": 1,
+            "name": "UFO Corki",
+            "chromas": false
+        },
+        {
+            "id": "42002",
+            "num": 2,
+            "name": "Ice Toboggan Corki",
+            "chromas": false
+        },
+        {
+            "id": "42003",
+            "num": 3,
+            "name": "Red Baron Corki",
+            "chromas": false
+        },
+        {
+            "id": "42004",
+            "num": 4,
+            "name": "Hot Rod Corki",
+            "chromas": false
+        },
+        {
+            "id": "42005",
+            "num": 5,
+            "name": "Urfrider Corki",
+            "chromas": false
+        },
+        {
+            "id": "42006",
+            "num": 6,
+            "name": "Dragonwing Corki",
+            "chromas": true
+        },
+        {
+            "id": "42007",
+            "num": 7,
+            "name": "Fnatic Corki",
+            "chromas": false
+        },
+        {
+            "id": "42008",
+            "num": 8,
+            "name": "Arcade Corki",
+            "chromas": true
+        },
+        {
+            "id": "42018",
+            "num": 18,
+            "name": "Corgi Corki",
+            "chromas": true
+        },
+        {
+            "id": "42026",
+            "num": 26,
+            "name": "Astronaut Corki",
+            "chromas": true
+        },
+        {
+            "id": "42036",
+            "num": 36,
+            "name": "Brick Toy Corki",
+            "chromas": true
+        }
+    ]
+}

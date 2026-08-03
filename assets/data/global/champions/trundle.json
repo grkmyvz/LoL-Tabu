@@ -1,0 +1,62 @@
+{
+    "id": "trundle",
+    "imageSlug": "Trundle",
+    "key": "48",
+    "name": "Trundle",
+    "skins": [
+        {
+            "id": "48000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "48001",
+            "num": 1,
+            "name": "Lil' Slugger Trundle",
+            "chromas": false
+        },
+        {
+            "id": "48002",
+            "num": 2,
+            "name": "Junkyard Trundle",
+            "chromas": false
+        },
+        {
+            "id": "48003",
+            "num": 3,
+            "name": "Traditional Trundle",
+            "chromas": false
+        },
+        {
+            "id": "48004",
+            "num": 4,
+            "name": "Constable Trundle",
+            "chromas": false
+        },
+        {
+            "id": "48005",
+            "num": 5,
+            "name": "Worldbreaker Trundle",
+            "chromas": false
+        },
+        {
+            "id": "48006",
+            "num": 6,
+            "name": "Dragonslayer Trundle",
+            "chromas": true
+        },
+        {
+            "id": "48012",
+            "num": 12,
+            "name": "Fright Night Trundle",
+            "chromas": true
+        },
+        {
+            "id": "48021",
+            "num": 21,
+            "name": "Esports Fan Trundle",
+            "chromas": true
+        }
+    ]
+}

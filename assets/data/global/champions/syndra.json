@@ -1,0 +1,92 @@
+{
+    "id": "syndra",
+    "imageSlug": "Syndra",
+    "key": "134",
+    "name": "Syndra",
+    "skins": [
+        {
+            "id": "134000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "134001",
+            "num": 1,
+            "name": "Justicar Syndra",
+            "chromas": false
+        },
+        {
+            "id": "134002",
+            "num": 2,
+            "name": "Atlantean Syndra",
+            "chromas": false
+        },
+        {
+            "id": "134003",
+            "num": 3,
+            "name": "Queen of Diamonds Syndra",
+            "chromas": false
+        },
+        {
+            "id": "134004",
+            "num": 4,
+            "name": "Snow Day Syndra",
+            "chromas": false
+        },
+        {
+            "id": "134005",
+            "num": 5,
+            "name": "SKT T1 Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134006",
+            "num": 6,
+            "name": "Star Guardian Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134007",
+            "num": 7,
+            "name": "Pool Party Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134016",
+            "num": 16,
+            "name": "Withered Rose Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134025",
+            "num": 25,
+            "name": "Bewitching Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134034",
+            "num": 34,
+            "name": "Prestige Star Guardian Syndra",
+            "chromas": false
+        },
+        {
+            "id": "134044",
+            "num": 44,
+            "name": "Spirit Blossom Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134054",
+            "num": 54,
+            "name": "Coven Syndra",
+            "chromas": true
+        },
+        {
+            "id": "134065",
+            "num": 65,
+            "name": "Dumpling Darlings Syndra",
+            "chromas": true
+        }
+    ]
+}

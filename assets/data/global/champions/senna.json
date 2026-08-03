@@ -1,0 +1,80 @@
+{
+    "id": "senna",
+    "imageSlug": "Senna",
+    "key": "235",
+    "name": "Senna",
+    "skins": [
+        {
+            "id": "235000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "235001",
+            "num": 1,
+            "name": "True Damage Senna",
+            "chromas": true
+        },
+        {
+            "id": "235009",
+            "num": 9,
+            "name": "Prestige True Damage Senna",
+            "chromas": false
+        },
+        {
+            "id": "235010",
+            "num": 10,
+            "name": "High Noon Senna",
+            "chromas": true
+        },
+        {
+            "id": "235016",
+            "num": 16,
+            "name": "PROJECT: Senna",
+            "chromas": true
+        },
+        {
+            "id": "235026",
+            "num": 26,
+            "name": "Lunar Eclipse Senna",
+            "chromas": true
+        },
+        {
+            "id": "235027",
+            "num": 27,
+            "name": "Prestige Lunar Eclipse Senna",
+            "chromas": false
+        },
+        {
+            "id": "235036",
+            "num": 36,
+            "name": "Bewitching Senna",
+            "chromas": true
+        },
+        {
+            "id": "235046",
+            "num": 46,
+            "name": "Star Guardian Senna",
+            "chromas": true
+        },
+        {
+            "id": "235056",
+            "num": 56,
+            "name": "Winterblessed Senna",
+            "chromas": false
+        },
+        {
+            "id": "235063",
+            "num": 63,
+            "name": "Masked Justice Senna",
+            "chromas": false
+        },
+        {
+            "id": "235072",
+            "num": 72,
+            "name": "Warhound Senna",
+            "chromas": false
+        }
+    ]
+}

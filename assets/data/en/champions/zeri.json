@@ -1,0 +1,10 @@
+{
+    "id": "zeri",
+    "forbiddenWords": [
+        "Electricity",
+        "Zaun",
+        "Burst Fire",
+        "Lightning",
+        "Speed"
+    ]
+}

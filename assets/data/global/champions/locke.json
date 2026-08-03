@@ -1,0 +1,20 @@
+{
+    "id": "locke",
+    "imageSlug": "Locke",
+    "key": "805",
+    "name": "Locke",
+    "skins": [
+        {
+            "id": "805000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "805001",
+            "num": 1,
+            "name": "High Noon Locke",
+            "chromas": true
+        }
+    ]
+}

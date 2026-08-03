@@ -1,0 +1,10 @@
+﻿{
+    "id": "karthus",
+    "forbiddenWords": [
+        "Requiem",
+        "Global Ult",
+        "Death",
+        "Lay Waste",
+        "Lich"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "nautilus",
+    "forbiddenWords": [
+        "Anchor",
+        "Hook",
+        "Titan",
+        "Depths",
+        "Bilgewater"
+    ]
+}

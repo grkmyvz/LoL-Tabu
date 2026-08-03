@@ -1,0 +1,10 @@
+﻿{
+    "id": "aurelionsol",
+    "forbiddenWords": [
+        "Dragon",
+        "Stars",
+        "Space",
+        "Celestial",
+        "Black Hole"
+    ]
+}

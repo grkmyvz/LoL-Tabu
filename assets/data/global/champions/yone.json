@@ -1,0 +1,80 @@
+{
+    "id": "yone",
+    "imageSlug": "Yone",
+    "key": "777",
+    "name": "Yone",
+    "skins": [
+        {
+            "id": "777000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "777001",
+            "num": 1,
+            "name": "Spirit Blossom Yone",
+            "chromas": true
+        },
+        {
+            "id": "777010",
+            "num": 10,
+            "name": "Battle Academia Yone",
+            "chromas": true
+        },
+        {
+            "id": "777019",
+            "num": 19,
+            "name": "Dawnbringer Yone",
+            "chromas": true
+        },
+        {
+            "id": "777026",
+            "num": 26,
+            "name": "Ocean Song Yone",
+            "chromas": true
+        },
+        {
+            "id": "777035",
+            "num": 35,
+            "name": "Inkshadow Yone",
+            "chromas": true
+        },
+        {
+            "id": "777045",
+            "num": 45,
+            "name": "HEARTSTEEL Yone",
+            "chromas": true
+        },
+        {
+            "id": "777046",
+            "num": 46,
+            "name": "Prestige HEARTSTEEL Yone",
+            "chromas": false
+        },
+        {
+            "id": "777055",
+            "num": 55,
+            "name": "High Noon Yone",
+            "chromas": true
+        },
+        {
+            "id": "777058",
+            "num": 58,
+            "name": "Peacemaker High Noon Yone",
+            "chromas": false
+        },
+        {
+            "id": "777065",
+            "num": 65,
+            "name": "Masked Justice Yone",
+            "chromas": false
+        },
+        {
+            "id": "777074",
+            "num": 74,
+            "name": "T1 Yone",
+            "chromas": false
+        }
+    ]
+}

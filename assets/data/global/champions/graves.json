@@ -1,0 +1,92 @@
+{
+    "id": "graves",
+    "imageSlug": "Graves",
+    "key": "104",
+    "name": "Graves",
+    "skins": [
+        {
+            "id": "104000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "104001",
+            "num": 1,
+            "name": "Hired Gun Graves",
+            "chromas": false
+        },
+        {
+            "id": "104002",
+            "num": 2,
+            "name": "Jailbreak Graves",
+            "chromas": false
+        },
+        {
+            "id": "104003",
+            "num": 3,
+            "name": "Crime City Graves",
+            "chromas": false
+        },
+        {
+            "id": "104004",
+            "num": 4,
+            "name": "Riot Graves",
+            "chromas": false
+        },
+        {
+            "id": "104005",
+            "num": 5,
+            "name": "Pool Party Graves",
+            "chromas": true
+        },
+        {
+            "id": "104006",
+            "num": 6,
+            "name": "Cutthroat Graves",
+            "chromas": false
+        },
+        {
+            "id": "104007",
+            "num": 7,
+            "name": "Snow Day Graves",
+            "chromas": true
+        },
+        {
+            "id": "104014",
+            "num": 14,
+            "name": "Victorious Graves",
+            "chromas": true
+        },
+        {
+            "id": "104018",
+            "num": 18,
+            "name": "Praetorian Graves",
+            "chromas": true
+        },
+        {
+            "id": "104025",
+            "num": 25,
+            "name": "Battle Professor Graves",
+            "chromas": true
+        },
+        {
+            "id": "104035",
+            "num": 35,
+            "name": "Sentinel Graves",
+            "chromas": true
+        },
+        {
+            "id": "104042",
+            "num": 42,
+            "name": "EDG Graves",
+            "chromas": true
+        },
+        {
+            "id": "104045",
+            "num": 45,
+            "name": "Porcelain Graves",
+            "chromas": false
+        }
+    ]
+}

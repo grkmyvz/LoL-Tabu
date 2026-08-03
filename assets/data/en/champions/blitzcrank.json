@@ -1,0 +1,10 @@
+﻿{
+    "id": "blitzcrank",
+    "forbiddenWords": [
+        "Hook",
+        "Robot",
+        "Grab",
+        "Knock Up",
+        "Zaun"
+    ]
+}

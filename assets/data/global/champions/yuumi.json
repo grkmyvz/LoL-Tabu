@@ -1,0 +1,74 @@
+{
+    "id": "yuumi",
+    "imageSlug": "Yuumi",
+    "key": "350",
+    "name": "Yuumi",
+    "skins": [
+        {
+            "id": "350000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "350001",
+            "num": 1,
+            "name": "Battle Principal Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350011",
+            "num": 11,
+            "name": "Heartseeker Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350019",
+            "num": 19,
+            "name": "Yuubee",
+            "chromas": true
+        },
+        {
+            "id": "350028",
+            "num": 28,
+            "name": "Bewitching Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350037",
+            "num": 37,
+            "name": "EDG Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350039",
+            "num": 39,
+            "name": "Shiba Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350049",
+            "num": 49,
+            "name": "Cyber Cat Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350050",
+            "num": 50,
+            "name": "Prestige Cyber Cat Yuumi",
+            "chromas": false
+        },
+        {
+            "id": "350061",
+            "num": 61,
+            "name": "Nightbringer Yuumi",
+            "chromas": true
+        },
+        {
+            "id": "350070",
+            "num": 70,
+            "name": "Firecracker Yuumi",
+            "chromas": true
+        }
+    ]
+}

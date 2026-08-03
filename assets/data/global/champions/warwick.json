@@ -1,0 +1,110 @@
+{
+    "id": "warwick",
+    "imageSlug": "Warwick",
+    "key": "19",
+    "name": "Warwick",
+    "skins": [
+        {
+            "id": "19000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "19001",
+            "num": 1,
+            "name": "Grey Warwick",
+            "chromas": true
+        },
+        {
+            "id": "19002",
+            "num": 2,
+            "name": "Urf the Manatee",
+            "chromas": false
+        },
+        {
+            "id": "19003",
+            "num": 3,
+            "name": "Big Bad Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19004",
+            "num": 4,
+            "name": "Tundra Hunter Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19005",
+            "num": 5,
+            "name": "Feral Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19006",
+            "num": 6,
+            "name": "Firefang Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19007",
+            "num": 7,
+            "name": "Hyena Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19008",
+            "num": 8,
+            "name": "Marauder Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19009",
+            "num": 9,
+            "name": "Urfwick",
+            "chromas": false
+        },
+        {
+            "id": "19010",
+            "num": 10,
+            "name": "Lunar Guardian Warwick",
+            "chromas": true
+        },
+        {
+            "id": "19016",
+            "num": 16,
+            "name": "PROJECT: Warwick",
+            "chromas": true
+        },
+        {
+            "id": "19035",
+            "num": 35,
+            "name": "Old God Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19045",
+            "num": 45,
+            "name": "Winterblessed Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19046",
+            "num": 46,
+            "name": "Prestige Winterblessed Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19056",
+            "num": 56,
+            "name": "Arcane Vander Warwick",
+            "chromas": false
+        },
+        {
+            "id": "19058",
+            "num": 58,
+            "name": "Warhound Warwick",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "id": "kogmaw",
+    "imageSlug": "KogMaw",
+    "key": "96",
+    "name": "Kog'Maw",
+    "skins": [
+        {
+            "id": "96000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "96001",
+            "num": 1,
+            "name": "Caterpillar Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96002",
+            "num": 2,
+            "name": "Sonoran Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96003",
+            "num": 3,
+            "name": "Monarch Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96004",
+            "num": 4,
+            "name": "Reindeer Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96005",
+            "num": 5,
+            "name": "Lion Dance Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96006",
+            "num": 6,
+            "name": "Deep Sea Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96007",
+            "num": 7,
+            "name": "Jurassic Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96008",
+            "num": 8,
+            "name": "Battlecast Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96009",
+            "num": 9,
+            "name": "Pug'Maw",
+            "chromas": true
+        },
+        {
+            "id": "96010",
+            "num": 10,
+            "name": "Hextech Kog'Maw",
+            "chromas": false
+        },
+        {
+            "id": "96019",
+            "num": 19,
+            "name": "Arcanist Kog'Maw",
+            "chromas": true
+        },
+        {
+            "id": "96028",
+            "num": 28,
+            "name": "Bee'Maw",
+            "chromas": true
+        },
+        {
+            "id": "96037",
+            "num": 37,
+            "name": "Zap'Maw",
+            "chromas": true
+        },
+        {
+            "id": "96046",
+            "num": 46,
+            "name": "Shan Hai Scrolls Kog'Maw",
+            "chromas": true
+        },
+        {
+            "id": "96055",
+            "num": 55,
+            "name": "Victorious Kog'Maw",
+            "chromas": true
+        }
+    ]
+}

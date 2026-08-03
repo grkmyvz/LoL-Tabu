@@ -1,0 +1,92 @@
+{
+    "id": "brand",
+    "imageSlug": "Brand",
+    "key": "63",
+    "name": "Brand",
+    "skins": [
+        {
+            "id": "63000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "63001",
+            "num": 1,
+            "name": "Apocalyptic Brand",
+            "chromas": false
+        },
+        {
+            "id": "63002",
+            "num": 2,
+            "name": "Vandal Brand",
+            "chromas": false
+        },
+        {
+            "id": "63003",
+            "num": 3,
+            "name": "Cryocore Brand",
+            "chromas": false
+        },
+        {
+            "id": "63004",
+            "num": 4,
+            "name": "Zombie Brand",
+            "chromas": true
+        },
+        {
+            "id": "63005",
+            "num": 5,
+            "name": "Spirit Fire Brand",
+            "chromas": false
+        },
+        {
+            "id": "63006",
+            "num": 6,
+            "name": "Battle Boss Brand",
+            "chromas": false
+        },
+        {
+            "id": "63007",
+            "num": 7,
+            "name": "Arclight Brand",
+            "chromas": true
+        },
+        {
+            "id": "63008",
+            "num": 8,
+            "name": "Eternal Dragon Brand",
+            "chromas": true
+        },
+        {
+            "id": "63021",
+            "num": 21,
+            "name": "Debonair Brand",
+            "chromas": true
+        },
+        {
+            "id": "63022",
+            "num": 22,
+            "name": "Prestige Debonair Brand",
+            "chromas": false
+        },
+        {
+            "id": "63033",
+            "num": 33,
+            "name": "Street Demons Brand",
+            "chromas": true
+        },
+        {
+            "id": "63042",
+            "num": 42,
+            "name": "Empyrean Brand",
+            "chromas": true
+        },
+        {
+            "id": "63053",
+            "num": 53,
+            "name": "Sinful Shores Brand",
+            "chromas": false
+        }
+    ]
+}

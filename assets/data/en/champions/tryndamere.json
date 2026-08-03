@@ -1,0 +1,10 @@
+{
+    "id": "tryndamere",
+    "forbiddenWords": [
+        "Undying",
+        "Rage",
+        "Critical",
+        "Sword",
+        "Ashe"
+    ]
+}

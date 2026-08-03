@@ -1,0 +1,10 @@
+﻿{
+    "id": "neeko",
+    "forbiddenWords": [
+        "Chameleon",
+        "Disguise",
+        "Tomato",
+        "Clone",
+        "Pop Blossom"
+    ]
+}

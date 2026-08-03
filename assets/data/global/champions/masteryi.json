@@ -1,0 +1,122 @@
+{
+    "id": "masteryi",
+    "imageSlug": "MasterYi",
+    "key": "11",
+    "name": "Master Yi",
+    "skins": [
+        {
+            "id": "11000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "11001",
+            "num": 1,
+            "name": "Assassin Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11002",
+            "num": 2,
+            "name": "Chosen Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11003",
+            "num": 3,
+            "name": "Ionia Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11004",
+            "num": 4,
+            "name": "Samurai Yi",
+            "chromas": false
+        },
+        {
+            "id": "11005",
+            "num": 5,
+            "name": "Headhunter Master Yi",
+            "chromas": true
+        },
+        {
+            "id": "11009",
+            "num": 9,
+            "name": "PROJECT: Yi",
+            "chromas": false
+        },
+        {
+            "id": "11010",
+            "num": 10,
+            "name": "Cosmic Blade Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11011",
+            "num": 11,
+            "name": "Eternal Sword Yi",
+            "chromas": true
+        },
+        {
+            "id": "11017",
+            "num": 17,
+            "name": "Snow Man Yi",
+            "chromas": true
+        },
+        {
+            "id": "11024",
+            "num": 24,
+            "name": "Blood Moon Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11033",
+            "num": 33,
+            "name": "PsyOps Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11042",
+            "num": 42,
+            "name": "Debonair Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11052",
+            "num": 52,
+            "name": "Spirit Blossom Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11053",
+            "num": 53,
+            "name": "Prestige Spirit Blossom Master Yi",
+            "chromas": true
+        },
+        {
+            "id": "11089",
+            "num": 89,
+            "name": "Inkshadow Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11096",
+            "num": 96,
+            "name": "Heavenscale Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11106",
+            "num": 106,
+            "name": "Victorious Master Yi",
+            "chromas": false
+        },
+        {
+            "id": "11116",
+            "num": 116,
+            "name": "PROJECT: Command Line Yi",
+            "chromas": true
+        }
+    ]
+}

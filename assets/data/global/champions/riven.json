@@ -1,0 +1,116 @@
+{
+    "id": "riven",
+    "imageSlug": "Riven",
+    "key": "92",
+    "name": "Riven",
+    "skins": [
+        {
+            "id": "92000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "92001",
+            "num": 1,
+            "name": "Redeemed Riven",
+            "chromas": false
+        },
+        {
+            "id": "92002",
+            "num": 2,
+            "name": "Crimson Elite Riven",
+            "chromas": false
+        },
+        {
+            "id": "92003",
+            "num": 3,
+            "name": "Battle Bunny Riven",
+            "chromas": true
+        },
+        {
+            "id": "92004",
+            "num": 4,
+            "name": "Worlds 2012 Riven",
+            "chromas": false
+        },
+        {
+            "id": "92005",
+            "num": 5,
+            "name": "Dragonblade Riven",
+            "chromas": true
+        },
+        {
+            "id": "92006",
+            "num": 6,
+            "name": "Arcade Riven",
+            "chromas": true
+        },
+        {
+            "id": "92007",
+            "num": 7,
+            "name": "Reignited Worlds 2012 Riven",
+            "chromas": true
+        },
+        {
+            "id": "92016",
+            "num": 16,
+            "name": "Dawnbringer Riven",
+            "chromas": true
+        },
+        {
+            "id": "92018",
+            "num": 18,
+            "name": "Pulsefire Riven",
+            "chromas": true
+        },
+        {
+            "id": "92020",
+            "num": 20,
+            "name": "Valiant Sword Riven",
+            "chromas": false
+        },
+        {
+            "id": "92022",
+            "num": 22,
+            "name": "Prestige Valiant Sword Riven",
+            "chromas": false
+        },
+        {
+            "id": "92023",
+            "num": 23,
+            "name": "Spirit Blossom Riven",
+            "chromas": true
+        },
+        {
+            "id": "92034",
+            "num": 34,
+            "name": "Sentinel Riven",
+            "chromas": true
+        },
+        {
+            "id": "92044",
+            "num": 44,
+            "name": "Battle Bunny Prime Riven",
+            "chromas": true
+        },
+        {
+            "id": "92045",
+            "num": 45,
+            "name": "Prestige Valiant Sword Riven (2022)",
+            "chromas": false
+        },
+        {
+            "id": "92055",
+            "num": 55,
+            "name": "Broken Covenant Riven",
+            "chromas": true
+        },
+        {
+            "id": "92063",
+            "num": 63,
+            "name": "Primal Ambush Riven",
+            "chromas": true
+        }
+    ]
+}

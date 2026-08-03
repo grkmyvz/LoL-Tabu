@@ -1,0 +1,10 @@
+﻿{
+    "id": "akshan",
+    "forbiddenWords": [
+        "Revive",
+        "Grappling Hook",
+        "Boomerang",
+        "Sentinel",
+        "Swing"
+    ]
+}

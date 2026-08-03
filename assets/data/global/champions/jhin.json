@@ -1,0 +1,92 @@
+{
+    "id": "jhin",
+    "imageSlug": "Jhin",
+    "key": "202",
+    "name": "Jhin",
+    "skins": [
+        {
+            "id": "202000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "202001",
+            "num": 1,
+            "name": "High Noon Jhin",
+            "chromas": true
+        },
+        {
+            "id": "202002",
+            "num": 2,
+            "name": "Blood Moon Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202003",
+            "num": 3,
+            "name": "SKT T1 Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202004",
+            "num": 4,
+            "name": "PROJECT: Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202005",
+            "num": 5,
+            "name": "Dark Cosmic Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202014",
+            "num": 14,
+            "name": "Shan Hai Scrolls Jhin",
+            "chromas": true
+        },
+        {
+            "id": "202023",
+            "num": 23,
+            "name": "DWG Jhin",
+            "chromas": true
+        },
+        {
+            "id": "202025",
+            "num": 25,
+            "name": "Empyrean Jhin",
+            "chromas": true
+        },
+        {
+            "id": "202036",
+            "num": 36,
+            "name": "Soul Fighter Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202037",
+            "num": 37,
+            "name": "Dark Cosmic Erasure Jhin",
+            "chromas": true
+        },
+        {
+            "id": "202047",
+            "num": 47,
+            "name": "Mythmaker Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202055",
+            "num": 55,
+            "name": "Arcana Jhin",
+            "chromas": false
+        },
+        {
+            "id": "202064",
+            "num": 64,
+            "name": "Broken Covenant Jhin",
+            "chromas": false
+        }
+    ]
+}

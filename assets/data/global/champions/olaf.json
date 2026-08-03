@@ -1,0 +1,80 @@
+{
+    "id": "olaf",
+    "imageSlug": "Olaf",
+    "key": "2",
+    "name": "Olaf",
+    "skins": [
+        {
+            "id": "2000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "2001",
+            "num": 1,
+            "name": "Forsaken Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2002",
+            "num": 2,
+            "name": "Glacial Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2003",
+            "num": 3,
+            "name": "Brolaf",
+            "chromas": true
+        },
+        {
+            "id": "2004",
+            "num": 4,
+            "name": "Pentakill Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2005",
+            "num": 5,
+            "name": "Marauder Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2006",
+            "num": 6,
+            "name": "Butcher Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2015",
+            "num": 15,
+            "name": "SKT T1 Olaf",
+            "chromas": false
+        },
+        {
+            "id": "2016",
+            "num": 16,
+            "name": "Dragonslayer Olaf",
+            "chromas": true
+        },
+        {
+            "id": "2025",
+            "num": 25,
+            "name": "Sentinel Olaf",
+            "chromas": true
+        },
+        {
+            "id": "2035",
+            "num": 35,
+            "name": "Pentakill III: Lost Chapter Olaf",
+            "chromas": true
+        },
+        {
+            "id": "2044",
+            "num": 44,
+            "name": "Infernal Olaf",
+            "chromas": true
+        }
+    ]
+}

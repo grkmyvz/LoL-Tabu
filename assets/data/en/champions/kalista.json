@@ -1,0 +1,10 @@
+﻿{
+    "id": "kalista",
+    "forbiddenWords": [
+        "Spear",
+        "Oathsworn",
+        "Vengeance",
+        "Rend",
+        "Shadow Isles"
+    ]
+}

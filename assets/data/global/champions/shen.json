@@ -1,0 +1,92 @@
+{
+    "id": "shen",
+    "imageSlug": "Shen",
+    "key": "98",
+    "name": "Shen",
+    "skins": [
+        {
+            "id": "98000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "98001",
+            "num": 1,
+            "name": "Frozen Shen",
+            "chromas": false
+        },
+        {
+            "id": "98002",
+            "num": 2,
+            "name": "Yellow Jacket Shen",
+            "chromas": false
+        },
+        {
+            "id": "98003",
+            "num": 3,
+            "name": "Surgeon Shen",
+            "chromas": true
+        },
+        {
+            "id": "98004",
+            "num": 4,
+            "name": "Blood Moon Shen",
+            "chromas": false
+        },
+        {
+            "id": "98005",
+            "num": 5,
+            "name": "Warlord Shen",
+            "chromas": true
+        },
+        {
+            "id": "98006",
+            "num": 6,
+            "name": "TPA Shen",
+            "chromas": false
+        },
+        {
+            "id": "98015",
+            "num": 15,
+            "name": "Pulsefire Shen",
+            "chromas": true
+        },
+        {
+            "id": "98016",
+            "num": 16,
+            "name": "Infernal Shen",
+            "chromas": true
+        },
+        {
+            "id": "98022",
+            "num": 22,
+            "name": "PsyOps Shen",
+            "chromas": true
+        },
+        {
+            "id": "98040",
+            "num": 40,
+            "name": "Shockblade Shen",
+            "chromas": true
+        },
+        {
+            "id": "98049",
+            "num": 49,
+            "name": "Ashen Guardian Shen",
+            "chromas": true
+        },
+        {
+            "id": "98051",
+            "num": 51,
+            "name": "Three Honors Shen",
+            "chromas": false
+        },
+        {
+            "id": "98054",
+            "num": 54,
+            "name": "Broken Covenant Shen",
+            "chromas": false
+        }
+    ]
+}

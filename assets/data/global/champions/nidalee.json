@@ -1,0 +1,110 @@
+{
+    "id": "nidalee",
+    "imageSlug": "Nidalee",
+    "key": "76",
+    "name": "Nidalee",
+    "skins": [
+        {
+            "id": "76000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "76001",
+            "num": 1,
+            "name": "Snow Bunny Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76002",
+            "num": 2,
+            "name": "Leopard Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76003",
+            "num": 3,
+            "name": "French Maid Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76004",
+            "num": 4,
+            "name": "Pharaoh Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76005",
+            "num": 5,
+            "name": "Bewitching Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76006",
+            "num": 6,
+            "name": "Headhunter Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76007",
+            "num": 7,
+            "name": "Warring Kingdoms Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76008",
+            "num": 8,
+            "name": "Challenger Nidalee",
+            "chromas": true
+        },
+        {
+            "id": "76009",
+            "num": 9,
+            "name": "Super Galaxy Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76011",
+            "num": 11,
+            "name": "Dawnbringer Nidalee",
+            "chromas": true
+        },
+        {
+            "id": "76018",
+            "num": 18,
+            "name": "Cosmic Huntress Nidalee",
+            "chromas": true
+        },
+        {
+            "id": "76027",
+            "num": 27,
+            "name": "DWG Nidalee",
+            "chromas": true
+        },
+        {
+            "id": "76029",
+            "num": 29,
+            "name": "Ocean Song Nidalee",
+            "chromas": true
+        },
+        {
+            "id": "76039",
+            "num": 39,
+            "name": "Kittalee",
+            "chromas": false
+        },
+        {
+            "id": "76048",
+            "num": 48,
+            "name": "La Ilusión Nidalee",
+            "chromas": false
+        },
+        {
+            "id": "76058",
+            "num": 58,
+            "name": "Spirit Blossom Nidalee",
+            "chromas": false
+        }
+    ]
+}

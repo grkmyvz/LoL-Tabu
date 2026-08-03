@@ -1,0 +1,10 @@
+﻿{
+    "id": "quinn",
+    "forbiddenWords": [
+        "Valor",
+        "Bird",
+        "Demacia",
+        "Scout",
+        "Crossbow"
+    ]
+}

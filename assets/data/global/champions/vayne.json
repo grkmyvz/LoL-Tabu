@@ -1,0 +1,128 @@
+{
+    "id": "vayne",
+    "imageSlug": "Vayne",
+    "key": "67",
+    "name": "Vayne",
+    "skins": [
+        {
+            "id": "67000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "67001",
+            "num": 1,
+            "name": "Vindicator Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67002",
+            "num": 2,
+            "name": "Aristocrat Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67003",
+            "num": 3,
+            "name": "Dragonslayer Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67004",
+            "num": 4,
+            "name": "Heartseeker Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67005",
+            "num": 5,
+            "name": "SKT T1 Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67006",
+            "num": 6,
+            "name": "Arclight Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67010",
+            "num": 10,
+            "name": "Soulstealer Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67011",
+            "num": 11,
+            "name": "PROJECT: Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67012",
+            "num": 12,
+            "name": "Firecracker Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67013",
+            "num": 13,
+            "name": "Prestige Firecracker Vayne",
+            "chromas": false
+        },
+        {
+            "id": "67014",
+            "num": 14,
+            "name": "Spirit Blossom Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67015",
+            "num": 15,
+            "name": "FPX Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67025",
+            "num": 25,
+            "name": "Sentinel Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67032",
+            "num": 32,
+            "name": "Battle Bat Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67033",
+            "num": 33,
+            "name": "Prestige Firecracker Vayne (2022)",
+            "chromas": false
+        },
+        {
+            "id": "67044",
+            "num": 44,
+            "name": "Dawnbringer Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67055",
+            "num": 55,
+            "name": "Dragonmancer Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67064",
+            "num": 64,
+            "name": "Risen Legend Vayne",
+            "chromas": true
+        },
+        {
+            "id": "67067",
+            "num": 67,
+            "name": "Demoncursed Vayne",
+            "chromas": true
+        }
+    ]
+}

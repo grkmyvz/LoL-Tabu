@@ -1,0 +1,10 @@
+{
+    "id": "elise",
+    "forbiddenWords": [
+        "Örümcek",
+        "Koza",
+        "ağ",
+        "Rappel",
+        "Dönüştür"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "id": "fiddlesticks",
+    "imageSlug": "Fiddlesticks",
+    "key": "9",
+    "name": "Fiddlesticks",
+    "skins": [
+        {
+            "id": "9000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "9001",
+            "num": 1,
+            "name": "Spectral Fiddlesticks",
+            "chromas": false
+        },
+        {
+            "id": "9002",
+            "num": 2,
+            "name": "Union Jack Fiddlesticks",
+            "chromas": false
+        },
+        {
+            "id": "9003",
+            "num": 3,
+            "name": "Bandito Fiddlesticks",
+            "chromas": true
+        },
+        {
+            "id": "9004",
+            "num": 4,
+            "name": "Pumpkinhead Fiddlesticks",
+            "chromas": false
+        },
+        {
+            "id": "9005",
+            "num": 5,
+            "name": "Fiddle Me Timbers",
+            "chromas": false
+        },
+        {
+            "id": "9006",
+            "num": 6,
+            "name": "Surprise Party Fiddlesticks",
+            "chromas": true
+        },
+        {
+            "id": "9007",
+            "num": 7,
+            "name": "Dark Candy Fiddlesticks",
+            "chromas": false
+        },
+        {
+            "id": "9008",
+            "num": 8,
+            "name": "Risen Fiddlesticks",
+            "chromas": false
+        },
+        {
+            "id": "9009",
+            "num": 9,
+            "name": "Praetorian Fiddlesticks",
+            "chromas": true
+        },
+        {
+            "id": "9027",
+            "num": 27,
+            "name": "Star Nemesis Fiddlesticks",
+            "chromas": true
+        },
+        {
+            "id": "9037",
+            "num": 37,
+            "name": "Blood Moon Fiddlesticks",
+            "chromas": true
+        },
+        {
+            "id": "9046",
+            "num": 46,
+            "name": "Flora Fatalis Fiddlesticks",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "yorick",
+    "imageSlug": "Yorick",
+    "key": "83",
+    "name": "Yorick",
+    "skins": [
+        {
+            "id": "83000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "83001",
+            "num": 1,
+            "name": "Undertaker Yorick",
+            "chromas": false
+        },
+        {
+            "id": "83002",
+            "num": 2,
+            "name": "Pentakill Yorick",
+            "chromas": false
+        },
+        {
+            "id": "83003",
+            "num": 3,
+            "name": "Arclight Yorick",
+            "chromas": false
+        },
+        {
+            "id": "83004",
+            "num": 4,
+            "name": "Meowrick",
+            "chromas": true
+        },
+        {
+            "id": "83012",
+            "num": 12,
+            "name": "Resistance Yorick",
+            "chromas": true
+        },
+        {
+            "id": "83021",
+            "num": 21,
+            "name": "Pentakill III: Lost Chapter Yorick",
+            "chromas": true
+        },
+        {
+            "id": "83030",
+            "num": 30,
+            "name": "Spirit Blossom Yorick",
+            "chromas": true
+        },
+        {
+            "id": "83040",
+            "num": 40,
+            "name": "Dark Star Yorick",
+            "chromas": true
+        },
+        {
+            "id": "83050",
+            "num": 50,
+            "name": "High Noon Yorick",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "ekko",
+    "forbiddenWords": [
+        "Zaman",
+        "Zaun",
+        "Kronokırılma",
+        "Geri sarma",
+        "Z-Drive"
+    ]
+}

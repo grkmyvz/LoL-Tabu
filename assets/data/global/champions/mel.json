@@ -1,0 +1,26 @@
+{
+    "id": "mel",
+    "imageSlug": "Mel",
+    "key": "800",
+    "name": "Mel",
+    "skins": [
+        {
+            "id": "800000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "800001",
+            "num": 1,
+            "name": "Arcane Councilor Mel",
+            "chromas": true
+        },
+        {
+            "id": "800010",
+            "num": 10,
+            "name": "Prestige Winterblessed Mel",
+            "chromas": true
+        }
+    ]
+}

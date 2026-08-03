@@ -1,0 +1,86 @@
+{
+    "id": "xayah",
+    "imageSlug": "Xayah",
+    "key": "498",
+    "name": "Xayah",
+    "skins": [
+        {
+            "id": "498000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "498001",
+            "num": 1,
+            "name": "Cosmic Dusk Xayah",
+            "chromas": false
+        },
+        {
+            "id": "498002",
+            "num": 2,
+            "name": "Sweetheart Xayah",
+            "chromas": false
+        },
+        {
+            "id": "498003",
+            "num": 3,
+            "name": "SSG Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498004",
+            "num": 4,
+            "name": "Star Guardian Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498008",
+            "num": 8,
+            "name": "Elderwood Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498017",
+            "num": 17,
+            "name": "Brave Phoenix Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498026",
+            "num": 26,
+            "name": "Prestige Brave Phoenix Xayah",
+            "chromas": false
+        },
+        {
+            "id": "498028",
+            "num": 28,
+            "name": "Arcana Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498037",
+            "num": 37,
+            "name": "Broken Covenant Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498038",
+            "num": 38,
+            "name": "Redeemed Star Guardian Xayah",
+            "chromas": false
+        },
+        {
+            "id": "498047",
+            "num": 47,
+            "name": "Battle Bat Xayah",
+            "chromas": true
+        },
+        {
+            "id": "498057",
+            "num": 57,
+            "name": "Battle Academia Xayah",
+            "chromas": true
+        }
+    ]
+}

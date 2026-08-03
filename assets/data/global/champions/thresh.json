@@ -1,0 +1,110 @@
+{
+    "id": "thresh",
+    "imageSlug": "Thresh",
+    "key": "412",
+    "name": "Thresh",
+    "skins": [
+        {
+            "id": "412000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "412001",
+            "num": 1,
+            "name": "Deep Terror Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412002",
+            "num": 2,
+            "name": "Worlds 2013 Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412003",
+            "num": 3,
+            "name": "Blood Moon Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412004",
+            "num": 4,
+            "name": "SSW Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412005",
+            "num": 5,
+            "name": "Dark Star Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412006",
+            "num": 6,
+            "name": "High Noon Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412013",
+            "num": 13,
+            "name": "Pulsefire Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412014",
+            "num": 14,
+            "name": "Prestige Pulsefire Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412015",
+            "num": 15,
+            "name": "FPX Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412017",
+            "num": 17,
+            "name": "Spirit Blossom Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412027",
+            "num": 27,
+            "name": "Unbound Thresh",
+            "chromas": false
+        },
+        {
+            "id": "412028",
+            "num": 28,
+            "name": "Steel Dragon Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412038",
+            "num": 38,
+            "name": "Prestige Pulsefire Thresh (2022)",
+            "chromas": false
+        },
+        {
+            "id": "412039",
+            "num": 39,
+            "name": "Lunar Emperor Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412049",
+            "num": 49,
+            "name": "Winterblessed Thresh",
+            "chromas": true
+        },
+        {
+            "id": "412059",
+            "num": 59,
+            "name": "Janitor Thresh",
+            "chromas": true
+        }
+    ]
+}

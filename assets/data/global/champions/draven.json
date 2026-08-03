@@ -1,0 +1,98 @@
+{
+    "id": "draven",
+    "imageSlug": "Draven",
+    "key": "119",
+    "name": "Draven",
+    "skins": [
+        {
+            "id": "119000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "119001",
+            "num": 1,
+            "name": "Soul Reaver Draven",
+            "chromas": false
+        },
+        {
+            "id": "119002",
+            "num": 2,
+            "name": "Gladiator Draven",
+            "chromas": false
+        },
+        {
+            "id": "119003",
+            "num": 3,
+            "name": "Primetime Draven",
+            "chromas": true
+        },
+        {
+            "id": "119004",
+            "num": 4,
+            "name": "Pool Party Draven",
+            "chromas": false
+        },
+        {
+            "id": "119005",
+            "num": 5,
+            "name": "Beast Hunter Draven",
+            "chromas": false
+        },
+        {
+            "id": "119006",
+            "num": 6,
+            "name": "Draven Draven",
+            "chromas": false
+        },
+        {
+            "id": "119012",
+            "num": 12,
+            "name": "Santa Draven",
+            "chromas": false
+        },
+        {
+            "id": "119013",
+            "num": 13,
+            "name": "Mecha Kingdoms Draven",
+            "chromas": true
+        },
+        {
+            "id": "119020",
+            "num": 20,
+            "name": "Ruined Draven",
+            "chromas": true
+        },
+        {
+            "id": "119029",
+            "num": 29,
+            "name": "Debonair Draven",
+            "chromas": true
+        },
+        {
+            "id": "119039",
+            "num": 39,
+            "name": "Fright Night Draven",
+            "chromas": true
+        },
+        {
+            "id": "119048",
+            "num": 48,
+            "name": "La Ilusión Draven",
+            "chromas": true
+        },
+        {
+            "id": "119058",
+            "num": 58,
+            "name": "Grand Reckoning Draven",
+            "chromas": true
+        },
+        {
+            "id": "119068",
+            "num": 68,
+            "name": "Victorious Draven",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "id": "nami",
+    "imageSlug": "Nami",
+    "key": "267",
+    "name": "Nami",
+    "skins": [
+        {
+            "id": "267000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "267001",
+            "num": 1,
+            "name": "Koi Nami",
+            "chromas": true
+        },
+        {
+            "id": "267002",
+            "num": 2,
+            "name": "River Spirit Nami",
+            "chromas": false
+        },
+        {
+            "id": "267003",
+            "num": 3,
+            "name": "Urf the Nami-tee",
+            "chromas": false
+        },
+        {
+            "id": "267007",
+            "num": 7,
+            "name": "Deep Sea Nami",
+            "chromas": false
+        },
+        {
+            "id": "267008",
+            "num": 8,
+            "name": "SKT T1 Nami",
+            "chromas": false
+        },
+        {
+            "id": "267009",
+            "num": 9,
+            "name": "Program Nami",
+            "chromas": true
+        },
+        {
+            "id": "267015",
+            "num": 15,
+            "name": "Splendid Staff Nami",
+            "chromas": true
+        },
+        {
+            "id": "267024",
+            "num": 24,
+            "name": "Cosmic Destiny Nami",
+            "chromas": true
+        },
+        {
+            "id": "267032",
+            "num": 32,
+            "name": "Bewitching Nami",
+            "chromas": true
+        },
+        {
+            "id": "267041",
+            "num": 41,
+            "name": "Space Groove Nami",
+            "chromas": true
+        },
+        {
+            "id": "267042",
+            "num": 42,
+            "name": "Prestige Space Groove Nami",
+            "chromas": false
+        },
+        {
+            "id": "267051",
+            "num": 51,
+            "name": "Coven Nami",
+            "chromas": true
+        },
+        {
+            "id": "267058",
+            "num": 58,
+            "name": "Mythmaker Nami",
+            "chromas": true
+        },
+        {
+            "id": "267068",
+            "num": 68,
+            "name": "Sunken Shadows Nami",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "seraphine",
+    "forbiddenWords": [
+        "Şarkıcı",
+        "Müzik",
+        "Sahne",
+        "K/DA",
+        "Tekrar"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": "kindred",
+    "imageSlug": "Kindred",
+    "key": "203",
+    "name": "Kindred",
+    "skins": [
+        {
+            "id": "203000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "203001",
+            "num": 1,
+            "name": "Shadowfire Kindred",
+            "chromas": false
+        },
+        {
+            "id": "203002",
+            "num": 2,
+            "name": "Super Galaxy Kindred",
+            "chromas": false
+        },
+        {
+            "id": "203003",
+            "num": 3,
+            "name": "Spirit Blossom Kindred",
+            "chromas": true
+        },
+        {
+            "id": "203012",
+            "num": 12,
+            "name": "Porcelain Kindred",
+            "chromas": true
+        },
+        {
+            "id": "203022",
+            "num": 22,
+            "name": "Woof and Lamb Kindred",
+            "chromas": true
+        },
+        {
+            "id": "203023",
+            "num": 23,
+            "name": "DRX Kindred",
+            "chromas": true
+        },
+        {
+            "id": "203033",
+            "num": 33,
+            "name": "Prestige Porcelain Kindred",
+            "chromas": false
+        },
+        {
+            "id": "203034",
+            "num": 34,
+            "name": "Chosen of the Wolf Kindred",
+            "chromas": true
+        },
+        {
+            "id": "203045",
+            "num": 45,
+            "name": "Pandemonium Kindred",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "id": "soraka",
+    "imageSlug": "Soraka",
+    "key": "16",
+    "name": "Soraka",
+    "skins": [
+        {
+            "id": "16000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "16001",
+            "num": 1,
+            "name": "Dryad Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16002",
+            "num": 2,
+            "name": "Divine Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16003",
+            "num": 3,
+            "name": "Celestine Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16004",
+            "num": 4,
+            "name": "Reaper Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16005",
+            "num": 5,
+            "name": "Order of the Banana Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16006",
+            "num": 6,
+            "name": "Program Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16007",
+            "num": 7,
+            "name": "Star Guardian Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16008",
+            "num": 8,
+            "name": "Pajama Guardian Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16009",
+            "num": 9,
+            "name": "Winter Wonder Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16015",
+            "num": 15,
+            "name": "Dawnbringer Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16016",
+            "num": 16,
+            "name": "Nightbringer Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16017",
+            "num": 17,
+            "name": "Prestige Star Guardian Soraka",
+            "chromas": false
+        },
+        {
+            "id": "16018",
+            "num": 18,
+            "name": "Cafe Cuties Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16027",
+            "num": 27,
+            "name": "Spirit Blossom Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16037",
+            "num": 37,
+            "name": "Immortal Journey Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16044",
+            "num": 44,
+            "name": "Faerie Court Soraka",
+            "chromas": true
+        },
+        {
+            "id": "16053",
+            "num": 53,
+            "name": "Flora Fatalis Soraka",
+            "chromas": true
+        }
+    ]
+}

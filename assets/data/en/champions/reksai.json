@@ -1,0 +1,10 @@
+﻿{
+    "id": "reksai",
+    "forbiddenWords": [
+        "Void",
+        "Tunnel",
+        "Burrow",
+        "Queen",
+        "True Sight"
+    ]
+}

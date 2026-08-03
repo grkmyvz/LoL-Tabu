@@ -1,0 +1,86 @@
+{
+    "id": "seraphine",
+    "imageSlug": "Seraphine",
+    "key": "147",
+    "name": "Seraphine",
+    "skins": [
+        {
+            "id": "147000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "147001",
+            "num": 1,
+            "name": "K/DA ALL OUT Seraphine Indie",
+            "chromas": false
+        },
+        {
+            "id": "147002",
+            "num": 2,
+            "name": "K/DA ALL OUT Seraphine Rising Star",
+            "chromas": false
+        },
+        {
+            "id": "147003",
+            "num": 3,
+            "name": "K/DA ALL OUT Seraphine Superstar",
+            "chromas": false
+        },
+        {
+            "id": "147004",
+            "num": 4,
+            "name": "Graceful Phoenix Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147014",
+            "num": 14,
+            "name": "Ocean Song Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147015",
+            "num": 15,
+            "name": "Prestige Ocean Song Seraphine",
+            "chromas": false
+        },
+        {
+            "id": "147024",
+            "num": 24,
+            "name": "Faerie Court Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147034",
+            "num": 34,
+            "name": "Star Guardian Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147043",
+            "num": 43,
+            "name": "Battle Dove Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147050",
+            "num": 50,
+            "name": "Dumpling Darlings Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147059",
+            "num": 59,
+            "name": "Firecracker Seraphine",
+            "chromas": true
+        },
+        {
+            "id": "147068",
+            "num": 68,
+            "name": "T1 Seraphine",
+            "chromas": true
+        }
+    ]
+}

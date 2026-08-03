@@ -1,0 +1,10 @@
+{
+    "id": "velkoz",
+    "forbiddenWords": [
+        "Void",
+        "Laser",
+        "Tentacles",
+        "Research",
+        "Eye"
+    ]
+}

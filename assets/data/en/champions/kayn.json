@@ -1,0 +1,10 @@
+﻿{
+    "id": "kayn",
+    "forbiddenWords": [
+        "Rhaast",
+        "Darkin",
+        "Blue Form",
+        "Red Form",
+        "Walls"
+    ]
+}

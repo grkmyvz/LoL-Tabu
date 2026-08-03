@@ -1,0 +1,80 @@
+{
+    "id": "galio",
+    "imageSlug": "Galio",
+    "key": "3",
+    "name": "Galio",
+    "skins": [
+        {
+            "id": "3000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "3001",
+            "num": 1,
+            "name": "Enchanted Galio",
+            "chromas": false
+        },
+        {
+            "id": "3002",
+            "num": 2,
+            "name": "Hextech Galio",
+            "chromas": false
+        },
+        {
+            "id": "3003",
+            "num": 3,
+            "name": "Commando Galio",
+            "chromas": false
+        },
+        {
+            "id": "3004",
+            "num": 4,
+            "name": "Gatekeeper Galio",
+            "chromas": false
+        },
+        {
+            "id": "3005",
+            "num": 5,
+            "name": "Debonair Galio",
+            "chromas": false
+        },
+        {
+            "id": "3006",
+            "num": 6,
+            "name": "Birdio",
+            "chromas": true
+        },
+        {
+            "id": "3013",
+            "num": 13,
+            "name": "Infernal Galio",
+            "chromas": true
+        },
+        {
+            "id": "3019",
+            "num": 19,
+            "name": "Dragon Guardian Galio",
+            "chromas": true
+        },
+        {
+            "id": "3028",
+            "num": 28,
+            "name": "Mythmaker Galio",
+            "chromas": true
+        },
+        {
+            "id": "3040",
+            "num": 40,
+            "name": "Aegis Frame Galio",
+            "chromas": true
+        },
+        {
+            "id": "3047",
+            "num": 47,
+            "name": "T1 Galio",
+            "chromas": true
+        }
+    ]
+}

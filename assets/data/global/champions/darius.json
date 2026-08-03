@@ -1,0 +1,104 @@
+{
+    "id": "darius",
+    "imageSlug": "Darius",
+    "key": "122",
+    "name": "Darius",
+    "skins": [
+        {
+            "id": "122000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "122001",
+            "num": 1,
+            "name": "Lord Darius",
+            "chromas": false
+        },
+        {
+            "id": "122002",
+            "num": 2,
+            "name": "Bioforge Darius",
+            "chromas": false
+        },
+        {
+            "id": "122003",
+            "num": 3,
+            "name": "Woad King Darius",
+            "chromas": false
+        },
+        {
+            "id": "122004",
+            "num": 4,
+            "name": "Dunkmaster Darius",
+            "chromas": true
+        },
+        {
+            "id": "122008",
+            "num": 8,
+            "name": "Academy Darius",
+            "chromas": false
+        },
+        {
+            "id": "122014",
+            "num": 14,
+            "name": "Dreadnova Darius",
+            "chromas": false
+        },
+        {
+            "id": "122015",
+            "num": 15,
+            "name": "God-King Darius",
+            "chromas": false
+        },
+        {
+            "id": "122016",
+            "num": 16,
+            "name": "High Noon Darius",
+            "chromas": true
+        },
+        {
+            "id": "122024",
+            "num": 24,
+            "name": "Lunar Beast Darius",
+            "chromas": true
+        },
+        {
+            "id": "122033",
+            "num": 33,
+            "name": "Crime City Nightmare Darius",
+            "chromas": false
+        },
+        {
+            "id": "122043",
+            "num": 43,
+            "name": "Spirit Blossom Darius",
+            "chromas": false
+        },
+        {
+            "id": "122054",
+            "num": 54,
+            "name": "Porcelain Darius",
+            "chromas": false
+        },
+        {
+            "id": "122064",
+            "num": 64,
+            "name": "Divine God-King Darius",
+            "chromas": false
+        },
+        {
+            "id": "122065",
+            "num": 65,
+            "name": "Prestige Triumphant General Darius",
+            "chromas": false
+        },
+        {
+            "id": "122067",
+            "num": 67,
+            "name": "Mecha Kingdoms Darius",
+            "chromas": false
+        }
+    ]
+}

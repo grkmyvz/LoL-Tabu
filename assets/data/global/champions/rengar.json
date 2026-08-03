@@ -1,0 +1,68 @@
+{
+    "id": "rengar",
+    "imageSlug": "Rengar",
+    "key": "107",
+    "name": "Rengar",
+    "skins": [
+        {
+            "id": "107000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "107001",
+            "num": 1,
+            "name": "Headhunter Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107002",
+            "num": 2,
+            "name": "Night Hunter Rengar",
+            "chromas": false
+        },
+        {
+            "id": "107003",
+            "num": 3,
+            "name": "SSW Rengar",
+            "chromas": false
+        },
+        {
+            "id": "107008",
+            "num": 8,
+            "name": "Mecha Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107015",
+            "num": 15,
+            "name": "Pretty Kitty Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107023",
+            "num": 23,
+            "name": "Guardian of the Sands Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107030",
+            "num": 30,
+            "name": "Sentinel Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107040",
+            "num": 40,
+            "name": "Street Demons Rengar",
+            "chromas": true
+        },
+        {
+            "id": "107049",
+            "num": 49,
+            "name": "Victorious Rengar",
+            "chromas": true
+        }
+    ]
+}

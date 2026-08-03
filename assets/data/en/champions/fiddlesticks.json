@@ -1,0 +1,10 @@
+﻿{
+    "id": "fiddlesticks",
+    "forbiddenWords": [
+        "Scarecrow",
+        "Fear",
+        "Crow",
+        "Drain",
+        "Crowstorm"
+    ]
+}

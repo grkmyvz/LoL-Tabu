@@ -1,0 +1,10 @@
+{
+    "id": "fizz",
+    "forbiddenWords": [
+        "Köpek balığı",
+        "Üç dişli mızrak",
+        "Balık",
+        "Hedeflenemez",
+        "Sintine suyu"
+    ]
+}

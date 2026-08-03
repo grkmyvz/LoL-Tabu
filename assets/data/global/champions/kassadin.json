@@ -1,0 +1,68 @@
+{
+    "id": "kassadin",
+    "imageSlug": "Kassadin",
+    "key": "38",
+    "name": "Kassadin",
+    "skins": [
+        {
+            "id": "38000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "38001",
+            "num": 1,
+            "name": "Festival Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38002",
+            "num": 2,
+            "name": "Deep One Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38003",
+            "num": 3,
+            "name": "Pre-Void Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38004",
+            "num": 4,
+            "name": "Harbinger Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38005",
+            "num": 5,
+            "name": "Cosmic Reaver Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38006",
+            "num": 6,
+            "name": "Count Kassadin",
+            "chromas": true
+        },
+        {
+            "id": "38014",
+            "num": 14,
+            "name": "Hextech Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38015",
+            "num": 15,
+            "name": "Shockblade Kassadin",
+            "chromas": false
+        },
+        {
+            "id": "38024",
+            "num": 24,
+            "name": "Dragonmancer Kassadin",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "twistedfate",
+    "imageSlug": "TwistedFate",
+    "key": "4",
+    "name": "Twisted Fate",
+    "skins": [
+        {
+            "id": "4000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "4001",
+            "num": 1,
+            "name": "PAX Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4002",
+            "num": 2,
+            "name": "Jack of Hearts Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4003",
+            "num": 3,
+            "name": "The Magnificent Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4004",
+            "num": 4,
+            "name": "Tango Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4005",
+            "num": 5,
+            "name": "High Noon Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4006",
+            "num": 6,
+            "name": "Musketeer Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4007",
+            "num": 7,
+            "name": "Underworld Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4008",
+            "num": 8,
+            "name": "Red Card Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4009",
+            "num": 9,
+            "name": "Cutpurse Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4010",
+            "num": 10,
+            "name": "Blood Moon Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4011",
+            "num": 11,
+            "name": "Pulsefire Twisted Fate",
+            "chromas": true
+        },
+        {
+            "id": "4013",
+            "num": 13,
+            "name": "Odyssey Twisted Fate",
+            "chromas": true
+        },
+        {
+            "id": "4023",
+            "num": 23,
+            "name": "DWG Twisted Fate",
+            "chromas": true
+        },
+        {
+            "id": "4025",
+            "num": 25,
+            "name": "Crime City Nightmare Twisted Fate",
+            "chromas": true
+        },
+        {
+            "id": "4036",
+            "num": 36,
+            "name": "Space Groove Twisted Fate",
+            "chromas": false
+        },
+        {
+            "id": "4045",
+            "num": 45,
+            "name": "Victorious Twisted Fate",
+            "chromas": false
+        }
+    ]
+}

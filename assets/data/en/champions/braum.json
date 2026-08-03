@@ -1,0 +1,10 @@
+﻿{
+    "id": "braum",
+    "forbiddenWords": [
+        "Shield",
+        "Mustache",
+        "Freljord",
+        "Door",
+        "Poros"
+    ]
+}

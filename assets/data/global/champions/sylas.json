@@ -1,0 +1,68 @@
+{
+    "id": "sylas",
+    "imageSlug": "Sylas",
+    "key": "517",
+    "name": "Sylas",
+    "skins": [
+        {
+            "id": "517000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "517001",
+            "num": 1,
+            "name": "Lunar Wraith Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517008",
+            "num": 8,
+            "name": "Freljord Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517013",
+            "num": 13,
+            "name": "PROJECT: Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517014",
+            "num": 14,
+            "name": "Prestige PROJECT: Sylas",
+            "chromas": false
+        },
+        {
+            "id": "517024",
+            "num": 24,
+            "name": "Battle Wolf Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517034",
+            "num": 34,
+            "name": "Ashen Slayer Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517036",
+            "num": 36,
+            "name": "Winterblessed Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517046",
+            "num": 46,
+            "name": "Dark Star Sylas",
+            "chromas": true
+        },
+        {
+            "id": "517053",
+            "num": 53,
+            "name": "Prestige T1 Sylas",
+            "chromas": false
+        }
+    ]
+}

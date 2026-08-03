@@ -1,0 +1,10 @@
+﻿{
+    "id": "jayce",
+    "forbiddenWords": [
+        "Hammer",
+        "Cannon",
+        "Piltover",
+        "Viktor",
+        "Shock Blast"
+    ]
+}

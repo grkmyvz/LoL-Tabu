@@ -1,0 +1,44 @@
+{
+    "id": "ornn",
+    "imageSlug": "Ornn",
+    "key": "516",
+    "name": "Ornn",
+    "skins": [
+        {
+            "id": "516000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "516001",
+            "num": 1,
+            "name": "Thunder Lord Ornn",
+            "chromas": false
+        },
+        {
+            "id": "516002",
+            "num": 2,
+            "name": "Elderwood Ornn",
+            "chromas": true
+        },
+        {
+            "id": "516011",
+            "num": 11,
+            "name": "Space Groove Ornn",
+            "chromas": true
+        },
+        {
+            "id": "516020",
+            "num": 20,
+            "name": "Choo-Choo Ornn",
+            "chromas": true
+        },
+        {
+            "id": "516029",
+            "num": 29,
+            "name": "Aegis Frame Ornn",
+            "chromas": true
+        }
+    ]
+}

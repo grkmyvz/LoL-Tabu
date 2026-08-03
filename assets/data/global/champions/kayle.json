@@ -1,0 +1,122 @@
+{
+    "id": "kayle",
+    "imageSlug": "Kayle",
+    "key": "10",
+    "name": "Kayle",
+    "skins": [
+        {
+            "id": "10000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "10001",
+            "num": 1,
+            "name": "Silver Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10002",
+            "num": 2,
+            "name": "Viridian Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10003",
+            "num": 3,
+            "name": "Transcended Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10004",
+            "num": 4,
+            "name": "Battleborn Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10005",
+            "num": 5,
+            "name": "Judgment Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10006",
+            "num": 6,
+            "name": "Aether Wing Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10007",
+            "num": 7,
+            "name": "Riot Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10008",
+            "num": 8,
+            "name": "Iron Inquisitor Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10009",
+            "num": 9,
+            "name": "Pentakill Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10015",
+            "num": 15,
+            "name": "PsyOps Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10024",
+            "num": 24,
+            "name": "Dragonslayer Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10033",
+            "num": 33,
+            "name": "Pentakill III: Lost Chapter Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10042",
+            "num": 42,
+            "name": "Sun-Eater Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10057",
+            "num": 57,
+            "name": "Immortal Journey Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10066",
+            "num": 66,
+            "name": "Empyrean Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10067",
+            "num": 67,
+            "name": "Prestige Empyrean Kayle",
+            "chromas": false
+        },
+        {
+            "id": "10078",
+            "num": 78,
+            "name": "Spirit Blossom Kayle",
+            "chromas": true
+        },
+        {
+            "id": "10088",
+            "num": 88,
+            "name": "Founders Silver Kayle",
+            "chromas": false
+        }
+    ]
+}

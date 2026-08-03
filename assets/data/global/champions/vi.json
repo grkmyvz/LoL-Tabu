@@ -1,0 +1,92 @@
+{
+    "id": "vi",
+    "imageSlug": "Vi",
+    "key": "254",
+    "name": "Vi",
+    "skins": [
+        {
+            "id": "254000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "254001",
+            "num": 1,
+            "name": "Neon Strike Vi",
+            "chromas": false
+        },
+        {
+            "id": "254002",
+            "num": 2,
+            "name": "Officer Vi",
+            "chromas": true
+        },
+        {
+            "id": "254003",
+            "num": 3,
+            "name": "Debonair Vi",
+            "chromas": false
+        },
+        {
+            "id": "254004",
+            "num": 4,
+            "name": "Demon Vi",
+            "chromas": false
+        },
+        {
+            "id": "254005",
+            "num": 5,
+            "name": "Warring Kingdoms Vi",
+            "chromas": false
+        },
+        {
+            "id": "254011",
+            "num": 11,
+            "name": "PROJECT: Vi",
+            "chromas": false
+        },
+        {
+            "id": "254012",
+            "num": 12,
+            "name": "Heartbreaker Vi",
+            "chromas": true
+        },
+        {
+            "id": "254020",
+            "num": 20,
+            "name": "PsyOps Vi",
+            "chromas": true
+        },
+        {
+            "id": "254029",
+            "num": 29,
+            "name": "Arcane Undercity Vi",
+            "chromas": false
+        },
+        {
+            "id": "254030",
+            "num": 30,
+            "name": "Heartache Vi",
+            "chromas": true
+        },
+        {
+            "id": "254039",
+            "num": 39,
+            "name": "Primal Ambush Vi",
+            "chromas": true
+        },
+        {
+            "id": "254048",
+            "num": 48,
+            "name": "Arcane Brawler Vi",
+            "chromas": false
+        },
+        {
+            "id": "254049",
+            "num": 49,
+            "name": "T1 Vi",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "tahmkench",
+    "imageSlug": "TahmKench",
+    "key": "223",
+    "name": "Tahm Kench",
+    "skins": [
+        {
+            "id": "223000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "223001",
+            "num": 1,
+            "name": "Master Chef Tahm Kench",
+            "chromas": false
+        },
+        {
+            "id": "223002",
+            "num": 2,
+            "name": "Urf Kench",
+            "chromas": false
+        },
+        {
+            "id": "223003",
+            "num": 3,
+            "name": "Coin Emperor Tahm Kench",
+            "chromas": true
+        },
+        {
+            "id": "223011",
+            "num": 11,
+            "name": "Arcana Tahm Kench",
+            "chromas": false
+        },
+        {
+            "id": "223020",
+            "num": 20,
+            "name": "High Noon Tahm Kench",
+            "chromas": false
+        },
+        {
+            "id": "223030",
+            "num": 30,
+            "name": "Shan Hai Scrolls Tahm Kench",
+            "chromas": false
+        },
+        {
+            "id": "223039",
+            "num": 39,
+            "name": "Choncc Kench",
+            "chromas": false
+        }
+    ]
+}

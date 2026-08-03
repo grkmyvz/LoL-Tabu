@@ -1,0 +1,86 @@
+{
+    "id": "jayce",
+    "imageSlug": "Jayce",
+    "key": "126",
+    "name": "Jayce",
+    "skins": [
+        {
+            "id": "126000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "126001",
+            "num": 1,
+            "name": "Full Metal Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126002",
+            "num": 2,
+            "name": "Debonair Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126003",
+            "num": 3,
+            "name": "Forsaken Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126004",
+            "num": 4,
+            "name": "Jayce Brighthammer",
+            "chromas": false
+        },
+        {
+            "id": "126005",
+            "num": 5,
+            "name": "Battle Academia Jayce",
+            "chromas": true
+        },
+        {
+            "id": "126015",
+            "num": 15,
+            "name": "Resistance Jayce",
+            "chromas": true
+        },
+        {
+            "id": "126024",
+            "num": 24,
+            "name": "Arcane Inventor Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126025",
+            "num": 25,
+            "name": "Zenith Games Jayce",
+            "chromas": true
+        },
+        {
+            "id": "126034",
+            "num": 34,
+            "name": "T1 Jayce",
+            "chromas": true
+        },
+        {
+            "id": "126035",
+            "num": 35,
+            "name": "Arcane Survivor Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126036",
+            "num": 36,
+            "name": "Prestige T1 Jayce",
+            "chromas": false
+        },
+        {
+            "id": "126038",
+            "num": 38,
+            "name": "Petals of Spring Jayce",
+            "chromas": true
+        }
+    ]
+}

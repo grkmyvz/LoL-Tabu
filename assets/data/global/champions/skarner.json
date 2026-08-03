@@ -1,0 +1,50 @@
+{
+    "id": "skarner",
+    "imageSlug": "Skarner",
+    "key": "72",
+    "name": "Skarner",
+    "skins": [
+        {
+            "id": "72000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "72001",
+            "num": 1,
+            "name": "Sandscourge Skarner",
+            "chromas": false
+        },
+        {
+            "id": "72002",
+            "num": 2,
+            "name": "Earthrune Skarner",
+            "chromas": false
+        },
+        {
+            "id": "72003",
+            "num": 3,
+            "name": "Battlecast Alpha Skarner",
+            "chromas": false
+        },
+        {
+            "id": "72004",
+            "num": 4,
+            "name": "Guardian of the Sands Skarner",
+            "chromas": false
+        },
+        {
+            "id": "72005",
+            "num": 5,
+            "name": "Cosmic Sting Skarner",
+            "chromas": true
+        },
+        {
+            "id": "72014",
+            "num": 14,
+            "name": "Mecha Kingdoms Skarner",
+            "chromas": false
+        }
+    ]
+}

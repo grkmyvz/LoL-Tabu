@@ -1,0 +1,10 @@
+﻿{
+    "id": "bard",
+    "forbiddenWords": [
+        "Meeps",
+        "Chimes",
+        "Portal",
+        "Golden",
+        "Roam"
+    ]
+}

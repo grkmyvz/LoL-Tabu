@@ -1,0 +1,68 @@
+{
+    "id": "braum",
+    "imageSlug": "Braum",
+    "key": "201",
+    "name": "Braum",
+    "skins": [
+        {
+            "id": "201000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "201001",
+            "num": 1,
+            "name": "Dragonslayer Braum",
+            "chromas": true
+        },
+        {
+            "id": "201002",
+            "num": 2,
+            "name": "El Tigre Braum",
+            "chromas": false
+        },
+        {
+            "id": "201003",
+            "num": 3,
+            "name": "Braum Lionheart",
+            "chromas": false
+        },
+        {
+            "id": "201010",
+            "num": 10,
+            "name": "Santa Braum",
+            "chromas": false
+        },
+        {
+            "id": "201011",
+            "num": 11,
+            "name": "Crime City Braum",
+            "chromas": true
+        },
+        {
+            "id": "201024",
+            "num": 24,
+            "name": "Sugar Rush Braum",
+            "chromas": true
+        },
+        {
+            "id": "201033",
+            "num": 33,
+            "name": "Pool Party Braum",
+            "chromas": true
+        },
+        {
+            "id": "201042",
+            "num": 42,
+            "name": "Grill Master Braum",
+            "chromas": true
+        },
+        {
+            "id": "201051",
+            "num": 51,
+            "name": "Victorious Braum",
+            "chromas": true
+        }
+    ]
+}

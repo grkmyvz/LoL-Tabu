@@ -1,0 +1,10 @@
+﻿{
+    "id": "malphite",
+    "forbiddenWords": [
+        "Rock",
+        "Stone",
+        "Unstoppable",
+        "Armor",
+        "Knock Up"
+    ]
+}

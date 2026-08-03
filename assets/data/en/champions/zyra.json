@@ -1,0 +1,10 @@
+{
+    "id": "zyra",
+    "forbiddenWords": [
+        "Plants",
+        "Roots",
+        "Seeds",
+        "Thorns",
+        "Garden"
+    ]
+}

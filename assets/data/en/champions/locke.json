@@ -1,0 +1,10 @@
+﻿{
+    "id": "locke",
+    "forbiddenWords": [
+        "Nails",
+        "Exorcist",
+        "Purgatory",
+        "Demon",
+        "Execution"
+    ]
+}

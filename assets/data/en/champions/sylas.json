@@ -1,0 +1,10 @@
+{
+    "id": "sylas",
+    "forbiddenWords": [
+        "Chains",
+        "Ultimate",
+        "Steal",
+        "Demacia",
+        "Prison"
+    ]
+}

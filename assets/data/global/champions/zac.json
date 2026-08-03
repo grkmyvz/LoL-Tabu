@@ -1,0 +1,56 @@
+{
+    "id": "zac",
+    "imageSlug": "Zac",
+    "key": "154",
+    "name": "Zac",
+    "skins": [
+        {
+            "id": "154000",
+            "num": 0,
+            "name": "default",
+            "chromas": true
+        },
+        {
+            "id": "154001",
+            "num": 1,
+            "name": "Special Weapon Zac",
+            "chromas": false
+        },
+        {
+            "id": "154002",
+            "num": 2,
+            "name": "Pool Party Zac",
+            "chromas": false
+        },
+        {
+            "id": "154006",
+            "num": 6,
+            "name": "SKT T1 Zac",
+            "chromas": false
+        },
+        {
+            "id": "154007",
+            "num": 7,
+            "name": "Battlecast Zac",
+            "chromas": true
+        },
+        {
+            "id": "154014",
+            "num": 14,
+            "name": "Empyrean Zac",
+            "chromas": true
+        },
+        {
+            "id": "154024",
+            "num": 24,
+            "name": "Zesty Dip Zac",
+            "chromas": true
+        },
+        {
+            "id": "154033",
+            "num": 33,
+            "name": "Space Groove Zac",
+            "chromas": true
+        }
+    ]
+}

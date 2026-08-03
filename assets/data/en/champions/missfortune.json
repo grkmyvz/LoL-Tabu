@@ -1,0 +1,10 @@
+﻿{
+    "id": "missfortune",
+    "forbiddenWords": [
+        "Guns",
+        "Bullet Time",
+        "Bilgewater",
+        "Pirate",
+        "Sarah"
+    ]
+}

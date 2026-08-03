@@ -1,0 +1,98 @@
+{
+    "id": "malphite",
+    "imageSlug": "Malphite",
+    "key": "54",
+    "name": "Malphite",
+    "skins": [
+        {
+            "id": "54000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "54001",
+            "num": 1,
+            "name": "Shamrock Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54002",
+            "num": 2,
+            "name": "Coral Reef Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54003",
+            "num": 3,
+            "name": "Marble Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54004",
+            "num": 4,
+            "name": "Obsidian Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54005",
+            "num": 5,
+            "name": "Glacial Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54006",
+            "num": 6,
+            "name": "Mecha Malphite",
+            "chromas": true
+        },
+        {
+            "id": "54007",
+            "num": 7,
+            "name": "Ironside Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54016",
+            "num": 16,
+            "name": "Odyssey Malphite",
+            "chromas": true
+        },
+        {
+            "id": "54023",
+            "num": 23,
+            "name": "Dark Star Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54024",
+            "num": 24,
+            "name": "Prestige Dark Star Malphite",
+            "chromas": false
+        },
+        {
+            "id": "54025",
+            "num": 25,
+            "name": "FPX Malphite",
+            "chromas": true
+        },
+        {
+            "id": "54027",
+            "num": 27,
+            "name": "Old God Malphite",
+            "chromas": true
+        },
+        {
+            "id": "54037",
+            "num": 37,
+            "name": "Lunar Guardian Malphite",
+            "chromas": true
+        },
+        {
+            "id": "54048",
+            "num": 48,
+            "name": "Pool Party Malphite",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "belveth",
+    "imageSlug": "Belveth",
+    "key": "200",
+    "name": "Bel'Veth",
+    "skins": [
+        {
+            "id": "200000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "200001",
+            "num": 1,
+            "name": "Battle Boss Bel'Veth",
+            "chromas": true
+        },
+        {
+            "id": "200010",
+            "num": 10,
+            "name": "Cosmic Matriarch Bel'Veth",
+            "chromas": true
+        },
+        {
+            "id": "200019",
+            "num": 19,
+            "name": "Primordian Bel'Veth",
+            "chromas": true
+        }
+    ]
+}

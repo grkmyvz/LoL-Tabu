@@ -1,0 +1,110 @@
+{
+    "id": "shaco",
+    "imageSlug": "Shaco",
+    "key": "35",
+    "name": "Shaco",
+    "skins": [
+        {
+            "id": "35000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "35001",
+            "num": 1,
+            "name": "Mad Hatter Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35002",
+            "num": 2,
+            "name": "Royal Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35003",
+            "num": 3,
+            "name": "Nutcracko",
+            "chromas": false
+        },
+        {
+            "id": "35004",
+            "num": 4,
+            "name": "Workshop Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35005",
+            "num": 5,
+            "name": "Asylum Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35006",
+            "num": 6,
+            "name": "Masked Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35007",
+            "num": 7,
+            "name": "Wild Card Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35008",
+            "num": 8,
+            "name": "Dark Star Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35015",
+            "num": 15,
+            "name": "Arcanist Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35023",
+            "num": 23,
+            "name": "Crime City Nightmare Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35033",
+            "num": 33,
+            "name": "Winterblessed Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35043",
+            "num": 43,
+            "name": "Soul Fighter Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35044",
+            "num": 44,
+            "name": "Prestige Soul Fighter Shaco",
+            "chromas": false
+        },
+        {
+            "id": "35054",
+            "num": 54,
+            "name": "Fright Night Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35064",
+            "num": 64,
+            "name": "Cat-in-the-Box Shaco",
+            "chromas": true
+        },
+        {
+            "id": "35071",
+            "num": 71,
+            "name": "Prestige Pandemonium Shaco",
+            "chromas": true
+        }
+    ]
+}

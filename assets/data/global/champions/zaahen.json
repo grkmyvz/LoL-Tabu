@@ -1,0 +1,20 @@
+{
+    "id": "zaahen",
+    "imageSlug": "Zaahen",
+    "key": "904",
+    "name": "Zaahen",
+    "skins": [
+        {
+            "id": "904000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "904001",
+            "num": 1,
+            "name": "Immortal Journey Zaahen",
+            "chromas": true
+        }
+    ]
+}

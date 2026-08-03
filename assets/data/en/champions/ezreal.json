@@ -1,0 +1,10 @@
+﻿{
+    "id": "ezreal",
+    "forbiddenWords": [
+        "Gauntlet",
+        "Explorer",
+        "Mystic Shot",
+        "Blink",
+        "Arcane"
+    ]
+}

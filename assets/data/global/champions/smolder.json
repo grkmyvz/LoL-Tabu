@@ -1,0 +1,26 @@
+{
+    "id": "smolder",
+    "imageSlug": "Smolder",
+    "key": "901",
+    "name": "Smolder",
+    "skins": [
+        {
+            "id": "901000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "901001",
+            "num": 1,
+            "name": "Heavenscale Smolder",
+            "chromas": true
+        },
+        {
+            "id": "901011",
+            "num": 11,
+            "name": "Reindeer Smolder",
+            "chromas": true
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "nocturne",
+    "forbiddenWords": [
+        "Darkness",
+        "Nightmare",
+        "Fear",
+        "Global Ult",
+        "Spell Shield"
+    ]
+}

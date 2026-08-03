@@ -1,0 +1,10 @@
+{
+    "id": "milio",
+    "forbiddenWords": [
+        "Ateş",
+        "Fuemigo",
+        "Ixtal",
+        "Temizlemek",
+        "Sırt çantası"
+    ]
+}

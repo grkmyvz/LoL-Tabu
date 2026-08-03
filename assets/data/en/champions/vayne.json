@@ -1,0 +1,10 @@
+{
+    "id": "vayne",
+    "forbiddenWords": [
+        "Crossbow",
+        "Tumble",
+        "Silver Bolts",
+        "True Damage",
+        "Condemn"
+    ]
+}

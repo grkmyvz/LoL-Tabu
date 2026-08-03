@@ -1,0 +1,10 @@
+{
+    "id": "shaco",
+    "forbiddenWords": [
+        "Clown",
+        "Boxes",
+        "Clone",
+        "Backstab",
+        "Invisible"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "rengar",
+    "forbiddenWords": [
+        "Bush",
+        "Leap",
+        "Trophy",
+        "Hunter",
+        "Kha'Zix"
+    ]
+}

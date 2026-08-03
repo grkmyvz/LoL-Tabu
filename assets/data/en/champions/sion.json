@@ -1,0 +1,10 @@
+{
+    "id": "sion",
+    "forbiddenWords": [
+        "Zombie",
+        "Axe",
+        "Charge",
+        "Noxus",
+        "Undead"
+    ]
+}

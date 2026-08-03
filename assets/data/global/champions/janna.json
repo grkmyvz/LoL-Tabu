@@ -1,0 +1,110 @@
+{
+    "id": "janna",
+    "imageSlug": "Janna",
+    "key": "40",
+    "name": "Janna",
+    "skins": [
+        {
+            "id": "40000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "40001",
+            "num": 1,
+            "name": "Tempest Janna",
+            "chromas": false
+        },
+        {
+            "id": "40002",
+            "num": 2,
+            "name": "Hextech Janna",
+            "chromas": false
+        },
+        {
+            "id": "40003",
+            "num": 3,
+            "name": "Frost Queen Janna",
+            "chromas": false
+        },
+        {
+            "id": "40004",
+            "num": 4,
+            "name": "Victorious Janna",
+            "chromas": false
+        },
+        {
+            "id": "40005",
+            "num": 5,
+            "name": "Forecast Janna",
+            "chromas": false
+        },
+        {
+            "id": "40006",
+            "num": 6,
+            "name": "Fnatic Janna",
+            "chromas": false
+        },
+        {
+            "id": "40007",
+            "num": 7,
+            "name": "Star Guardian Janna",
+            "chromas": false
+        },
+        {
+            "id": "40008",
+            "num": 8,
+            "name": "Sacred Sword Janna",
+            "chromas": true
+        },
+        {
+            "id": "40013",
+            "num": 13,
+            "name": "Bewitching Janna",
+            "chromas": true
+        },
+        {
+            "id": "40020",
+            "num": 20,
+            "name": "Guardian of the Sands Janna",
+            "chromas": true
+        },
+        {
+            "id": "40027",
+            "num": 27,
+            "name": "Battle Queen Janna",
+            "chromas": true
+        },
+        {
+            "id": "40036",
+            "num": 36,
+            "name": "Crystal Rose Janna",
+            "chromas": true
+        },
+        {
+            "id": "40045",
+            "num": 45,
+            "name": "Cyber Halo Janna",
+            "chromas": true
+        },
+        {
+            "id": "40046",
+            "num": 46,
+            "name": "Prestige Cyber Halo Janna",
+            "chromas": false
+        },
+        {
+            "id": "40056",
+            "num": 56,
+            "name": "Heavenscale Janna",
+            "chromas": true
+        },
+        {
+            "id": "40066",
+            "num": 66,
+            "name": "Dawnbringer Janna",
+            "chromas": false
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": "urgot",
+    "imageSlug": "Urgot",
+    "key": "6",
+    "name": "Urgot",
+    "skins": [
+        {
+            "id": "6000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "6001",
+            "num": 1,
+            "name": "Giant Enemy Crabgot",
+            "chromas": false
+        },
+        {
+            "id": "6002",
+            "num": 2,
+            "name": "Butcher Urgot",
+            "chromas": false
+        },
+        {
+            "id": "6003",
+            "num": 3,
+            "name": "Battlecast Urgot",
+            "chromas": true
+        },
+        {
+            "id": "6009",
+            "num": 9,
+            "name": "High Noon Urgot",
+            "chromas": true
+        },
+        {
+            "id": "6015",
+            "num": 15,
+            "name": "Pajama Guardian Cosplay Urgot",
+            "chromas": true
+        },
+        {
+            "id": "6023",
+            "num": 23,
+            "name": "Fright Night Urgot",
+            "chromas": true
+        },
+        {
+            "id": "6032",
+            "num": 32,
+            "name": "Urgot the Clogfather",
+            "chromas": true
+        }
+    ]
+}

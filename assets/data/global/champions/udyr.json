@@ -1,0 +1,50 @@
+{
+    "id": "udyr",
+    "imageSlug": "Udyr",
+    "key": "77",
+    "name": "Udyr",
+    "skins": [
+        {
+            "id": "77000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "77001",
+            "num": 1,
+            "name": "Black Belt Udyr",
+            "chromas": false
+        },
+        {
+            "id": "77002",
+            "num": 2,
+            "name": "Primal Udyr",
+            "chromas": false
+        },
+        {
+            "id": "77003",
+            "num": 3,
+            "name": "Spirit Guard Udyr",
+            "chromas": false
+        },
+        {
+            "id": "77004",
+            "num": 4,
+            "name": "Definitely Not Udyr",
+            "chromas": false
+        },
+        {
+            "id": "77005",
+            "num": 5,
+            "name": "Dragon Oracle Udyr",
+            "chromas": false
+        },
+        {
+            "id": "77006",
+            "num": 6,
+            "name": "Inkshadow Udyr",
+            "chromas": true
+        }
+    ]
+}

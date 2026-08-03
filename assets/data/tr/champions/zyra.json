@@ -1,0 +1,10 @@
+{
+    "id": "zyra",
+    "forbiddenWords": [
+        "Bitkiler",
+        "Kökler",
+        "Tohumlar",
+        "Dikenler",
+        "Bahçe"
+    ]
+}

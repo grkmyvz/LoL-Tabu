@@ -1,0 +1,10 @@
+﻿{
+    "id": "mel",
+    "forbiddenWords": [
+        "Reflect",
+        "Medarda",
+        "Arcane",
+        "Golden",
+        "Noxus"
+    ]
+}

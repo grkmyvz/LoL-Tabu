@@ -1,0 +1,86 @@
+{
+    "id": "nunu",
+    "imageSlug": "Nunu",
+    "key": "20",
+    "name": "Nunu & Willump",
+    "skins": [
+        {
+            "id": "20000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "20001",
+            "num": 1,
+            "name": "Sasquatch Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20002",
+            "num": 2,
+            "name": "Workshop Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20003",
+            "num": 3,
+            "name": "Grungy Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20004",
+            "num": 4,
+            "name": "Nunu & Willump Bot",
+            "chromas": false
+        },
+        {
+            "id": "20005",
+            "num": 5,
+            "name": "Demolisher Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20006",
+            "num": 6,
+            "name": "TPA Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20007",
+            "num": 7,
+            "name": "Zombie Nunu & Willump",
+            "chromas": false
+        },
+        {
+            "id": "20008",
+            "num": 8,
+            "name": "Papercraft Nunu & Willump",
+            "chromas": true
+        },
+        {
+            "id": "20016",
+            "num": 16,
+            "name": "Space Groove Nunu & Willump",
+            "chromas": true
+        },
+        {
+            "id": "20026",
+            "num": 26,
+            "name": "Nunu & Beelump",
+            "chromas": true
+        },
+        {
+            "id": "20035",
+            "num": 35,
+            "name": "Cosmic Paladins Nunu & Willump",
+            "chromas": true
+        },
+        {
+            "id": "20044",
+            "num": 44,
+            "name": "Fright Night Nunu & Willump",
+            "chromas": true
+        }
+    ]
+}

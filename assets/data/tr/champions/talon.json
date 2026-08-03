@@ -1,0 +1,10 @@
+{
+    "id": "talon",
+    "forbiddenWords": [
+        "Parkur",
+        "Bıçaklar",
+        "Noxus'ta",
+        "Suikastçı",
+        "Kanama"
+    ]
+}

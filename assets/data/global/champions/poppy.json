@@ -1,0 +1,92 @@
+{
+    "id": "poppy",
+    "imageSlug": "Poppy",
+    "key": "78",
+    "name": "Poppy",
+    "skins": [
+        {
+            "id": "78000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "78001",
+            "num": 1,
+            "name": "Noxus Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78002",
+            "num": 2,
+            "name": "Lollipoppy",
+            "chromas": false
+        },
+        {
+            "id": "78003",
+            "num": 3,
+            "name": "Blacksmith Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78004",
+            "num": 4,
+            "name": "Ragdoll Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78005",
+            "num": 5,
+            "name": "Battle Regalia Poppy",
+            "chromas": true
+        },
+        {
+            "id": "78006",
+            "num": 6,
+            "name": "Scarlet Hammer Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78007",
+            "num": 7,
+            "name": "Star Guardian Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78014",
+            "num": 14,
+            "name": "Snow Fawn Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78015",
+            "num": 15,
+            "name": "Hextech Poppy",
+            "chromas": false
+        },
+        {
+            "id": "78016",
+            "num": 16,
+            "name": "Astronaut Poppy",
+            "chromas": true
+        },
+        {
+            "id": "78024",
+            "num": 24,
+            "name": "Bewitching Poppy",
+            "chromas": true
+        },
+        {
+            "id": "78033",
+            "num": 33,
+            "name": "Cafe Cuties Poppy",
+            "chromas": true
+        },
+        {
+            "id": "78042",
+            "num": 42,
+            "name": "Firecracker Poppy",
+            "chromas": true
+        }
+    ]
+}

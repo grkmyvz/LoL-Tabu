@@ -1,0 +1,10 @@
+{
+    "id": "twitch",
+    "forbiddenWords": [
+        "Rat",
+        "Poison",
+        "Invisible",
+        "Crossbow",
+        "Spray and Pray"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "darius",
+    "forbiddenWords": [
+        "Axe",
+        "Noxus",
+        "Dunk",
+        "Bleed",
+        "Guillotine"
+    ]
+}

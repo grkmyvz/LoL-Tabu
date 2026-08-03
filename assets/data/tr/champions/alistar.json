@@ -1,0 +1,10 @@
+{
+    "id": "alistar",
+    "forbiddenWords": [
+        "Boğa",
+        "İnek",
+        "Kafa atma",
+        "Tank",
+        "Destek"
+    ]
+}

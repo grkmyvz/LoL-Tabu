@@ -1,0 +1,10 @@
+{
+    "id": "ziggs",
+    "forbiddenWords": [
+        "Bomb",
+        "Explosives",
+        "Satchel",
+        "Yordle",
+        "Demolitions"
+    ]
+}

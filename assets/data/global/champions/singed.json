@@ -1,0 +1,86 @@
+{
+    "id": "singed",
+    "imageSlug": "Singed",
+    "key": "27",
+    "name": "Singed",
+    "skins": [
+        {
+            "id": "27000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "27001",
+            "num": 1,
+            "name": "Riot Squad Singed",
+            "chromas": false
+        },
+        {
+            "id": "27002",
+            "num": 2,
+            "name": "Hextech Singed",
+            "chromas": false
+        },
+        {
+            "id": "27003",
+            "num": 3,
+            "name": "Surfer Singed",
+            "chromas": false
+        },
+        {
+            "id": "27004",
+            "num": 4,
+            "name": "Mad Scientist Singed",
+            "chromas": false
+        },
+        {
+            "id": "27005",
+            "num": 5,
+            "name": "Augmented Singed",
+            "chromas": false
+        },
+        {
+            "id": "27006",
+            "num": 6,
+            "name": "Snow Day Singed",
+            "chromas": false
+        },
+        {
+            "id": "27007",
+            "num": 7,
+            "name": "SSW Singed",
+            "chromas": false
+        },
+        {
+            "id": "27008",
+            "num": 8,
+            "name": "Black Scourge Singed",
+            "chromas": false
+        },
+        {
+            "id": "27009",
+            "num": 9,
+            "name": "Beekeeper Singed",
+            "chromas": false
+        },
+        {
+            "id": "27010",
+            "num": 10,
+            "name": "Resistance Singed",
+            "chromas": true
+        },
+        {
+            "id": "27019",
+            "num": 19,
+            "name": "Astronaut Singed",
+            "chromas": true
+        },
+        {
+            "id": "27028",
+            "num": 28,
+            "name": "Arcane Shimmer Lab Singed",
+            "chromas": false
+        }
+    ]
+}

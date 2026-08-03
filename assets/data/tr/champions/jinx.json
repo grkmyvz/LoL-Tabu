@@ -1,0 +1,10 @@
+{
+    "id": "jinx",
+    "forbiddenWords": [
+        "Toz",
+        "Roket",
+        "Zaun",
+        "Gizemli",
+        "Vi"
+    ]
+}

@@ -1,0 +1,10 @@
+﻿{
+    "id": "rell",
+    "forbiddenWords": [
+        "Horse",
+        "Magnet",
+        "Metal",
+        "Lance",
+        "Noxus"
+    ]
+}

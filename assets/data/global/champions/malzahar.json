@@ -1,0 +1,92 @@
+{
+    "id": "malzahar",
+    "imageSlug": "Malzahar",
+    "key": "90",
+    "name": "Malzahar",
+    "skins": [
+        {
+            "id": "90000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "90001",
+            "num": 1,
+            "name": "Vizier Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90002",
+            "num": 2,
+            "name": "Shadow Prince Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90003",
+            "num": 3,
+            "name": "Djinn Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90004",
+            "num": 4,
+            "name": "Overlord Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90005",
+            "num": 5,
+            "name": "Snow Day Malzahar",
+            "chromas": true
+        },
+        {
+            "id": "90006",
+            "num": 6,
+            "name": "Battle Boss Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90007",
+            "num": 7,
+            "name": "Hextech Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90009",
+            "num": 9,
+            "name": "Worldbreaker Malzahar",
+            "chromas": true
+        },
+        {
+            "id": "90018",
+            "num": 18,
+            "name": "Beezahar",
+            "chromas": true
+        },
+        {
+            "id": "90028",
+            "num": 28,
+            "name": "Debonair Malzahar",
+            "chromas": true
+        },
+        {
+            "id": "90038",
+            "num": 38,
+            "name": "Three Honors Malzahar",
+            "chromas": false
+        },
+        {
+            "id": "90039",
+            "num": 39,
+            "name": "Empyrean Malzahar",
+            "chromas": true
+        },
+        {
+            "id": "90049",
+            "num": 49,
+            "name": "Fatebreaker Malzahar",
+            "chromas": true
+        }
+    ]
+}

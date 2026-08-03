@@ -1,0 +1,128 @@
+{
+    "id": "katarina",
+    "imageSlug": "Katarina",
+    "key": "55",
+    "name": "Katarina",
+    "skins": [
+        {
+            "id": "55000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "55001",
+            "num": 1,
+            "name": "Mercenary Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55002",
+            "num": 2,
+            "name": "Red Card Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55003",
+            "num": 3,
+            "name": "Bilgewater Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55004",
+            "num": 4,
+            "name": "Kitty Cat Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55005",
+            "num": 5,
+            "name": "High Command Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55006",
+            "num": 6,
+            "name": "Sandstorm Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55007",
+            "num": 7,
+            "name": "Slay Belle Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55008",
+            "num": 8,
+            "name": "Warring Kingdoms Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55009",
+            "num": 9,
+            "name": "PROJECT: Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55010",
+            "num": 10,
+            "name": "Death Sworn Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55012",
+            "num": 12,
+            "name": "Battle Academia Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55021",
+            "num": 21,
+            "name": "Blood Moon Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55029",
+            "num": 29,
+            "name": "Battle Queen Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55037",
+            "num": 37,
+            "name": "High Noon Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55047",
+            "num": 47,
+            "name": "Faerie Court Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55048",
+            "num": 48,
+            "name": "Prestige Faerie Court Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55059",
+            "num": 59,
+            "name": "Chosen of the Wolf Katarina",
+            "chromas": false
+        },
+        {
+            "id": "55060",
+            "num": 60,
+            "name": "Prestige Masque of the Black Rose Katarina",
+            "chromas": true
+        },
+        {
+            "id": "55070",
+            "num": 70,
+            "name": "Petals of Spring Katarina",
+            "chromas": false
+        }
+    ]
+}

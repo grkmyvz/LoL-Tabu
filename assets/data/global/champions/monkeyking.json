@@ -1,0 +1,68 @@
+{
+    "id": "monkeyking",
+    "imageSlug": "MonkeyKing",
+    "key": "62",
+    "name": "Wukong",
+    "skins": [
+        {
+            "id": "62000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "62001",
+            "num": 1,
+            "name": "Volcanic Wukong",
+            "chromas": false
+        },
+        {
+            "id": "62002",
+            "num": 2,
+            "name": "General Wukong",
+            "chromas": false
+        },
+        {
+            "id": "62003",
+            "num": 3,
+            "name": "Jade Dragon Wukong",
+            "chromas": true
+        },
+        {
+            "id": "62004",
+            "num": 4,
+            "name": "Underworld Wukong",
+            "chromas": true
+        },
+        {
+            "id": "62005",
+            "num": 5,
+            "name": "Radiant Wukong",
+            "chromas": false
+        },
+        {
+            "id": "62006",
+            "num": 6,
+            "name": "Lancer Stratus Wukong",
+            "chromas": false
+        },
+        {
+            "id": "62007",
+            "num": 7,
+            "name": "Battle Academia Wukong",
+            "chromas": true
+        },
+        {
+            "id": "62016",
+            "num": 16,
+            "name": "Elderwood Wukong",
+            "chromas": true
+        },
+        {
+            "id": "62026",
+            "num": 26,
+            "name": "Mecha Kingdoms Wukong",
+            "chromas": true
+        }
+    ]
+}

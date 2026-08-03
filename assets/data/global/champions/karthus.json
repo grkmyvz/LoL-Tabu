@@ -1,0 +1,74 @@
+{
+    "id": "karthus",
+    "imageSlug": "Karthus",
+    "key": "30",
+    "name": "Karthus",
+    "skins": [
+        {
+            "id": "30000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "30001",
+            "num": 1,
+            "name": "Phantom Karthus",
+            "chromas": false
+        },
+        {
+            "id": "30002",
+            "num": 2,
+            "name": "Statue of Karthus",
+            "chromas": false
+        },
+        {
+            "id": "30003",
+            "num": 3,
+            "name": "Grim Reaper Karthus",
+            "chromas": true
+        },
+        {
+            "id": "30004",
+            "num": 4,
+            "name": "Pentakill Karthus",
+            "chromas": false
+        },
+        {
+            "id": "30005",
+            "num": 5,
+            "name": "Fnatic Karthus",
+            "chromas": false
+        },
+        {
+            "id": "30009",
+            "num": 9,
+            "name": "Karthus Lightsbane",
+            "chromas": false
+        },
+        {
+            "id": "30010",
+            "num": 10,
+            "name": "Infernal Karthus",
+            "chromas": true
+        },
+        {
+            "id": "30017",
+            "num": 17,
+            "name": "Pentakill III: Lost Chapter Karthus",
+            "chromas": true
+        },
+        {
+            "id": "30026",
+            "num": 26,
+            "name": "Elderwood Karthus",
+            "chromas": true
+        },
+        {
+            "id": "30035",
+            "num": 35,
+            "name": "Arcana Karthus",
+            "chromas": true
+        }
+    ]
+}

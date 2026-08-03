@@ -1,0 +1,10 @@
+﻿{
+    "id": "pantheon",
+    "forbiddenWords": [
+        "Spear",
+        "Shield",
+        "Spartan",
+        "Targon",
+        "Atreus"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "rumble",
+    "forbiddenWords": [
+        "Makine",
+        "Sıcaklık",
+        "Aşırı ısınma",
+        "Alev makinesi",
+        "Ekolayzer"
+    ]
+}

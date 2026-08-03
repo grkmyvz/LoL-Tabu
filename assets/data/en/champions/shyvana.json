@@ -1,0 +1,10 @@
+{
+    "id": "shyvana",
+    "forbiddenWords": [
+        "Dragon",
+        "Fire",
+        "Half-Dragon",
+        "Demacia",
+        "Jarvan IV"
+    ]
+}

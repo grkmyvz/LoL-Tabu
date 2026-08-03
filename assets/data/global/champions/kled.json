@@ -1,0 +1,38 @@
+{
+    "id": "kled",
+    "imageSlug": "Kled",
+    "key": "240",
+    "name": "Kled",
+    "skins": [
+        {
+            "id": "240000",
+            "num": 0,
+            "name": "default",
+            "chromas": false
+        },
+        {
+            "id": "240001",
+            "num": 1,
+            "name": "Sir Kled",
+            "chromas": false
+        },
+        {
+            "id": "240002",
+            "num": 2,
+            "name": "Count Kledula",
+            "chromas": true
+        },
+        {
+            "id": "240009",
+            "num": 9,
+            "name": "Marauder Kled",
+            "chromas": true
+        },
+        {
+            "id": "240018",
+            "num": 18,
+            "name": "Kibble-Head Kled",
+            "chromas": true
+        }
+    ]
+}

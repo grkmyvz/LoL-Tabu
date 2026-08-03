@@ -1,0 +1,10 @@
+{
+    "id": "brand",
+    "forbiddenWords": [
+        "Ateş",
+        "Yakmak",
+        "Stun",
+        "Alevler",
+        "Patlama"
+    ]
+}
