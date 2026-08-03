@@ -51,8 +51,42 @@
       background: var(--chrome-bg);
     }
 
-    body > flutter-view,
-    body > flt-glass-pane {
+    #desktop-host {
+      display: none;
+    }
+
+    @media (min-width: 760px) {
+      body.desktop-shell {
+        display: grid;
+        place-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+      }
+
+      body.desktop-shell #desktop-host {
+        display: block;
+      }
+
+      body.desktop-shell .phone-frame {
+        width: min(var(--phone-max-width), calc((100vh - 40px) * 9 / 19.5), calc(100vw - 40px)) !important;
+        height: min(var(--phone-max-height), calc(100vh - 40px), calc((100vw - 40px) * 19.5 / 9)) !important;
+        aspect-ratio: var(--phone-aspect);
+        border-radius: var(--phone-radius);
+        overflow: hidden;
+        box-shadow: 0 20px 48px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.08);
+        background: #050816;
+      }
+
+      body.desktop-shell .phone-frame iframe {
+        display: block;
+        width: 100%;
+        height: 100%;
+        border: 0;
+      }
+    }
+
+    body.embedded flutter-view,
+    body.embedded flt-glass-pane {
       width: 100vw !important;
       height: 100vh !important;
       max-width: 100vw !important;
@@ -64,46 +98,75 @@
       box-shadow: none;
     }
 
-    @media (min-width: 760px) {
-      body {
-        display: grid;
-        place-items: center;
-        padding: 20px;
-        box-sizing: border-box;
-      }
+    body.embedded flt-glass-pane > flt-scene-host,
+    body.embedded flt-glass-pane canvas,
+    body.embedded flutter-view canvas {
+      display: block;
+      width: 100% !important;
+      height: 100% !important;
+    }
 
-      body > flutter-view,
-      body > flt-glass-pane {
-        position: relative !important;
-        inset: auto !important;
-        width: min(var(--phone-max-width), calc((100vh - 40px) * 9 / 19.5), calc(100vw - 40px)) !important;
-        height: min(var(--phone-max-height), calc(100vh - 40px), calc((100vw - 40px) * 19.5 / 9)) !important;
-        aspect-ratio: var(--phone-aspect);
-        border-radius: var(--phone-radius);
-        overflow: hidden;
-        box-shadow: 0 20px 48px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.08);
-      }
+    body:not(.desktop-shell):not(.embedded) flutter-view,
+    body:not(.desktop-shell):not(.embedded) flt-glass-pane {
+      width: 100vw !important;
+      height: 100vh !important;
+      max-width: 100vw !important;
+      max-height: 100vh !important;
+      inset: 0 !important;
+      margin: 0 !important;
+      border-radius: 0;
+      overflow: hidden;
+      box-shadow: none;
+    }
 
-      body > flt-glass-pane > flt-scene-host,
-      body > flt-glass-pane canvas,
-      body > flutter-view canvas {
+    body:not(.desktop-shell):not(.embedded) flt-glass-pane > flt-scene-host,
+    body:not(.desktop-shell):not(.embedded) flt-glass-pane canvas,
+    body:not(.desktop-shell):not(.embedded) flutter-view canvas {
+      display: block;
         width: 100% !important;
         height: 100% !important;
-      }
     }
   </style>
 </head>
 
 <body>
-  <!--
-    You can customize the "flutter_bootstrap.js" script.
-    This is useful to provide a custom configuration to the Flutter loader
-    or to give the user feedback during the initialization process.
+  <div id="desktop-host" aria-hidden="true">
+    <div class="phone-frame">
+      <iframe id="phone-app-frame" title="LoL Tabu phone viewport"></iframe>
+    </div>
+  </div>
 
-    For more details:
-    * https://docs.flutter.dev/platform-integration/web/initialization
-  -->
-  <script src="flutter_bootstrap.js" async></script>
+  <script>
+    (function () {
+      const params = new URLSearchParams(window.location.search);
+      const isEmbedded = params.get("embedded") === "1";
+      const isDesktop = window.matchMedia("(min-width: 760px)").matches;
+
+      if (isDesktop && !isEmbedded) {
+        document.body.classList.add("desktop-shell");
+
+        const iframe = document.getElementById("phone-app-frame");
+        const embeddedUrl = new URL(window.location.href);
+        embeddedUrl.searchParams.set("embedded", "1");
+        iframe.src = embeddedUrl.toString();
+        return;
+      }
+
+      if (isEmbedded) {
+        document.body.classList.add("embedded");
+      }
+
+      const desktopHost = document.getElementById("desktop-host");
+      if (desktopHost) {
+        desktopHost.remove();
+      }
+
+      const flutterScript = document.createElement("script");
+      flutterScript.src = "flutter_bootstrap.js";
+      flutterScript.async = true;
+      document.body.appendChild(flutterScript);
+    })();
+  </script>
 </body>
 
 </html>
